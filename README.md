@@ -12,6 +12,6 @@
 | --- | -- |
 | Thursdays 17:30 | [Zoom](https://zoom.us/j/4045113194) |
 
-## To-do's
+## Tasks
 
-Use the [Issues](https://github.com/RL4LMT/Project/issues) page as a to-do list. If nobody has taken on a task yet, you can do so by assigning yourself to it. Please use labels (`to do`, `bug`...) when creating a new issue.
+Use the [Issues](https://github.com/RL4LMT/Project/issues) page as a to-do list. Please use labels (`task`, `bug`...) when creating a new issue. If nobody has taken on a task yet, you can do so by assigning yourself to it. You can also join other people and share the same task.
