@@ -23,7 +23,7 @@
 - Analyze the perfoemance of the model
 - 
 **Result:**
-- ISCL style paper (up to 8 pages)
+- ACL style paper (up to 8 pages)
 - This repo with documneted code
 - Annotated dataset
 
