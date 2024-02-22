@@ -3,10 +3,12 @@
 ## Meeting with Polina 15.02
 
 **Reseach questions:**
-- What helpfullness really is?
+- What helpfullness really is? ???
 - Does it coincide with our componentwise annotation?
 - Which categories (components) are most important?
-- 
+- How components correlate to the catgeories?
+- Own idea?
+  
 **Annotation:**
 - Actually less than 25% of the dataset
 - Pick 3 categories
