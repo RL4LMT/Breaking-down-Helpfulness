@@ -2,15 +2,18 @@
 
 ## Meeting with Polina 15.02
 
-**Reseacrh questions:**
+**Reseach questions:**
 - What helpfullness really is?
 - Does it coincide with our componentwise annotation?
 - Which categories (components) are most important?
 - 
 **Annotation:**
 - Actually less than 25% of the dataset
-- Find a subset of 3-4 least arguable task types (through 50 items & per-task inter-annotator agreement)
-- Is the category relevant? If yes -> 1/0
+- Pick 3 categories
+- Find a subset of 3-4 least arguable commponents (through 50 items & per-task inter-annotator agreement)
+- Is the component (length, info, etc.) relevant? -> 1/0
+  - If yes -> does the answer satisfy  the aspect?-> 1/0 Giulio Cusenza asks Polina
+  - If not -> null
 
 **LLM Experiments**:
 - Generate answers with a pretrained LLM of our choise (100)
