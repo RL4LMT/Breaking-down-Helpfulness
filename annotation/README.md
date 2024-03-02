@@ -1,7 +1,7 @@
 # Annotation guidelines
 
-1. Download `data\databricks-dolly-50.json`
-2. Download `annotation\databricks-dolly-50-name.csv` and rename it with your name
+1. Download `data\databricks-dolly-60.json`
+2. Download `annotation\databricks-dolly-60-name.csv` and rename it with your name
 3. Annotate first 6 items, IDS:
     - brainstorming: 4009, 1107
     - cloded_qa: 2113, 806
