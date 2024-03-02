@@ -1,5 +1,6 @@
 import json
 import random
+import csv
 from collections import Counter
 
 # load the dataset
@@ -38,3 +39,21 @@ random.shuffle(small_subset)
 
 with open('data\\databricks-dolly-50.json', 'w') as f:
     json.dump(small_subset, f, default=str, indent=2)
+
+
+ids = [item['id'] for item in small_subset]
+
+# add IDs 
+csv_path = 'annotation\databricks-dolly-60-name.csv'
+with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = [
+        'id', 'length_relevance', 'length_perfomance', 'structure_relevance', 'structure_perfomance',
+        'informativity_relevance', 'informativity_perfomance', 'manner_relevance', 'manner_perfomance',
+        'coherence_relevance', 'coherence_perfomace', 'evidence_relevance', 'evidence_perfomance',
+        'correctness_relevance', 'correctness_perfomance', 'certainty_relevance', 'certainty_perfomance']
+
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+
+        for _id in ids:
+            writer.writerow({'id': _id})
