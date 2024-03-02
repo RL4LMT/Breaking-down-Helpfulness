@@ -15,8 +15,7 @@ chosen = ['summarization', 'closed_qa', 'brainstorming']
 filtered_data = [item for item in data if item.get('category') in chosen]
 
 # add IDs
-for i, item in enumerate(filtered_data):
-    item['id'] = i + 1  
+filtered_data = [{'id': i + 1, **item} for i, item in enumerate(filtered_data)]
 
 # make sure that categories are equally distributed
 counts = Counter(item['category'] for item in filtered_data)
@@ -37,7 +36,7 @@ for cat in chosen:
     small_subset.extend(items[:20])
 random.shuffle(small_subset)    
 
-with open('data\\databricks-dolly-50.json', 'w') as f:
+with open('data\\databricks-dolly-60.json', 'w') as f:
     json.dump(small_subset, f, default=str, indent=2)
 
 

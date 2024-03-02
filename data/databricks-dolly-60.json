@@ -1,422 +1,422 @@
 [
   {
+    "id": 2113,
     "instruction": "Given this paragraph about Mahatma Gandhi, can you tell me why did he go to London?",
     "context": "Gandhi had dropped out of the cheapest college he could afford in Bombay. Mavji Dave Joshiji, a Brahmin priest and family friend, advised Gandhi and his family that he should consider law studies in London. In July 1888, his wife Kasturba gave birth to their first surviving son, Harilal. His mother was not comfortable about Gandhi leaving his wife and family, and going so far from home. Gandhi's uncle Tulsidas also tried to dissuade his nephew. Gandhi wanted to go. To persuade his wife and mother, Gandhi made a vow in front of his mother that he would abstain from meat, alcohol and women. Gandhi's brother Laxmidas, who was already a lawyer, cheered Gandhi's London studies plan and offered to support him. Putlibai gave Gandhi her permission and blessing.\n\nOn 10 August 1888, Gandhi aged 18, left Porbandar for Mumbai, then known as Bombay. Upon arrival, he stayed with the local Modh Bania community whose elders warned him that England would tempt him to compromise his religion, and eat and drink in Western ways. Despite Gandhi informing them of his promise to his mother and her blessings, he was excommunicated from his caste. Gandhi ignored this, and on 4 September, he sailed from Bombay to London, with his brother seeing him off. Gandhi attended University College, London, where he took classes in English literature with Henry Morley in 1888\u20131889.\n\nHe also enrolled at Inner Temple with the intention of becoming a barrister. His childhood shyness and self-withdrawal had continued through his teens. He retained these traits when he arrived in London, but joined a public speaking practice group and overcame his shyness sufficiently to practise law",
     "response": "Gandhi travelled to London in the late 1880s to study law. He first took English literature classes and then enrolled in Inner Temple with the intention to become a barrister.",
-    "category": "closed_qa",
-    "id": 2113
+    "category": "closed_qa"
   },
   {
+    "id": 534,
     "instruction": "What type of chair would I want to design to give an option to lean all the way back?",
     "context": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat or slightly angled seat and a back-rest. They may be made of wood, metal, or synthetic materials, and may be padded or upholstered in various colors and fabrics. Chairs vary in design. An armchair has armrests fixed to the seat; a recliner is upholstered and features a mechanism that lowers the chair's back and raises into place a footrest; a rocking chair has legs fixed to two long curved slats; and a wheelchair has wheels fixed to an axis under the seat.",
     "response": "As the name suggests, a recliner features a mechanism that lowers the chair\u2019s back and raises a footrest into place",
-    "category": "summarization",
-    "id": 534
+    "category": "summarization"
   },
   {
+    "id": 4220,
     "instruction": "Which season was Roger Federer's most important in his career?",
     "context": "Federer played his first junior match in 1996 at the age of 14 at a grade 2 tournament in Switzerland. His main accomplishments as a junior player came at Wimbledon in 1998 when he won both the boys' singles final over Irakli Labadze, and in doubles teamed with Olivier Rochus defeating the team of Micha\u00ebl Llodra and Andy Ram. In addition he reached the US Open Junior final in 1998, losing to David Nalbandian. Federer won four ITF junior singles tournaments in his career, including the prestigious Orange Bowl, where he defeated Guillermo Coria in the final. By the end of 1998 he attained the No. 1 junior world ranking and was awarded ITF junior World Champion. He ended his junior career at the end of 1998 with a high-ranking of No. 1 in singles and No. 7 in doubles (both attained on December 31, 1998) and a win\u2013loss record of 78\u201320 in singles and 36\u201321 in doubles.\n\nJunior Grand Slam results \u2013 Singles:\n\nAustralian Open: SF (1998)\nFrench Open: 1R (1998)\nWimbledon: W (1998)\nUS Open: F (1998)\n\nJunior Grand Slam results \u2013 Doubles:\n\nAustralian Open: SF (1998)\nFrench Open: 1R (1998)\nWimbledon: W (1998)\nUS Open: 1R (1998)\n\n1998\u20132002: Early professional career\nMain article: Roger Federer's early career\nFederer made his ATP debut at the 1998 Swiss Open Gstaad in his home country of Switzerland losing to Lucas Arnold Ker in the first round. Later that year, he won his first ATP match in Toulouse against Guillaume Raoux. He got a wildcard into the 1998 Swiss Indoors and lost in the first round to 4th seed and former world number 1 Andre Agassi. Federer finished his career as a 10-time champion of the tournament.\n\nFederer entered the top 100 ranking for the first time on 20 September 1999 and started at the 1999 Marseille Open defeating the reigning champion of the 1998 French Open, Spaniard Carlos Moy\u00e1. His first final came at the Marseille Open in 2000, where he lost to fellow Swiss Marc Rosset. Federer won the 2001 Hopman Cup representing Switzerland, along with world No. 1 Martina Hingis. The duo defeated the American pair of Monica Seles and Jan-Michael Gambill in the finals. Federer later said that his experience with Hingis \"definitely helped me to become the player I am today.\"\n\nFederer's first singles win was at the 2001 Milan Indoor tournament, where he defeated Julien Boutter in the final. Although he won his first title already in 1999 on the Challenger tour, winning the doubles event in Segovia, Spain with Dutchman Sander Groen, the final was played on Federer's 18th birthday. In 2001, Federer made his first Grand Slam quarterfinal at the French Open, losing to former world No. 2 and eventual finalist \u00c0lex Corretja. His run to the French quarterfinals launched him into the top 15 for the first time in his career.\n\nHis international breakthrough came at the 2001 Wimbledon Championships, when the 19-year-old Federer faced the four-time defending champion and all-time Grand Slam leader Pete Sampras. Federer beat the No. 1 seed in a five-set match to reach the quarterfinals. In the quarters he faced Englishman Tim Henman, eventually losing in a fourth-set tiebreaker.\n\nThe first final he reached at the Masters level came at the 2002 Miami Masters event, where he lost to former and future No. 1 Andre Agassi on hard court. Federer won his first Master Series event at the 2002 Hamburg Masters on clay, over Marat Safin; the victory put him in the top 10 for the first time. Federer made 10 singles finals between 1998 and 2002, of which he won four and lost six. He also made six finals in doubles. He finished 2001 with an ATP ranking of No. 13, and 2002 was the first year he was ranked within the top 10, finishing at No. 6.\n\n2003: Grand Slam breakthrough at Wimbledon\nMain article: 2003 Roger Federer tennis season\nIn 2003, Federer won his first Grand Slam singles title at Wimbledon, beating Andy Roddick in the semifinals and Mark Philippoussis in the final. In August he had a chance to take over the No. 1 ranking for the first time from Andre Agassi if he made it to the Montreal final. However, he fell in the semifinals to Roddick, in a final-set tiebreaker, leaving him 120 points behind Agassi. This, coupled with early losses to David Nalbandian at Cincinnati and the US Open, denied Federer the chance to become No. 1 for the duration of the season.\n\nFederer won his first and only doubles Masters event in Miami with Max Mirnyi and made it to one singles Masters event in Rome on clay, which he lost. Federer made it to nine finals on the ATP Tour and won seven of them, including the 500 series events at Dubai and Vienna. Lastly, Federer won the year-end championships over Andre Agassi, finishing the year as world No. 2, narrowly behind Andy Roddick by only 160 points.\n\n2004: Imposing dominance\nMain article: 2004 Roger Federer tennis season\nDuring 2004 Federer won three Grand Slam singles titles and became the first person to do in one season so since Mats Wilander in 1988. His first major hard-court title came at the Australian Open over Marat Safin, making him the world No. 1 for the first time. He then won his second Wimbledon crown over Andy Roddick. At the US Open, Federer defeated the 2001 champion, Lleyton Hewitt, for his first title there.\n\nFederer won three ATP Masters events, one on clay in Hamburg, and the other two on hard surfaces at Indian Wells and in Canada. Federer took the ATP 500 series event at Dubai and wrapped up the year by winning the year-end championships for the second time. He also won his first tournament on home soil by capturing the Swiss Open in Gstaad. His 11 singles titles were the most of any player in two decades, and his record of 74\u20136 was the best since Ivan Lendl in 1986. He reached the year-end No. 1 ranking for the first time.\n\n2005: Consolidating dominance\nMain article: 2005 Roger Federer tennis season\nIn 2005, Federer failed to reach the finals of the first two Grand Slam tournaments, losing the Australian Open semifinal to eventual champion Safin after holding match points, and the French Open semifinal to eventual champion Rafael Nadal. However, Federer reestablished his dominance on grass, winning Wimbledon for a third time by defeating Andy Roddick. At the US Open, Federer defeated Andre Agassi in the latter's last major final.\n\nFederer also took four Masters wins: Indian Wells, Miami and Cincinnati on hard court, and Hamburg on clay. The win in Miami was particularly noteworthy as it was the first final contested between Federer and Nadal. Federer recovered from two sets and a break down to take the final in five sets. Furthermore, Federer won two ATP 500 series events at Rotterdam and Dubai. Federer lost the year-end championships to David Nalbandian in five sets while playing through a foot injury that sidelined him for almost the rest of the season after September. He maintained his position as No. 1 for the entire season.\n\nFederer won 11 singles titles, which ties his 2004 season. Federer's 81 match victories were the most since Pete Sampras in 1993, and his record of 81\u20134 (95.2%) remains the third-best winning percentage in the Open Era behind John McEnroe's 1984 and Jimmy Connors's 1974.\n\n2006: Career-best season\nMain article: 2006 Roger Federer tennis season\nThe 2006 season was statistically the best season of Federer's career. In November 2011, Stephen Tignor, chief editorial writer for Tennis.com, ranked Federer's 2006 season as statistically the second-best season of all time during the Open Era, behind Rod Laver's Grand Slam year of 1969.\n\n\nFederer hits a forehand at the 2006 US Open, where he became the first man in history to achieve the Wimbledon-US Open double for three consecutive seasons.\nFederer won 12 singles titles (the most of any player since Thomas Muster in 1995 and John McEnroe in 1984) and had a match record of 92\u20135 (the most wins since Ivan Lendl in 1982). Federer reached the finals in an astounding 16 of the 17 tournaments he entered during the season.\n\nIn 2006, Federer won three Grand Slam singles titles and reached the final of the other, with the only loss coming against Nadal in the French Open. This was Federer and Nadal's first meeting in a Grand Slam final. He was the first man to reach all four finals in a calendar year since Rod Laver in 1969. Federer defeated Nadal in the Wimbledon Championships final. In the Australian Open, Federer defeated Marcos Baghdatis, and at the US Open, Federer defeated 2003 champion Roddick. In addition, Federer reached six Masters finals, winning four on hard surfaces and losing two on clay to Nadal. Federer, however, consistently pushed Nadal to the limit on clay throughout the season taking him to fourth-set tiebreakers in Monte-Carlo and Paris, and a thrilling match in Rome that went to a deciding fifth-set tiebreaker.\n\nFederer won one ATP 500 series event in Tokyo and captured the year-end championships for the third time in his career, again finishing the year as world No. 1. Federer only lost to two players during 2006, to Nadal four times in finals, and to 19-year-old Andy Murray in the second round of the 2006 Cincinnati Masters, in what was Federer's only defeat before the final of a tournament that year. Federer finished the season on a 29-match winning streak, as well as winning 48 of his last 49 matches after the French Open.\n\nNear the end of the season he won his hometown tournament, the Swiss Indoors in Basel, Switzerland for the first time, having finished runner up in 2000 and 2001, and missing the tournament in 2004 and 2005 due to injuries.\n\n2007: Holding off young rivals\nMain article: 2007 Roger Federer tennis season\nIn 2007, Federer reached all four Grand Slam singles finals, winning three of them again. He won the Australian Open without dropping a set, beating Fernando Gonz\u00e1lez in the final. This made him the first man in the 21st century to accomplish the feat, as Bj\u00f6rn Borg at the 1980 French Open was the last to win a Grand Slam tournament without the loss of a set. Federer had entered the year on a huge winning streak and after capturing his fourth Dubai crown Federer's winning streak stood at 41 matches, the longest of his career and only five shy of the record. Federer entered Indian Wells as the three-time defending champion, but his streak ended in controversy. He was defeated by an Argentine, Guillermo Ca\u00f1as, who had failed a drug test for illegal doping.\n\n\nFederer was called \"Darth Federer\" by fans and commentators at the 2007 US Open.\nThis surprising first-round loss marked the first time he was defeated since August 2006, a period spanning over 7 months.\n\nDuring the clay season Federer's victory in the Hamburg Masters final was particularly impressive, as it snapped Nadal's 81-match winning streak on clay, an Open-era record. Federer turned the match around from a set down to sweep 12 of the final 14 games, including a final set bagel. At the French Open, some anticipated that Federer could become the first man in almost 40 years to hold all four majors simultaneously, having just resoundingly defeated young rival Nadal on clay entering the tournament. However, in a repeat of the previous year Federer played a tough four-set final against Nadal, but was undone by going 1/17 on break-point chances.\n\nAt Wimbledon Federer entered the tournament not only as the four-time defending champion, but also riding a 48-match winning streak on grass. Once again, he defeated Rafael Nadal for a second consecutive year in the final, this time in a thrilling five-set encounter that many analysts hailed as the greatest Wimbledon final since 1980. Victory at Wimbledon equaled him with Bj\u00f6rn Borg for the record of five consecutive championships at the All England Club.\n\nFederer reached the final in Montreal before playing a young and relatively unknown Serbian named Novak Djokovic. Djokovic proved his potential by beating the world No. 1 in a final-set tiebreaker upset. Federer rebounded in Cincinnati to capture his fifth title of the year. Federer entered the US Open as the three-time defending champion and faced Djokovic in the final. This time, Federer prevailed in a close straight-set match. Victory in New York moved him ahead of Laver and Borg for third on the all-time list of major championship victories. Throughout the tournament the American press nicknamed him Darth Federer for his all-black attire (which included tuxedo-striped shorts) and the tournament played \"The Imperial March\" from Star Wars when he was announced onto the court for each of his matches. He closed out the year with victories in Basel and the year-end championships in Shanghai.\n\nHe finished the season as the year-end No. 1 for the fourth year in a row, demonstrating his dominance, and during these four years he won 11 Grand Slam singles titles. After his phenomenal triple Grand Slam season yet again, Federer became the only player in history to win three majors in a year for three years (2004, 2006, 2007). It was the third consecutive season that Federer held the No. 1 ranking for all 52 weeks of the year.\n\n2008: Illness, Olympic Gold, and fifth US Open\nMain article: 2008 Roger Federer tennis season\nFederer's success in 2008 was severely hampered by a lingering bout of mononucleosis, which he suffered during the first half of the year. At the end of the year he suffered a back injury.\n\nIn 2008, Federer captured one Grand Slam, a singles title at the US Open over Andy Murray. Federer was defeated by Nadal in two Grand Slam finals, the French Open and Wimbledon, which was regarded as the best match of tennis history by many, when he was going for six straight wins to break Bj\u00f6rn Borg's record. He came back from two sets down to force a fifth set, where he fell just two points from the title. At the Australian Open Federer lost in the semifinals to eventual winner Djokovic, which ended his record of 10 consecutive finals. He lost twice in Masters finals on clay to Nadal, at Monte Carlo and Hamburg. Federer captured three titles playing in 250-level events at Estoril, Halle, and Basel.\n\nAt the Olympic Games Federer and Stan Wawrinka won the gold medal in doubles, after beating the Bryan brothers American team in the semifinals and the Swedish duo of Simon Aspelin and Thomas Johansson in the final. However, Federer could reach only the quarterfinals in the singles draw, bowing out to then No. 8 James Blake, ceding his No. 1 ranking to Nadal after being at the top for a record 237 consecutive weeks. He ended the year ranked No. 2.\n\nFederer entered the 2009 season with 13 Grand Slams, only one behind Pete Sampras' all-time record. The season began with a loss to Nadal in the final of the Australian Open in a hotly contested five-set match. Federer struggled following the defeat in Melbourne and entered the clay season without a title.\n\n\nFederer winning the 2009 French Open, and completing the career Grand Slam\nFederer's season turned around in the final Masters event of the clay season when he defeated Nadal on clay for only the second time to capture the Madrid Masters. Federer entered the French Open with few predicting him to win the elusive Parisian title having lost to Nadal in the final weekend for the past four seasons. After Nadal's unexpected defeat to Robin S\u00f6derling, Federer became the overwhelming favorite. In his next match, he came from two sets and break point down in the third set to defeat Tommy Haas in five sets. He also fought back from a two-sets-to-one deficit against a young Juan Mart\u00edn del Potro to win a five setter in the semifinals. In the final, he faced S\u00f6derling, and with straight sets victory, he finally captured the Coupe des Mousquetaires and career Grand Slam. This victory also tied him with Pete Sampras for the most Grand Slam singles titles.\n\nFederer turned his sights to the grass courts of Wimbledon, where he breezed his way up to the final. In the championship match he faced long-time rival Andy Roddick in what was their eighth and final meeting at a Grand Slam. Roddick pushed Federer into a record-setting fifth set, which Federer claimed 16\u201314 to win his 15th Grand Slam singles title, breaking the all-time record of Pete Sampras.\n\nFederer continued his summer run by winning his third title on the lightning-fast courts of the Cincinnati Masters, defeating Novak Djokovic in the final. At the US Open he defeated S\u00f6derling in the quarters and Djokovic, for the third consecutive year, in the semifinals. On the penultimate point of the Djokovic match he hit what many consider to be the greatest shot of his career, a tweener winner, to set up match points. Federer was defeated by del Potro in the final despite leading two sets to one and falling just two points from the title in the fourth set.\n\nThe 2009 season was perhaps the most historically relevant of Federer's career as he completed a career Grand Slam by winning his first French Open title and won a men's record fifteenth Grand Slam singles title at Wimbledon, surpassing Pete Sampras's mark of fourteen. The Wimbledon final was also historic for being the longest Grand Slam final in terms of games played with Federer prevailing 16\u201314 in the fifth set.\n\nFederer finished the season as the year-end No. 1 for the fifth time in his career.\n\n2010: Fourth Australian Open\nMain article: 2010 Roger Federer tennis season\n\nFederer won a record 16th major at the 2010 Australian Open.\nFederer started the year with a win at the Australian Open, where he defeated Andy Murray in the final, extending the Grand Slam singles record to sixteen titles and matching Andre Agassi's record of four Australian Open titles. Since Wimbledon 2005 Federer had made 18 out of 19 finals in Grand Slam tournaments, a period of sustained excellence unparalleled in the Open Era. This tournament, however, marked the end of his dominance at the majors.\n\nAt the French Open, Federer won his 700th tour match and 150th tour match on clay. However, he failed to reach a Grand Slam semifinal for the first time since the 2004 French Open, losing to S\u00f6derling in the last 8 and relinquishing his No. 1 ranking, having been just one week away from equaling Pete Sampras's record of 286 weeks as world No. 1. In a huge upset at Wimbledon, Federer lost in the last 8 again to Tom\u00e1\u0161 Berdych and fell to No. 3 in the rankings for the first time in 6 years and 8 months.\n\nTowards the middle of July, Federer hired Pete Sampras' old coach Paul Annacone on a trial basis to put his tennis game and career back on track. At the 2010 US Open Federer reached the semifinals, where he lost a five-set match to Novak Djokovic after holding two match points. Federer made it to four Masters finals prevailing against Mardy Fish at the Cincinnati Masters.\n\nFederer finished the year in strong form, winning indoor titles at the Stockholm Open, Swiss Indoors, and the ATP Finals in London bringing his tally to 66 career titles. Federer won the year-end championships in London by beating rival Rafael Nadal for his fifth title at the event. He beat all contenders except Nadal in straight sets. It remains the only tournament in his career where Federer defeated all fellow members of the Big Four. In 2010 Federer finished in the top two for the eighth consecutive season.\n\n2011: Tour Finals title record\nMain article: 2011 Roger Federer tennis season\nThe year 2011 was a lean year for Federer, although great by most player's standards. He was defeated in straight sets in the semifinals of the 2011 Australian Open by eventual champion Novak Djokovic, marking the first time since July 2003 that he did not hold any of the four major titles. In the French Open semifinals, Federer ended Djokovic's undefeated streak of 43 consecutive wins with a four-set victory. Federer then lost in the final to Rafael Nadal. At Wimbledon Federer advanced to his 29th consecutive Grand Slam quarterfinal, losing to Jo-Wilfried Tsonga. It marked the first time in his career that he had lost a Grand Slam tournament match after winning the first two sets.\n\nAt the US Open Federer lost in the semifinals to Novak Djokovic in five sets. In a repeat of previous year's semifinal event, Federer again squandered two match points on his own serve before losing after winning first two sets for second consecutive time in the year. The loss meant that it was the first time since 2002 that Federer had not won any of the four grand slam titles.\n\nIn September 2011, in a South African poll, Federer was voted the second most trusted and respected person in the world next to Nelson Mandela.\n\nFederer finished the season successfully in the indoor season, winning his last three tournaments of the year at the Swiss Indoors, Paris Masters, and ATP Finals, forming a 16 match winning streak. Federer finished the year ranked No. 3.",
     "response": "2009 was arguably the most important of his career since he won his first and only French Open title, completing the career grand slam. He was also able to surpass Pete Sampras' record of fourteen men's grand slam titles.\n\nUntil then, Federer had won the three other grand slams - Wimbledon, Australian Open and US Open but the French Open was elusive as he had to repeatedly compete on the clay court of Rolland Garros against Rafael Nadal, who was a clay court expert and he lost to him on multiple occasions.\n\n2004 was also an important year in Federer's career because he established dominance in the sport by winning three out of the four grand slams of the year and ending the year as the world number one for the first time in his long career.",
-    "category": "summarization",
-    "id": 4220
+    "category": "summarization"
   },
   {
+    "id": 806,
     "instruction": "Who wrote the TV series Babylon5?",
     "context": "Babylon 5 is an American space opera television series created by writer and producer J. Michael Straczynski, under the Babylonian Productions label, in association with Straczynski's Synthetic Worlds Ltd. and Warner Bros. Domestic Television. After the successful airing of a test pilot movie on February 22, 1993, Babylon 5: The Gathering, Warner Bros. commissioned the series for production in May 1993 as part of its Prime Time Entertainment Network (PTEN). The show premiered in the US on January 26, 1994, and ran for five 22-episode seasons.",
     "response": "Babylon 5 is an American television series created by writer and producer J. Michael Straczynski.",
-    "category": "closed_qa",
-    "id": 806
+    "category": "closed_qa"
   },
   {
+    "id": 808,
     "instruction": "Based on this text, would it be correct to say a peanut is a nut?",
     "context": "The peanut (Arachis hypogaea), also known as the groundnut, goober, pindar or monkey nut (UK), is a legume crop grown mainly for its edible seeds. It is widely grown in the tropics and subtropics, important to both small and large commercial producers. It is classified as both a grain legume and, due to its high oil content, an oil crop. World annual production of shelled peanuts was 44 million tonnes in 2016, led by China with 38% of the world total. Atypically among legume crop plants, peanut pods develop underground (geocarpy) rather than above ground. With this characteristic in mind, the botanist Carl Linnaeus gave peanuts the specific epithet hypogaea, which means \"under the earth\".\n\nThe peanut belongs to the botanical family Fabaceae (or Leguminosae), commonly known as the legume, bean, or pea family. Like most other legumes, peanuts harbor symbiotic nitrogen-fixing bacteria in root nodules. The capacity to fix nitrogen means peanuts require less nitrogen-containing fertilizer and improve soil fertility, making them valuable in crop rotations.\n\nPeanuts are similar in taste and nutritional profile to tree nuts such as walnuts and almonds, and, as a culinary nut, are often served in similar ways in Western cuisines. The botanical definition of a nut is \"a fruit whose ovary wall becomes hard at maturity.\" Using this criterion, the peanut is not a nut. However, peanuts are usually categorized as nuts for culinary purposes and in common English more generally.",
     "response": "This article describes different ways to classify a peanut. In a culinary or colloquial regard, yes it can be considered a nut. In the botanical or biological definition, it is not a nut but rather a legume.",
-    "category": "summarization",
-    "id": 808
+    "category": "summarization"
   },
   {
+    "id": 3292,
     "instruction": "Without quoting the text, explain to me why the One Mile telescope was built",
     "context": "In 1971, Sir Martin Ryle described why, in the late 1950s, radio astronomers at MRAO decided on the construction of the new One Mile telescope: \"Our object was twofold. First we wanted to extend the range of our observations far back in time to the earliest days of the Universe, and this required a large increase in both sensitivity and resolution. With greater resolution we hoped that we might be able to draw radio maps of individual radio sources with sufficient detail to give some indication of the physical processes which brought them into being.\"",
     "response": "The One Mile Telescope was built in the late 1950s with the goal of observing the early days of the universe. The construction of the telescope allowed to get more detailed images, allowing a better understanding of the physical phenomena at work.",
-    "category": "summarization",
-    "id": 3292
+    "category": "summarization"
   },
   {
+    "id": 4326,
     "instruction": "In which Indian state is Banda Deul located in?",
     "context": "Banda Deul is an 11th-century temple in Banda village (also called Deulghera) in the Raghunathpur II CD block in the Raghunathpur subdivision of the Purulia district in the Indian state of West Bengal.\n\nThere is a temple at Banda, which is described by the Archaeological Society of India as a rekha deul of triratha variety in sandstone. \u201cThe temple is richly decorated, the themes being creepers, scroll work and stylised chaitya window.\u201d The temple was built around the 11th century.\n\nThe temple had a mandapa which has largely collapsed, However, eight pillars are still there supporting the cross beams. The temple has a water outlet with a makara (crocodile) head.\n\nAccording to the List of Monuments of National Importance in West Bengal the old temple at Banda is an ASI listed monument.",
     "response": "West Bengal",
-    "category": "closed_qa",
-    "id": 4326
+    "category": "closed_qa"
   },
   {
+    "id": 4009,
     "instruction": "Give me a list of date night ideas that I've never done.",
     "context": "",
     "response": "For your next date night, you could:\n- Take a pottery class.\n- Find a paint and sip.\n- Go axe throwing. \n- Do a walking tour of the best taco joints in your city. \n- Go to your local grocery store, pick snacks out for each other, and put on a movie you've never seen.",
-    "category": "brainstorming",
-    "id": 4009
+    "category": "brainstorming"
   },
   {
+    "id": 727,
     "instruction": "Who was the first computer programmer?",
     "context": "Augusta Ada King, Countess of Lovelace (n\u00e9e Byron; 10 December 1815 \u2013 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and to have published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer",
     "response": "Augusta Ada King, Countess of Lovelace (n\u00e9e Byron; 10 December 1815 \u2013 27 November 1852) is often regarded as the first computer programmer for her work on the Analytical Engine with Charles Babbage.",
-    "category": "closed_qa",
-    "id": 727
+    "category": "closed_qa"
   },
   {
+    "id": 1385,
     "instruction": "Without quoting directly from the text, give me a summary of the Voyager 1 space mission",
     "context": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program to study the outer Solar System and interstellar space beyond the Sun's heliosphere. Launched 16 days after its twin Voyager 2, Voyager 1 has been operating for 45 years, 7 months and 1 day as of April 6, 2023 UTC . It communicates through NASA's Deep Space Network to receive routine commands and to transmit data to Earth. Real-time distance and velocity data is provided by NASA and JPL. At a distance of 159.20 AU (23.816 billion km; 14.799 billion mi) from Earth as of March 27, 2023, it is the most distant human-made object from Earth.\n\nThe probe made flybys of Jupiter, Saturn, and Saturn's largest moon, Titan. NASA had a choice of either doing a Pluto or Titan flyby; exploration of the moon took priority because it was known to have a substantial atmosphere. Voyager 1 studied the weather, magnetic fields, and rings of the two gas giants and was the first probe to provide detailed images of their moons.\n\nAs part of the Voyager program and like its sister craft Voyager 2, the spacecraft's extended mission is to locate and study the regions and boundaries of the outer heliosphere and to begin exploring the interstellar medium. Voyager 1 crossed the heliopause and entered interstellar space on August 25, 2012, making it the first spacecraft to do so. Two years later, Voyager 1 began experiencing a third \"tsunami wave\" of coronal mass ejections from the Sun that continued to at least December 15, 2014, further confirming that the probe is indeed in interstellar space.\n\nIn a further testament to the robustness of Voyager 1, the Voyager team tested the spacecraft's trajectory correction maneuver (TCM) thrusters in late 2017 (the first time these thrusters had been fired since 1980), a project enabling the mission to be extended by two to three years. Voyager 1's extended mission is expected to continue until about 2025, when its radioisotope thermoelectric generators (RTGs) will no longer supply enough electric power to operate its scientific instruments.",
     "response": "The Voyager 1 space mission began on September 5, 1977 when the probe was launched with mission parameters to explore out solar system, planets, and outer solar system beyond the sun.  The mission is currently in it's 45th year and has provided significant learning about the atmosphere of planets like Jupiter and Saturn, while continuing to scientific data on regions of space never before encountered.",
-    "category": "summarization",
-    "id": 1385
+    "category": "summarization"
   },
   {
+    "id": 2062,
     "instruction": "is Aadhaar a proof of residence or of citizenship?",
     "context": "Aadhaar is a 12-digit unique identity number that can be obtained voluntarily by the citizens of India and resident foreign nationals who have spent over 182 days in twelve months immediately preceding the date of application for enrolment, based on their biometric and demographic data. The data is collected by the Unique Identification Authority of India (UIDAI), a statutory authority established in January 2009 by the Government of India, under the jurisdiction of the Ministry of Electronics and Information Technology, following the provisions of the Aadhaar (Targeted Delivery of Financial and other Subsidies, benefits and services) Act, 2016.\nAadhaar is the world's largest biometric ID system. World Bank Chief Economist Paul Romer described Aadhaar as \"the most sophisticated ID programme in the world\". Considered a proof of residence and not a proof of citizenship, Aadhaar does not itself grant any rights to domicile in India. In June 2017, the Home Ministry clarified that Aadhaar is not a valid identification document for Indians travelling to Nepal and Bhutan.\nPrior to the enactment of the Act, the UIDAI had functioned, since 28 January 2009, as an attached office of the Planning Commission (now NITI Aayog). On 3 March 2016, a money bill was introduced in the Parliament to give legislative backing to Aadhaar. On 11 March 2016, the Aadhaar (Targeted Delivery of Financial and other Subsidies, benefits and services) Act, 2016, was passed in the Lok Sabha.",
     "response": "Considered a proof of residence and not a proof of citizenship, Aadhaar does not itself grant any rights to domicile in India.",
-    "category": "summarization",
-    "id": 2062
+    "category": "summarization"
   },
   {
+    "id": 3668,
     "instruction": "Who was the best team in the NFL during the 1984 season?",
     "context": "The season ended with Super Bowl XIX when the San Francisco 49ers defeated the Miami Dolphins 38\u201316 at Stanford Stadium in California. This was the first Super Bowl televised by ABC, who entered into the annual championship game rotation with CBS and NBC. This game marked the second shortest distance between the Super Bowl host stadium (Stanford, California) and a Super Bowl team (San Francisco 49ers). The 49ers became the first team in NFL history to win 15 games in a regular season and to win 18 in an entire season (including the postseason). Additionally, two major offensive records were set this season, with quarterback Dan Marino establishing a new single-season passing yards record with 5,084 (later broken by Drew Brees in 2011, 2012, 2013 and 2016, by Tom Brady in 2011, by Peyton Manning in 2013, by Ben Roethlisberger and Patrick Mahomes in 2018 and by Jameis Winston in 2019) and Eric Dickerson establishing a new single-season rushing yards record with 2,105. Another statistical record broken was Mark Gastineau for most sacks in a single season, with 22 (surpassed by Michael Strahan in 2001).",
     "response": "The 1984 Super Bowl featured the San Francisco 49ers, who were the first team to win 15 games in a season, against the Miami Dolphins. The 49ers won the game 38-16, making them the first team in NFL history to win 18 games in a season counting the playoffs.",
-    "category": "summarization",
-    "id": 3668
+    "category": "summarization"
   },
   {
+    "id": 2625,
     "instruction": "Given this paragraph about video games, when was the Legend of Zelda originally released?",
     "context": "The Legend of Zelda, originally released in Japan as The Hyrule Fantasy: Zelda no Densetsu, is a 1986 action-adventure game developed and published by Nintendo. The first game of The Legend of Zelda series, it is set in the fantasy land of Hyrule and centers on an elf-like boy named Link, who aims to collect the eight fragments of the Triforce of Wisdom in order to rescue Princess Zelda from the antagonist Ganon. During the course of the game, the player controls Link from a top-down perspective and navigates throughout the overworld and dungeons, collecting weapons, defeating enemies and uncovering secrets along the way.",
     "response": "1986",
-    "category": "closed_qa",
-    "id": 2625
+    "category": "closed_qa"
   },
   {
+    "id": 650,
     "instruction": "Create a bulleted list of Hawking's accomplishments based on this passage.",
     "context": "Hawking achieved commercial success with several works of popular science in which he discussed his theories and cosmology in general. His book A Brief History of Time appeared on the Sunday Times bestseller list for a record-breaking 237 weeks. Hawking was a Fellow of the Royal Society, a lifetime member of the Pontifical Academy of Sciences, and a recipient of the Presidential Medal of Freedom, the highest civilian award in the United States. In 2002, Hawking was ranked number 25 in the BBC's poll of the 100 Greatest Britons. He died in 2018 at the age of 76, after living with motor neurone disease for more than 50 years.\nhttps://en.wikipedia.org/wiki/Stephen_Hawking",
     "response": "-His book was a bestseller for 237 weeks, which was a record\n-He was a fellow of the Royal Society\n-He was a Pontifical Academy of Sciences lifetime member\n-He received the Presidential Medal of Freedom\n-He was 25 on the 100 Greatest Britons list put out by the BBC",
-    "category": "summarization",
-    "id": 650
+    "category": "summarization"
   },
   {
+    "id": 1107,
     "instruction": "Provide a list of signs that you have won at life",
     "context": "",
     "response": "1. Your house is paid off\n2. Your student loans are paid off\n3. You are emotionally and physically healthy\n4. You have meaningful relationships\n5. You respect and love yourself\n6. Your kids and spouse are content \n7. You are comfortably retired",
-    "category": "brainstorming",
-    "id": 1107
+    "category": "brainstorming"
   },
   {
+    "id": 3245,
     "instruction": "Think of 3 shades of dark red that I could use to describe a rug",
     "context": "",
     "response": "Rugs could be described as maroon, mahogany or scarlet",
-    "category": "brainstorming",
-    "id": 3245
+    "category": "brainstorming"
   },
   {
+    "id": 1411,
     "instruction": "Who is J.K.Rowling?",
     "context": "Joanne Rowling CH OBE FRSL (/\u02c8ro\u028al\u026a\u014b/ \"rolling\"; born 31 July 1965), also known by her pen name J. K. Rowling, is a British author and philanthropist. She wrote Harry Potter, a seven-volume children's fantasy series published from 1997 to 2007. The series has sold over 600 million copies, been translated into 84 languages, and spawned a global media franchise including films and video games. The Casual Vacancy (2012) was her first novel for adults. She writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith.",
     "response": "Joanne Rowling a.k.a J.K.Rowling is the famous author of Harry Potter books.",
-    "category": "closed_qa",
-    "id": 1411
+    "category": "closed_qa"
   },
   {
+    "id": 2939,
     "instruction": "given this article about Enrico Silvestrin, what year did he get evicted from Celebrity Big Brother?",
     "context": "Enrico Silvestrin (born 30 May 1972) is an Italian actor, television and radio presenter and musician.\n\nLife and career\nBorn in Rome, after a supporting role in Michele Placido's Close Friends, in 1994 Silvestrin started working as a VJ on MTV Europe, and later on MTV Italy. In 2000, he refused the Gabriele Muccino's offer of starring in The Last Kiss preferring a role in the Italia 1 sitcom Via Zanardi 33, which eventually turned to be a flop.\n\nIn 2005 Silvestrin left MTV as to focus on his acting career. He then appeared in a number of films and TV-series, getting a personal success with the role of Alessandro Berti in the Canale 5 crime series Distretto di Polizia. In 2007 he presented the Festivalbar. In 2018 he competed in Grande Fratello VIP, the Italian adaptation of Celebrity Big Brother. He was the third contestant to be evicted on day 22.\n\nSilvestrin is also active as a musician. He has been part of the musical groups Agony in Cage, Tempus Fugit, Ilor and Silv3man. He is nephew on his mother's side of actor and playwright Peppino De Filippo.",
     "response": "2018",
-    "category": "closed_qa",
-    "id": 2939
+    "category": "closed_qa"
   },
   {
+    "id": 40,
     "instruction": "Who scored first in Austin FC's first victory in a home game in the 2021 MLS season?",
     "context": "Austin FC played their first MLS match against LAFC at Banc of California Stadium on April 17, 2021, losing 0\u20132. The club secured its first victory the following week against the Colorado Rapids, winning 3\u20131. Diego Fag\u00fandez scored the club's first goal and the following two were scored by the club's first Designated Player, Cecilio Dominguez. Their home opener was held on June 19, 2021, against the San Jose Earthquakes, a match which ended in a scoreless draw. The team secured its first ever home victory on July 1, 2021, defeating the Portland Timbers 4\u20131. Jon Gallagher scored the team's first home goal and the first MLS goal at Q2 Stadium.",
     "response": "Jon Gallagher scored the first goal in Austin FC's first win at home, over the Portland Timbers.",
-    "category": "closed_qa",
-    "id": 40
+    "category": "closed_qa"
   },
   {
+    "id": 4552,
     "instruction": "Where is the city of Nasimerice",
     "context": "Na\u0161im\u011b\u0159ice (German: Aschmeritz) is a municipality and village in Znojmo District in the South Moravian Region of the Czech Republic. It has about 200 inhabitants.\n\nNa\u0161im\u011b\u0159ice lies approximately 28 kilometres (17 mi) north-east of Znojmo, 32 km (20 mi) south-west of Brno, and 189 km (117 mi) south-east of Prague.",
     "response": "Nasimerice (German: Aschmeritz) is a municipality and village in Znojmo District in the South Moravian Region of the Czech Republic. It has about 200 inhabitants.\n\nNasimerice lies approximately 28 kilometres (17 mi) north-east of Znojmo, 32 km (20 mi) south-west of Brno, and 189 km (117 mi) south-east of Prague.",
-    "category": "closed_qa",
-    "id": 4552
+    "category": "closed_qa"
   },
   {
+    "id": 1685,
     "instruction": "When did Videotron withdraw from the Cable Television Standards Council (CTSC)?",
     "context": "The Cable Television Standards Council of Canada was an independent organization established by the Canadian cable television industry to administer Standards, Codes and Guidelines that ensure high standards of customer service. In February 2002, Vid\u00e9otron withdrew from the CTSC . Later that year, effective December 1, Shaw also withdrew . \"The CTSC dealt with complaints with respect to cable service, such as concerns about quality of service and billing until 12 April 2006, when this organisation ceased operation. Since then, complaints filed with the Commission about quality of service and billing are forwarded to the appropriate licensee [that is a cable company] for resolution.\" ",
     "response": "Videotron withdrew from the Cable Television Standards Council in February 2002.",
-    "category": "summarization",
-    "id": 1685
+    "category": "summarization"
   },
   {
+    "id": 1831,
     "instruction": "Write down some important aspects regarding civil war from the given text",
     "context": "A civil war or intrastate war is a war between organized groups within the same state (or country). The aim of one side may be to take control of the country or a region, to achieve independence for a region, or to change government policies. The term is a calque of Latin bellum civile which was used to refer to the various civil wars of the Roman Republic in the 1st century BC.",
     "response": "1. An intrastate or civil war is a conflict between organised parties fighting within a single state. (or country).\n2. One side may want to overthrow the government, seize control of an area, secure the independence of a region, or alter public policy.\n3. The phrase is a calque of the Latin phrase bellum civile, which was used to describe the numerous civil wars that raged throughout the Roman Republic in the first century BC.",
-    "category": "summarization",
-    "id": 1831
+    "category": "summarization"
   },
   {
+    "id": 559,
     "instruction": "Given this paragraph about full distance ironman competition, how far is each discipline",
     "context": "A number of non-WTC full distance triathlons have been held since the mid-1990s. The limited number of WTC-sanctioned events, and the limited number of entries available per race, have combined with a growth in the sport that has created demand for these non-trademarked events. Many of them share the 2.4-mile (3.9 km), 112-mile (180 km), 26.2-mile (42.2 km) format with the Ironman triathlon. Originally, many used the Ironman name. Due to aggressive trademark protection, most of these races no longer use the word \"Ironman\".",
     "response": "The distances for a full ironman competition are 2.4 miles (3.9km) for the swim, 112 miles (180km) for the bike and 26.2 miles (42.2km) for the run.",
-    "category": "closed_qa",
-    "id": 559
+    "category": "closed_qa"
   },
   {
+    "id": 4118,
     "instruction": "Make me a list of types of pies I can make",
     "context": "",
     "response": "You could make a pumpkin, pecan, berry, apple, peach or chocolate pie",
-    "category": "brainstorming",
-    "id": 4118
+    "category": "brainstorming"
   },
   {
+    "id": 3737,
     "instruction": "Summarise from the given text, Why do people like pets?",
     "context": "Pets provide their owners, or guardians, both physical and emotional benefits. Walking a dog can provide both the human and the dog with exercise, fresh air, and social interaction. Pets can give companionship to people who are living alone or elderly adults who do not have adequate social interaction with other people. There is a medically approved class of therapy animals that are brought to visit confined humans, such as children in hospitals or elders in nursing homes. Pet therapy utilizes trained animals and handlers to achieve specific physical, social, cognitive, or emotional goals with patients.",
     "response": "1. Pets benefit their owners/guardians both physically and emotionally.\n2. Talking a dog for a stroll helps both human and dog through physical exercise, inhaling fresh air and social interaction.\n3. For people who live alone, aged people in nursery homes, children in hospitals etc who don't interact with other people, There is a class of medically approved therapy animals that are brought to visit to gain specific type of physical, social, cognitive, or emotional benefits",
-    "category": "summarization",
-    "id": 3737
+    "category": "summarization"
   },
   {
+    "id": 1931,
     "instruction": "What colors are in the traditional style of American tattoos?",
     "context": "",
     "response": "American traditional tattoos consist mostly of thick black lines with black shading and red, blue, yellow, and green. Sometimes you will see brown and white also used in American traditional tattoos.",
-    "category": "brainstorming",
-    "id": 1931
+    "category": "brainstorming"
   },
   {
+    "id": 413,
     "instruction": "From this summary of how Bilbo found the Ring in The Hobbit, how did Bilbo beat Gollum at the Riddle game?",
     "context": "As told in The Hobbit, Bilbo found the Ring while lost in the tunnels near Gollum's lair. In the first edition, Gollum offers to surrender the Ring to Bilbo as a reward for winning the Riddle Game. When Tolkien was writing The Lord of the Rings, he realized that the Ring's grip on Gollum would never permit him to give it up willingly. He therefore revised The Hobbit: in the second edition, after losing the Riddle Game to Bilbo, Gollum went to get his \"Precious\" to help him kill and eat Bilbo, but found the Ring missing. Deducing from Bilbo's last question\u2014\"What have I got in my pocket?\"\u2014that Bilbo had found the Ring, Gollum chased him through the caves, not realizing that Bilbo had discovered the Ring's power of invisibility and was following him to the cave's mouth. Bilbo escaped Gollum and the goblins by remaining invisible, but he chose not to tell Gandalf and the dwarves that the Ring had made him invisible. Instead he told them a story that followed the first edition: that Gollum had given him the Ring and shown him the way out. Gandalf was immediately suspicious of the Ring, and later forced the real story from Bilbo.",
     "response": "Gollum was unable to answer Bilbo's last question, \"What have I got in my pocket?\".",
-    "category": "closed_qa",
-    "id": 413
+    "category": "closed_qa"
   },
   {
+    "id": 667,
     "instruction": "Why did Georges think that Helene redirected her affections towards Walter Rogers?",
     "context": "Papa Chibou (Paul Muni), the elderly caretaker of Mus\u00e9e Pratouchy, a Parisian wax museum, feels a strong kinship with the figures, particularly with that of Napoleon. He spots at the waxworks a romantic young couple, Georges (Russell Gleason), a lawyer, and Helene (Marguerite Churchill), the daughter of a stern judge (Lester Lonergan) who disapproves of his daughter's choice and forbids her to see Georges. Papa Chibou suggests to them that they can still stay in touch, without disobeying her father's directive not to speak with each other, by placing secret personal messages in the pockets of Napoleon's uniform. However, a missing letter and confusion in communication causes Georges to arrive at the mistaken conclusion that Helene has redirected her affections towards a foolish young man (Walter Rogers), who is unworthy of her and excessively preoccupied with his stylish personal appearance and elegant clothing.",
     "response": "A missing letter and confusion in communication caused Georges to arrive at the mistaken conclusion that Helene has redirected her affections towards Walter Rogers (a foolish young man), who is unworthy of her and excessively preoccupied with his stylish personal appearance and elegant clothing.",
-    "category": "closed_qa",
-    "id": 667
+    "category": "closed_qa"
   },
   {
+    "id": 1604,
     "instruction": "Summarise the ways an employer can find workers using the given text as a reference",
     "context": "The main ways for employers to find workers and for people to find employers are via jobs listings in newspapers (via classified advertising) and online, also called job boards. Employers and job seekers also often find each other via professional recruitment consultants which receive a commission from the employer to find, screen and select suitable candidates. However, a study has shown that such consultants may not be reliable when they fail to use established principles in selecting employees. A more traditional approach is with a \"Help Wanted\" sign in the establishment (usually hung on a window or door or placed on a store counter). Evaluating different employees can be quite laborious but setting up different techniques to analyze their skills to measure their talents within the field can be best through assessments. Employer and potential employee commonly take the additional step of getting to know each other through the process of a job interview.",
     "response": "1. Job listing in newspapers through classified advertising.\n2. Posting Job listings online (Job Boards) .\n3. Through Recruitment consultants who takes a commission from the employer to find, screen and select suitable candidates. \n4. By displaying a 'Help Wanted' sign in the establishment  near a window or door or on the reception.",
-    "category": "summarization",
-    "id": 1604
+    "category": "summarization"
   },
   {
+    "id": 1868,
     "instruction": "What are three effective approaches to improve weight loss?",
     "context": "",
     "response": "1.  Maximizing your potential through hormone replacement therapy will improve your ability to recover faster, improve your sleep, and improve your workout intensity. \n2.  Along with a consistent and ridged workout regimen of 4-5x per week, it's important get plenty of sleep and drink 1-2 liters of water per day.\n3.  Maximizing your diet through grass fed animal proteins and other whole foods while avoiding processed foods that contain seed oils, natural flavors, added sugar, and other additives is a great way to start your weight loss journey.",
-    "category": "brainstorming",
-    "id": 1868
+    "category": "brainstorming"
   },
   {
+    "id": 1002,
     "instruction": "Who is the company Swiss Re",
     "context": "Swiss Reinsurance Company Ltd, commonly known as Swiss Re, is a reinsurance company based in Zurich, Switzerland. It is one of the world's largest reinsurers, as measured by net premiums written. Swiss Re operates through offices in more than 25 countries and was ranked 118th in Forbes Global 2000 leading companies list in 2016. It was also ranked 313th on the Fortune Global 500 in 2015.",
     "response": "Swiss Reinsurance Company Ltd, commonly known as Swiss Re, is a reinsurance company based in Zurich, Switzerland. It is one of the world's largest reinsurers, as measured by net premiums written.\n\nSwiss Re operates through offices in more than 25 countries and was ranked 118th in Forbes Global 2000 leading companies list in 2016. It was also ranked 313th on the Fortune Global 500 in 2015.",
-    "category": "summarization",
-    "id": 1002
+    "category": "summarization"
   },
   {
+    "id": 723,
     "instruction": "What is SaaS?",
     "context": "",
     "response": "Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring, and office tools (such as Microsoft Office 365).\n\nSaaS provides a complete software solution that you purchase on a pay-as-you-go basis from a cloud service provider. You rent the use of an app for your organization, and your users connect to it over the Internet, usually with a web browser. All of the underlying infrastructure, middleware, app software, and app data are located in the service provider\u2019s data center. The service provider manages the hardware and software, and with the appropriate service agreement, will ensure the availability and the security of the app and your data as well. SaaS allows your organization to get quickly up and running with an app at minimal upfront cost.",
-    "category": "brainstorming",
-    "id": 723
+    "category": "brainstorming"
   },
   {
+    "id": 3107,
     "instruction": "Give me a list of the seven most polluted cities in America",
     "context": "",
     "response": "According to the American Lung Association, the 7 most polluted cities include 5 cities from California.  The list is order is, Los Angeles-Long Beach, Bakersfield, Visalia, Fresno-Madera-Hanford, Phoenix-Mesa, San Diego-Chula Vista-Carlsbad, and Denver-Aurora",
-    "category": "brainstorming",
-    "id": 3107
+    "category": "brainstorming"
   },
   {
+    "id": 2224,
     "instruction": "Who first used the term \"glass ceiling\"?",
     "context": "A glass ceiling is a metaphor usually applied to women, used to represent an invisible barrier that prevents a given demographic from rising beyond a certain level in a hierarchy. No matter how invisible the glass ceiling is expressed, it is actually a difficult obstacle to overcome. The metaphor was first used by feminists in reference to barriers in the careers of high-achieving women. It was coined by Marilyn Loden during a speech in 1978. In the United States, the concept is sometimes extended to refer to racial inequality in the United States. Minority women in white-majority countries often find the most difficulty in \"breaking the glass ceiling\" because they lie at the intersection of two historically marginalized groups: women and people of color. East Asian and East Asian American news outlets have coined the term \"bamboo ceiling\" to refer to the obstacles that all East Asian Americans face in advancing their careers. Similarly, a multitude of barriers that refugees and asylum seekers face in their search for meaningful employment is referred to as canvas ceiling.",
     "response": "The term \"glass ceiling\" was first used by Marilyn Loden in a 1978 speech.",
-    "category": "closed_qa",
-    "id": 2224
+    "category": "closed_qa"
   },
   {
+    "id": 2661,
     "instruction": "Give me some ideas on how to make money while traveling the world.",
     "context": "",
     "response": "Freelancing online\nLanguage tuition\nTeach other people your skills\nMake things to sell\nOffer your services at hostels\nSell your photos\nStreet performances\nSeasonal work",
-    "category": "brainstorming",
-    "id": 2661
+    "category": "brainstorming"
   },
   {
+    "id": 2540,
     "instruction": "Summarize the benefits of installing artificial turf in my backyard instead of real grass",
     "context": "",
     "response": "Installation of artificial turf provides a many benefits over natural grass.\n\nMaintenance: Artificial turn does not need trimming or mowing.\n\nDrought Preparedness:  Artificial turn does not require water.  You can opt to install some sprinklers for occasional cleaning or cooling purposes, but sprinklers are not necessary.\n\nCleanliness:  Artificial turn eliminates dirt and grass stains on those who enjoy it.  \n\nYear round yard enjoyment:  Artificial turn allows you to enjoy lawn activities all year long.  No more dead lawn in the summer or muddy patches in the winter.  \n\nAesthetics:  Artificial turf will always give your yard a dependably green lawn area.  Adding surrounding landscape of bark, mulch, shrubs and flowers, helps seamlessly blend the turf into your overall landscape plan.",
-    "category": "brainstorming",
-    "id": 2540
+    "category": "brainstorming"
   },
   {
+    "id": 4643,
     "instruction": "What is a probability distribution?",
     "context": "In probability theory and statistics, a probability distribution is the mathematical function that gives the probabilities of occurrence of different possible outcomes for an experiment. It is a mathematical description of a random phenomenon in terms of its sample space and the probabilities of events (subsets of the sample space).\n\nFor instance, if X is used to denote the outcome of a coin toss (\"the experiment\"), then the probability distribution of X would take the value 0.5 (1 in 2 or 1/2) for X = heads, and 0.5 for X = tails (assuming that the coin is fair). Examples of random phenomena include the weather conditions at some future date, the height of a randomly selected person, the fraction of male students in a school, the results of a survey to be conducted, etc.",
     "response": "A probability distribution is a distribution of different outcomes based on the probable number of times each outcome will occur.",
-    "category": "summarization",
-    "id": 4643
+    "category": "summarization"
   },
   {
+    "id": 3819,
     "instruction": "Is double checked locking safe?",
     "context": "In software engineering, double-checked locking (also known as \"double-checked locking optimization\") is a software design pattern used to reduce the overhead of acquiring a lock by testing the locking criterion (the \"lock hint\") before acquiring the lock. Locking occurs only if the locking criterion check indicates that locking is required.\n\nThe pattern, when implemented in some language/hardware combinations, can be unsafe. At times, it can be considered an anti-pattern.\n\nIt is typically used to reduce locking overhead when implementing \"lazy initialization\" in a multi-threaded environment, especially as part of the Singleton pattern. Lazy initialization avoids initializing a value until the first time it is accessed.",
     "response": "Double checked locking can be unsafe in some situations and is sometimes considered an anti-pattern. However, it can be implemented in a safe way.",
-    "category": "closed_qa",
-    "id": 3819
+    "category": "closed_qa"
   },
   {
+    "id": 579,
     "instruction": "Given this paragraph about the Women's Education Association, which institutions of higher learning had affiliations with the Association?",
     "context": "The aid of the Association was also given to the formation of a class of women for the study of advanced chemistry at the laboratory of the Girls' High School. This class was found to meet so great a want that a chemical laboratory has been fitted up in connection with the Massachusetts Institute of Technology, and furnished by money collected by the association with apparatus and instruments, such as microscopes, spectroscopes, &c. From time to time pecuniary aid has also been given to young women seeking an advanced education. But the chief work of the Association \u2014the first undertaken and still carried on under its charge- is a plan of examinations known as the Harvard Examinations for Women. These originated in a desire to raise the standard of education in the schools for girls, and are held under the personal supervision of members of the Association. Examination papers, prepared by Professors at Harvard University, are provided by the Association, and those women who successfully pass this examination receive a certificate from the university stating the fact. Branch societies have been established in New York City, Philadelphia, and Cincinnati for the same purpose.",
     "response": "The Massachusetts Institute of Technology and Harvard University",
-    "category": "closed_qa",
-    "id": 579
+    "category": "closed_qa"
   },
   {
+    "id": 120,
     "instruction": "What type of cheeses can you use to make a grilled cheese sandwich.",
     "context": "A grilled cheese sandwich is made by placing a cheese filling, often cheddar or American cheese, between two slices of bread, which is then heated until the bread browns and the cheese melts. A layer of butter or mayonnaise may be added to the outside of the bread for additional flavor and texture. Alternatives may include additional ingredients, such as meat, peppers, tomatoes, or onions. Methods for heating the sandwich include cooking on a griddle, fried in a pan, or using a panini grill or sandwich toaster, the latter method more common in the United Kingdom, where the sandwiches are normally called \"toasted sandwiches\" or \"toasties\", in Australia, where they are called \"jaffles\" or \"toasted sandwiches\", and South Africa, where they are called \u201csnackwiches\u201d. Other methods include baking in an oven or toaster oven \u2014 or in a toasting bag in an electric toaster.",
     "response": "Common cheeses to make a grilled cheese are cheddar or American cheese, although you are not limited to those cheeses.  Depending on a persons preferences there are a large variety of cheeses that are well suited for a grilled cheese sandwich. Many people enjoy Swiss cheese, provolone, mozzarella cheese, brie, Monterey jack cheese, pepper jack cheese,  gouda, havarti, fontina and many others.",
-    "category": "summarization",
-    "id": 120
+    "category": "summarization"
   },
   {
+    "id": 1571,
     "instruction": "Is the person who invented bitcoin Japanese?",
     "context": "Satoshi Nakamoto (born 5 April 1975) is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. As part of the implementation, Nakamoto also devised the first blockchain database. Nakamoto was active in the development of bitcoin up until December 2010.\n\nThere has been widespread speculation about Satoshi Nakamoto's true identity, with a variety of people posited as the person or persons behind the name. Though Nakamoto's name is Japanese, and he stated in 2012 that he was a man living in Japan, most of the speculation has involved software and cryptography experts in the United States or Europe.",
     "response": "The answer is uncertain because this man was presumed to be living in Japan but he or she could be from Europe or American or anywhere in the world.",
-    "category": "closed_qa",
-    "id": 1571
+    "category": "closed_qa"
   },
   {
+    "id": 2095,
     "instruction": "Given this paragraph about the Ain Elzarga Wetland, why is this location one of the most important wetlands in the region?",
     "context": "Ain Elzarga Wetland is a Ramsar-protected wetland of Libya. It was established in 2000 and covers an area of 33 hectares (82 acres). Ramsar says of it: \"A small natural sebkha or depression with at least one natural connection to the sea, wet all year round but with increasing water levels and salinity during summer. The sebkha, with mudflats and salt marsh community, is surrounded by dunes from east to west and rocky hills to the south and east. The site is one of the most important wetlands in the area of the El Kouf National Park for migratory waterbirds. The birdwatching and ecotourism potential is considerable but undeveloped. Unsustainable hunting and destruction of vegetation, especially during summer, are considered threats.",
     "response": "The Ain Elzarga Wetland is an important wetland due to being the home for migratory waterbirds.",
-    "category": "closed_qa",
-    "id": 2095
+    "category": "closed_qa"
   },
   {
+    "id": 2032,
     "instruction": "Give me 3 ideas for an instant serotonin boost.",
     "context": "",
     "response": "If you want an instant boost of serotonin, try the following things: \n1. Work in a few minutes of exercise, even a short walk can help boost your mood. \n2. Take yourself out for your favorite treat, whether it's a meal at your favorite restaurant, going to your favorite coffee shop, or picking up your favorite ice cream.\n3. Think of a happy memory and remember the events of that day.",
-    "category": "brainstorming",
-    "id": 2032
+    "category": "brainstorming"
   },
   {
+    "id": 294,
     "instruction": "Given this paragraph about blockchain, how did blockchain influence bitcoin cryptocurrency?",
     "context": "Blockchains are typically managed by a peer-to-peer (P2P) computer network for use as a public distributed ledger, where nodes collectively adhere to a consensus algorithm protocol to add and validate new transaction blocks. Although blockchain records are not unalterable, since blockchain forks are possible, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance. A blockchain was created by a person (or group of people) using the name (or pseudonym) Satoshi Nakamoto in 2008 to serve as the public distributed ledger for bitcoin cryptocurrency transactions, based on previous work by Stuart Haber, W. Scott Stornetta, and Dave Bayer. The implementation of the blockchain within bitcoin made it the first digital currency to solve the double-spending problem without the need of a trusted authority or central server. The bitcoin design has inspired other applications and blockchains that are readable by the public and are widely used by cryptocurrencies. The blockchain may be considered a type of payment rail.",
     "response": "Blockchain is the technology that enables the existence of cryptocurrency and bitcoin is the name of the best-known cryptocurrency. The implementation of bitcoin using blockchain made it the first digital currency to solve the double-spending problem without the need of a trusted authority or central server. Bitcoin has inspired other applications and blockchains that are highly available, public, and are widely used by cryptocurrencies.",
-    "category": "closed_qa",
-    "id": 294
+    "category": "closed_qa"
   },
   {
+    "id": 909,
     "instruction": "What are options for materials to build a house?",
     "context": "",
     "response": "Depending on your geographic location, different materials will be available to you. Typical construction materials include brick, cement, concrete, gravel, steel and lumber. In the United States, it is very common to see houses built with lumber since this material is readily available, however in other regions in the world such as Europe and Latin America, it is very common to see use of brick, concrete and steel for a typical house.",
-    "category": "brainstorming",
-    "id": 909
+    "category": "brainstorming"
   },
   {
+    "id": 2611,
     "instruction": "Which league are West Ham in and where is there ground?",
     "context": "West Ham United Football Club is an English professional football club that plays its home matches in Stratford, East London. The club competes in the Premier League, the top tier of English football. The club plays at the London Stadium, having moved from their former home, the Boleyn Ground, in 2016.",
     "response": "West Ham United are in the English Premier League which is the top tier in England. They play at the London Stadium in Stratford. Stratford is in East London. Up until 2016 West Ham played at the Boleyn Ground.",
-    "category": "summarization",
-    "id": 2611
+    "category": "summarization"
   },
   {
+    "id": 3426,
     "instruction": "Name some Ivy League schools",
     "context": "",
     "response": "Some Ivy League schools are Cornell, Harvard, Yale, Dartmouth and Columbia",
-    "category": "brainstorming",
-    "id": 3426
+    "category": "brainstorming"
   },
   {
+    "id": 858,
     "instruction": "From the given paragraph, write some points on Church.",
     "context": "A church, church building or church house is a building used for Christian worship services and other Christian religious activities. The earliest identified Christian church is a house church founded between 233 and 256. From the 11th through the 14th centuries, there was a wave of church construction in Western Europe.\n\nSometimes, the word church is used by analogy for the buildings of other religions. Church is also used to describe the Christian religious community as a whole, or a body or an assembly of Christian believers around the world.",
     "response": "1. A church, church building, or church house is a structure used for Christian religious activities such as worship ceremonies.\n2. A home church that was established between 233 and 256 is the earliest known Christian congregation.\n3. In Western Europe, there was a wave of church building from the 11th through the 14th centuries.\n4. The word \"church\" is occasionally used as an analogy for the structures of other religions.\n5. The word \"church\" is also used to refer to the global body of Christian believers as well as the Christian religious community as a whole.",
-    "category": "summarization",
-    "id": 858
+    "category": "summarization"
   },
   {
+    "id": 3770,
     "instruction": "Give me a bulleted list of things to consider when deciding where to apply to college.",
     "context": "",
     "response": "The following should be considered when deciding where to apply to college:\n1. Academic programs the college offers\n2. Cost of attendance\n3. Location of the campus\n4. Admission requirements and expectations\n5. Size of the student population\n6. Extracurricular activities the college offers",
-    "category": "brainstorming",
-    "id": 3770
+    "category": "brainstorming"
   },
   {
+    "id": 8,
     "instruction": "Give me the top 5 golf equipment company names.",
     "context": "",
     "response": "Titleist, Taylormade, Callaway, Ping, Cobra",
-    "category": "brainstorming",
-    "id": 8
+    "category": "brainstorming"
   },
   {
+    "id": 3859,
     "instruction": "Can you please tell some details about Malhar Rao Holkar from the given text?",
     "context": "Malhar Rao Holkar (1694\u20131766), a Maratha chief serving Peshwa Baji Rao, established the dynasty's rule over Indore. In the 1720s, he led Maratha armies in Malwa region, and in 1733 was granted 9 parghanas in the vicinity of Indore by the Peshwa. The township of Indore had already existed as an independent principality established by Nandlal Mandloi of Kampel, Nandlal Mandloi was won by the Maratha force and allowed them to camp across the Khan River. In 1734, Malhar Rao established a camp later called Malharganj. In 1747, he started the construction of his royal palace, the Rajwada. By the time of his death, he ruled much of Malwa, and was acknowledged as one of the five virtually independent rulers of the Maratha Confederacy.\n\nHe was succeeded by Ahilyabai Holkar (r. 1767\u20131795), his daughter-in-law. She was born in the Chaundi village in Maharashtra. She moved the capital to Maheshwar, south of Indore on the Narmada River. Rani Ahilyabai was a prolific builder and patron of Hindu temples in Maheshwar and Indore. She also built temples at sacred sites outside her kingdom, from Dwarka in Gujarat east to the Kashi Vishwanath Temple at Varanasi on the Ganges.",
     "response": "1. Malhar Rao Holkar (1694\u20131766), a Maratha , established the Dynasty 's rule over Indore.\n2.In  the 1720s he led Maratha armies in Malwa region and in1733 was granted 9 parghanas in the vicinity of Indore by the peshwa.\n3. The township of Indore had already existed as an independent principality established by Nandlal Mandloi of kampel\n4. Nandlal Mandloi was won by Maratha force and allowed them to camp across the Khan river.\n5.In 1734, Malhar Rao established a camp later called Malhar ganj.\n6. In 1747,he started the construction of his royal palace,the Rajwada.",
-    "category": "summarization",
-    "id": 3859
+    "category": "summarization"
   },
   {
+    "id": 2305,
     "instruction": "Who is LaVelle Smith Jr.?",
     "context": "LaVelle Smith Jr is an American choreographer and dancer. Known for his work in the music videos of singers such as En Vogue, Michael Jackson, Janet Jackson and Beyonc\u00e9 Knowles, Smith has won the MTV Video Music Award for Best Choreography five times.",
     "response": "LaVelle Smith Jr is an American choreographer and dancer. Known for his work in the music videos of singers such as En Vogue, Michael Jackson, Janet Jackson and Beyonc\u00e9 Knowles, Smith has won the MTV Video Music Award for Best Choreography five times.\nSmith had originally wanted to pursue a career in drama, auditioning at the Youth Performing Arts School in Louisville, Kentucky. Upon failing the audition, Smith was given the option to study dance. Graduating from YPAS in 1983, Smith moved to Chicago and was employed by Gus Giordano in the dance troupe Giordano Jazz Dance Chicago. Unhappy with the level of pay, Smith auditioned for numerous dancing roles, while facing racial prejudice. \"When that happens, you realize that you have to be even better or move to L.A. where it doesn't matter,\" he said later.\n\nNoticed by singer Michael Jackson, Smith landed a job as a dancer before becoming his choreographer. Smith worked on three of Jackson's world tours; Bad, Dangerous and HIStory. He also worked as a choreographer in Michael Jackson's Ghosts, and for the musical Thriller - Live.\n\nSmith appeared on the concert tours of The Rolling Stones, Diana Ross and Janet Jackson's Rhythm Nation 1814 Tour. Smith also worked for Victoria Beckham after the Spice Girl made a return as a solo artist.\n\nSmith was awarded four MTV Video awards for co-choreographing En Vogue's music videos \"My Lovin'\" (1992), \"Free Your Mind\" (1993), \"Whatta Man\" (1994) and Michael Jackson's duet with sister Janet, \"Scream\" (1995). The music video for Beyonc\u00e9's \"Crazy in Love\" won Smith his fifth MTV Video Music Award for Best Choreography in 2003.\n\nHis other awards include a SSDC Bob Fosse award and an Emmy award. Smith was also the youngest inductee into the Millers Gallery of Greats.\n\nSmith has choreographed Invincible: A Glorious Tribute To Michael Jackson featuring Jeffrey Perez and Pete Carter.\n\nSmith's work with Michael Jackson is the subject of the 2019 documentary film The Man Behind The Dance.",
-    "category": "summarization",
-    "id": 2305
+    "category": "summarization"
   },
   {
+    "id": 3945,
     "instruction": "What is Area 51 and what makes it famous?",
     "context": "Area 51 is the common name of a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range. A remote detachment administered by Edwards Air Force Base, the facility is officially called Homey Airport (ICAO: KXTA, FAA LID: XTA) or Groom Lake (after the salt flat next to its airfield). Details of its operations are not made public, but the USAF says that it is an open training range, and it is commonly thought to support the development and testing of experimental aircraft and weapons systems. The intense secrecy surrounding the base has made it the frequent subject of conspiracy theories and a central component of unidentified flying object (UFO) folklore.",
     "response": "Area 51 is a facility in Nevada operated by the United States government. The origin of the name is unknown. It's believed its primary purpose is to develop and test aircraft and weapons. However, in recent years and decades, Area 51 has become famous and synonymous in pop culture with conspiracy theories, especially ones involving UFOs. It requires extremely high levels of government clearance to access Area 51. Thus, the mystery of its operations still remains.",
-    "category": "summarization",
-    "id": 3945
+    "category": "summarization"
   },
   {
+    "id": 3805,
     "instruction": "Jill, a 60-year-old personal training client, wants to improve her hip flexibility. She\nrepeatedly bounces up and down, trying to touch her toes from a standing position. Will hip\nflexibility be the expected outcome of this exercise? Is her technique appropriate? What\nmodifications would you make, if any?",
     "context": "",
     "response": "In practice, she may find some improvements in her hip flexibility, but certainly this is not the right, nor optimal, technique to improve her hip flexibility. She risks injuring herself with this kind of movement. This is because every tendon has a stretch reflex, and when triggered, will cause the muscle connected to it to contract; for example, when the patellar tendon underneath your knee is hit by your doctor during your yearly checkup, your quads contract involuntarily and your leg kicks up. When you are stretching, you are elongating the muscles. If you bounce while stretching, you can activate your tendon\u2019s stretch reflex, causing your muscle to try and contract while also elongating it, which may tear the muscle or even detach the tendon from the bone in extreme cases. I would recommend her to not bounce during toe touches, and focus on keeping the motion static.",
-    "category": "brainstorming",
-    "id": 3805
+    "category": "brainstorming"
   },
   {
+    "id": 2703,
     "instruction": "What are the different ways to work with Subject Matter Experts to build a presentation?",
     "context": "",
     "response": "Clarify the goal of the presentation.\nDetermine a clear call to action for the audience.\nAnswer the question, \"why will this call to action benefit the audience?\"\nFocus on message before building slides.\nFocus on the flow of the presentation when reviewing and editing. \nPay attention to transitions.\nHelp the subject matter expert build slides.\nDevelop a point of view on the content and make suggestions based on that point of view \nand your knowledge of what the audience needs.\nDevelop a script.\nPractice the presentation. Edit the script after practicing when you see improvements.",
-    "category": "brainstorming",
-    "id": 2703
+    "category": "brainstorming"
   },
   {
+    "id": 1796,
     "instruction": "What is a \"love hotel\"?",
     "context": "A love hotel is a type of short-stay hotel found around the world operated primarily for the purpose of allowing guests privacy for sexual activities. The name originates from \"Hotel Love\" in Osaka, which was built in 1968 and had a rotating sign. Although love hotels exist all over the world, the term \"love hotel\" is often used to refer specifically to those located within Japan.",
     "response": "A love hotel is a type of short-stay hotel found around the world operated primarily for the purpose of allowing guests privacy for sexual activities.",
-    "category": "closed_qa",
-    "id": 1796
+    "category": "closed_qa"
   },
   {
+    "id": 4381,
     "instruction": "Who are some students at Hogwarts in Hufflepuff house that were in the same year as Harry Potter?",
     "context": "",
     "response": "Hogwarts is the fictitious school in the Harry Potter book series. The books mentions several students in Harry Potter's year from the Hufflepuff house, such as Megan Jones, Susan Bones, Ernie Macmilian, Zacharias Smith, and Hannah Abbott.",
-    "category": "brainstorming",
-    "id": 4381
+    "category": "brainstorming"
   },
   {
+    "id": 4560,
     "instruction": "Given this paragraph about video game consoles, what was the first console?",
     "context": "The history of video game consoles, both home and handheld, had their origins in the 1970s. The concept of home consoles used to play games on a television set was founded by the 1972 Magnavox Odyssey, first conceived by Ralph H. Baer in 1966. Handheld consoles bore out from electro-mechanical games that had used mechanical controls and light-emitting diodes (LED) as visual indicators. Handheld electronic games had replaced the mechanical controls with electronic and digital components, and with the introduction of Liquid-crystal display (LCD) to create video-like screens with programmable pixels, systems like the Microvision and the Game & Watch became the first handheld video game consoles, and fully realized by the Game Boy system.",
     "response": "The Magnavox Odyssey in 1972",
-    "category": "closed_qa",
-    "id": 4560
+    "category": "closed_qa"
   },
   {
+    "id": 4312,
     "instruction": "Give me 10 different ideas for how to spend a rainy Saturday afternoon",
     "context": "",
     "response": "- Go to a movie\n- Play a video game\n- Read a book\n- Shop at an indoor mall\n- Host a lunch party\n- Exercise at the gym\n- Clean the house\n- Meditate\n- Call an old friend\n- Catch up on work",
-    "category": "brainstorming",
-    "id": 4312
+    "category": "brainstorming"
   },
   {
+    "id": 274,
     "instruction": "Who are the best guitarists of all time?",
     "context": "",
     "response": "Although there have been many great guitarists over the years, Slash, Eric Clapton, Eddie Van Halen, Jimi Hendrix, Carlos Santana, Slash, Prince and Jimmy Page are the most commonly thought of as the best ever.",
-    "category": "brainstorming",
-    "id": 274
+    "category": "brainstorming"
   }
 ]
