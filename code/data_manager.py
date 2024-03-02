@@ -13,6 +13,10 @@ with open("data\databricks-dolly-15k.jsonl") as f:
 chosen = ['summarization', 'closed_qa', 'brainstorming']
 filtered_data = [item for item in data if item.get('category') in chosen]
 
+# add IDs
+for i, item in enumerate(filtered_data):
+    item['id'] = i + 1  
+
 # make sure that categories are equally distributed
 counts = Counter(item['category'] for item in filtered_data)
 min_count = min(counts.values())
