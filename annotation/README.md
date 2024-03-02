@@ -10,6 +10,9 @@
 5. Annotate remaining 54 items
 5. Please, post an issue with the item ID in the name, if you want to discuss a case
 
+*Tip: If you want to annotate in VScode you can download extension `vscode-edit-csv` to edit csv in table format
+And to make sure that long lines in JSON file are split to fit in the window, press `Alt+Z`*  
+
 **Length**
 ...
 
