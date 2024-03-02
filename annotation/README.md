@@ -14,25 +14,27 @@
 And to make sure that long lines in JSON file are split to fit in the window, press `Alt+Z`*  
 
 **Length**
-...
+- Is the length of the answer appropriate?
 
 **Structure**
-...
+- Is the answer well structured?
 
 **Informativity**
-...
+- Is the amount of information in the answer appropriate for the task at hand (not too much,
+not too little)?
 
 **Manner**
-...
-
+- Is the answer respectful and friendly?
+- 
 **Coherence**
-...
+- Is the answer coherent ~~(on-topic, avoiding irrelevant off-topic information)~~?
+  (well-connected, clear and carefully considered)?
 
 **Evidence**
-...
+- Is important information in the answer backed up by evidence or arguments?
 
 **Correctness**
-...
+- Is the answer factually correct?
 
 **Certainty** 
-...
+- Is the answer stated as a verified fact which can be relied upon?
