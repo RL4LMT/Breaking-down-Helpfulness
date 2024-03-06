@@ -1,6 +1,8 @@
 import json
 import random
 import csv
+import os
+import pandas as pd
 from collections import Counter
 
 # load the dataset
@@ -56,3 +58,25 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
 
         for _id in ids:
             writer.writerow({'id': _id})
+
+def modify_csv_files(folder_path):
+    # remove columns
+    files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
+    columns = ['length_relevance','length_perfomance','manner_relevance','manner_perfomance','certainty_relevance','certainty_perfomance']
+    for file in files:
+        file_path = os.path.join(folder_path, file)
+        df = pd.read_csv(file_path)
+        df = df.drop(columns=columns, errors='ignore')
+
+        # rename coherence -> on-topic
+        if 'coherence_relevance' in df.columns:
+            df = df.rename(columns={'coherence_relevance': 'on-topic_relevance'})
+        if 'coherence_perfomace' in df.columns:   
+           df = df.rename(columns={'coherence_perfomace': 'on-topic_perfomace'})
+
+        # overwrite
+        df.to_csv(file_path, index=False)
+
+if __name__ == "__main__":
+    folder_path = 'C:/Users/User/Documents/UNI/WiSe_2023/RL/Project/annotation'
+    modify_csv_files(folder_path)
