@@ -13,9 +13,19 @@
 *Tip: If you want to annotate in VScode you can download extension `vscode-edit-csv` to edit csv in table format
 And to make sure that long lines in JSON file are split to fit in the window, press `Alt+Z`*  
 
+# Annotation speed  
+
+- Darja: 25 items in ~28 minutes (1.12min per item)  
+- Giulio C  
+- Giulio P  
+- Kristin  
+- Zhuge
+- 
+# Components
+
 **Length**
 - Is the length of the answer appropriate?
-
+  
 **Structure**
 - Is the answer well structured?
 
@@ -26,9 +36,8 @@ not too little)?
 **Manner**
 - Is the answer respectful and friendly?
 - 
-**Coherence**
-- Is the answer coherent ~~(on-topic, avoiding irrelevant off-topic information)~~?
-  (well-connected, clear and carefully considered)?
+**On-topic (ex Coherence)**
+- Is the answer coherent (on-topic, avoiding irrelevant off-topic information)?
 
 **Evidence**
 - Is important information in the answer backed up by evidence or arguments?
