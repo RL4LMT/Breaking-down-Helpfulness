@@ -1,4 +1,4 @@
-id,structure_relevance,structure_perfomance,informativity_relevance,informativity_perfomance,On-topic_relevance,On-topic_perfomace,evidence_relevance,evidence_perfomance,correctness_relevance,correctness_perfomance
+id,structure_relevance,structure_perfomance,informativity_relevance,informativity_perfomance,on-topic_relevance,on-topic_perfomace,evidence_relevance,evidence_perfomance,correctness_relevance,correctness_perfomance
 2113,1,4,1,3,1,3,1,4,1,4
 534,1,4,1,4,1,4,0,0,0,0
 4220,0,0,1,3,1,4,0,0,0,0
