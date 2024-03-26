@@ -1,218 +1,212 @@
-{
-    "summarization": [
-        {
-            "id": 802,
-            "instruction": "What is the plot of Jojo's Bizarre Adventures?",
-            "context": "The universe of JoJo's Bizarre Adventure is a reflection of the real world with the added existence of supernatural forces and beings. In this setting, some people are capable of transforming their inner spiritual power into a Stand (\u30b9\u30bf\u30f3\u30c9, Sutando); another significant form of energy is Hamon (\u6ce2\u7d0b, \"Ripple\"), a martial arts technique that allows its user to focus bodily energy into sunlight via controlled breathing. The narrative of JoJo's Bizarre Adventure is split into parts with independent stories and different characters. Each of the series' protagonists is a member of the Joestar family, whose mainline descendants possess a star-shaped birthmark above their left shoulder blade and a name that can be abbreviated to the titular \"JoJo\". The first six parts take place within a single continuity whose generational conflict stems from the rivalry between Jonathan Joestar and Dio Brando, while the latter three parts take place in an alternate universe where the Joestar family tree is heavily altered.",
-            "response": "JoJo's Bizarre Adventure is a manga and anime about a family called the Joestars with a name that can usually be abbreviated to Jojo. The story takes place in a world similar to the real world but with added supernatural forces such as inner energy personifying into reality called Hamon. In the later parts, a new force emerges called Stands that give each user an additional power. The story is split into parts following a descendant of the Joestar family and the antagonist is usually Dio Brando or an associate.",
-            "category": "summarization"
-        },
-        {
-            "id": 1284,
-            "instruction": "What are the lightweight weight requirements at the collegiate level in the United States?",
-            "context": "At the collegiate level in the United States, the lightweight weight requirements can be different depending on competitive season. For fall regattas (typically head races), the lightweight cutoff for men is 165.0 lb. and 135.0 lb. for women. In the spring season (typically sprint races), the lightweight cutoff for men is 160.0 lb., with a boat average of 155.0 lb. for the crew; for women, the lightweight cutoff is 130.0 lb.",
-            "response": "In the United States, the lightweight weight requirements differ based on the season. In the spring season, the lightweight cutoff for men is 160 pounds with a boat average of 155 pounds. The lightweight cutoff for women is 130 pounds.",
-            "category": "summarization"
-        },
-        {
-            "id": 2052,
-            "instruction": "What is Unanimous?",
-            "context": "Unanimous is a United Kingdom-based game show broadcast on Channel 4 from 27 October 2006 to 15 December 2006. It was based on an American game show titled Unan1mous.",
-            "response": "Unanimous is a United Kingdom-based game show broadcast on Channel 4 from 27 October 2006 to 15 December 2006. It was based on an American game show titled Unan1mous.\n\nUnanimous: The Fallout, was shown on E4 later at night after Unanimous. It was hosted by comedians Paddy McGuinness and Olivia Lee and featured regular guest Karl Daly, played by Tom Bennett.\n\nThe 'Host' of the show was Alex Humes. Although fairly unknown, Humes starred in the reality TV programme Space Cadets, also for Channel 4, where he played one of the Russian pilots. The voice-over for the programme was provided by Phil Gallagher.",
-            "category": "summarization"
-        },
-        {
-            "id": 168,
-            "instruction": "To which countries have The Netherlands borders with.",
-            "context": "The Netherlands (Dutch: Nederland [\u02c8ne\u02d0d\u0259rl\u0251nt] (listen)), informally Holland, is a country located in northwestern Europe with overseas territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces; it borders Germany to the east, and Belgium to the south, with a North Sea coastline to the north and west. It shares maritime borders with the United Kingdom, Germany and Belgium in the North Sea. The country's official language is Dutch, with West Frisian as a secondary official language in the province of Friesland. Dutch, English and Papiamento are official in the Caribbean territories.\n\nThe four largest cities in the Netherlands are Amsterdam, Rotterdam, The Hague and Utrecht. Amsterdam is the country's most populous city and the nominal capital. The Hague holds the seat of the States General, Cabinet and Supreme Court. The Port of Rotterdam is the busiest seaport in Europe. Schiphol is the busiest airport in the Netherlands, and the third busiest in Europe. The Netherlands is a founding member of the European Union, Eurozone, G10, NATO, OECD, and WTO, as well as a part of the Schengen Area and the trilateral Benelux Union. It hosts several intergovernmental organisations and international courts, many of which are centred in The Hague.\n\nNetherlands literally means \"lower countries\" in reference to its low elevation and flat topography, with nearly 26% falling below sea level. Most of the areas below sea level, known as polders, are the result of land reclamation that began in the 14th century. In the Republican period, which began in 1588, the Netherlands entered a unique era of political, economic, and cultural greatness, ranked among the most powerful and influential in Europe and the world; this period is known as the Dutch Golden Age. During this time, its trading companies, the Dutch East India Company and the Dutch West India Company, established colonies and trading posts all over the world.\n\nWith a population of 17.8 million people, all living within a total area of 41,850 km2 (16,160 sq mi)\u2014of which the land area is 33,500 km2 (12,900 sq mi)\u2014the Netherlands is the 16th most densely populated country in the world and the second-most densely populated country in the European Union, with a density of 531 people per square kilometre (1,380 people/sq mi). Nevertheless, it is the world's second-largest exporter of food and agricultural products by value, owing to its fertile soil, mild climate, intensive agriculture, and inventiveness.\n\nThe Netherlands has been a parliamentary constitutional monarchy with a unitary structure since 1848. The country has a tradition of pillarisation and a long record of social tolerance, having legalised abortion, prostitution and euthanasia, along with maintaining a liberal drug policy. The Netherlands allowed women's suffrage in 1919 and was the first country to legalise same-sex marriage in 2001. Its mixed-market advanced economy has the thirteenth-highest per capita income globally.",
-            "response": "The Netherlands borders Germany to the east, and Belgium to the south, with a North Sea coastline to the north and west. It shares maritime borders with the United Kingdom, Germany and Belgium in the North Sea.",
-            "category": "summarization"
-        },
-        {
-            "id": 2696,
-            "instruction": "What is the Tritonia auriculata",
-            "context": "Tritonia auriculata is a species of dendronotid nudibranch. It is a marine gastropod mollusc in the family Tritoniidae.",
-            "response": "Tritonia auriculata is a species of dendronotid nudibranch. It is a marine gastropod mollusc in the family Tritoniidae",
-            "category": "summarization"
-        },
-        {
-            "id": 363,
-            "instruction": "What is The Dark Side of the Moon?",
-            "context": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. Developed during live performances before recording began, it was conceived as a concept album that would focus on the pressures faced by the band during their arduous lifestyle, and also deal with the mental health problems of former band member Syd Barrett, who departed the group in 1968. New material was recorded in two sessions in 1972 and 1973 at EMI Studios (now Abbey Road Studios) in London.",
-            "response": "The Dark Side of the Moon is Pink Floyd's 8th studio album. It is about the band's difficult lifestyle and touches on the mental health problems of former band member Syd Barrett.",
-            "category": "summarization"
-        },
-        {
-            "id": 1580,
-            "instruction": "Is the Jakobshorn in Davos worth a trip",
-            "context": "The Jakobshorn (2,590 metres (8,500 ft)) is a mountain of the Albula Alps, overlooking Davos in the Swiss canton of Graub\u00fcnden. It is also one of the five skiing regions of the Davos Klosters Mountains, offering 14 pistes.\n\n\nJakobshorn panorama\nLocated at the northern end of the range between the Dischmatal and Sertigtal, the Jakobshorn is served by a two-part cable car running from Davos Platz. Once on the mountain there are three chairlifts, one short cable car, and one T-Bar. Since 1995 there has also been a two-person chair-lift, running from near the base station to the near the bottom of Usser Isch.\n\nThere are a variety of pistes on the Jakobshorn\u2014blue, red and black\u2014and the mountain is renowned for being a centre for snowboarding; Bolgen provides an illuminated super pipe.\n\nPistes are very wide and the area is popular with novice skiers, there are however a number of black terrains for the more adventurous skier. The main two lifts also open during the summer, from July\u2013October, and there are many walks on the Jakobshorn.\n\nThe Jakobshorn is also a favoured take-off point for hang-gliders and snowkiters.",
-            "response": "The Jakobshorn (2,590 metres (8,500 ft)) is a mountain of the Albula Alps, overlooking Davos in the Swiss canton of Graub\u00fcnden. It is also one of the five skiing regions of the Davos Klosters Mountains, offering 14 pistes.\n\nThere are a variety of pistes on the Jakobshorn\u2014blue, red and black\u2014and the mountain is renowned for being a centre for snowboarding; Bolgen provides an illuminated super pipe.\n\nPistes are very wide and the area is popular with novice skiers, there are however a number of black terrains for the more adventurous skier. The main two lifts also open during the summer, from July\u2013October, and there are many walks on the Jakobshorn.\n\nThe Jakobshorn is also a favoured take-off point for hang-gliders and snowkiters.",
-            "category": "summarization"
-        },
-        {
-            "id": 3408,
-            "instruction": "When was the first Fallout game released?",
-            "context": "Fallout is a series of post-apocalyptic role-playing video games\u2014and later action role-playing games\u2014created by Interplay Entertainment. The series is set during the 21st, 22nd and 23rd centuries, and its atompunk retrofuturistic setting and art work are influenced by the post-war culture of 1950s United States, with its combination of hope for the promises of technology and the lurking fear of nuclear annihilation. A forerunner of Fallout is Wasteland, a 1988 game developed by Interplay Productions to which the series is regarded as a spiritual successor.\n\nThe series' first title, Fallout, was developed by Black Isle Studios and released in 1997, and its sequel, Fallout 2, the following year. With the tactical role-playing game Fallout Tactics: Brotherhood of Steel, development was handed to Micro Fort\u00e9 and 14 Degrees East. In 2004, Interplay closed Black Isle Studios, and continued to produce Fallout: Brotherhood of Steel, an action game with role-playing elements for the PlayStation 2 and Xbox, without Black Isle Studios. Fallout 3, the third entry in the main series, was released in 2008 by Bethesda Softworks, and was followed by Fallout: New Vegas, developed by Obsidian Entertainment. Fallout 4 was released in 2015, and Fallout 76 released on November 14, 2018.\n\nBethesda Softworks owns the rights to the Fallout intellectual property. After acquiring it, Bethesda licensed the rights to make a massively multiplayer online role-playing game (MMORPG) version of Fallout to Interplay. The MMORPG got as far as beta stage under Interplay, but a lengthy legal dispute between Bethesda Softworks and Interplay halted the development of the game and led to its eventual cancellation, as Bethesda claimed in court that Interplay had not met the terms and conditions of the licensing contract. The case was settled in early 2012.\n\nOrigins\nThe ideas of the Fallout series began with Interplay Productions' Wasteland, released in 1988. At that time, Interplay was not a publisher and used Electronic Arts for distribution of the game. According to Interplay's founder, Brian Fargo, they wanted to explore a post-apocalyptic setting and created Wasteland for that. Sometime after release, Interplay decided to shift focus and become a publisher while still developing games. Fargo wanted to continue to use the Wasteland intellectual property but could not negotiate the rights back from Electronic Arts. Still wanting to do something in a post-apocalyptic setting, Fargo and his team decided to make a new setting and game. They determined what aspects of Wasteland were positives and wrote and developed a new game around them. The result was the first Fallout games, which released nearly ten years after Wasteland.",
-            "response": "Fallout (1997)\nReleased in October 1997, Fallout takes place in a post-apocalyptic Southern California, beginning in the year 2161. The protagonist, referred to as the Vault Dweller, is tasked with recovering a water chip in the Wasteland to replace the broken one in their underground shelter home, Vault 13. Afterwards, the Vault Dweller must thwart the plans of a group of mutants, led by a grotesque entity named the Master. Fallout was originally intended to run under the GURPS role-playing game system. However, a disagreement with the creator of GURPS, Steve Jackson, over the game's violent content required Black Isle Studios to develop the new SPECIAL system. Fallout's atmosphere and artwork are reminiscent of post-World War II United States during the Cold War era and the fear that the country was headed for nuclear war in the real world.",
-            "category": "summarization"
-        },
-        {
-            "id": 112,
-            "instruction": "What is Cup Game?",
-            "context": "The cup game is a children's clapping game that involves tapping and hitting a cup using a defined rhythm.",
-            "response": "The cup game is a children's clapping game that involves tapping and hitting a cup using a defined rhythm. The game can be played by many players seated around a table and is often played in large groups. Each player possesses a cup and in unison the players tap out the defined rhythm using their cups. It can be played competitively, where the rhythm speeds up in each \"round\", and a player making a mistake in the rhythm must drop out of the game, with a new \"round\" starting after each elimination, and game play continuing until only one player remains, with that player being the winner.",
-            "category": "summarization"
-        },
-        {
-            "id": 3802,
-            "instruction": "Without quoting directly from the text give me a summary of the half dome hike.",
-            "context": "The Half Dome Cable Route hike runs from the valley floor to the top of the dome in 8.2 mi (13 km) (via the Mist Trail), with 4,800 ft (1,460 m) of elevation gain. The length and difficulty of the trail used to keep it less crowded than other park trails, but in recent years the trail traffic has grown to as many as 800 people a day. The hike can be done from the valley floor in a single long day, but many people break it up by camping overnight in Little Yosemite Valley. The trail climbs past Vernal Fall and Nevada Fall, then continues into Little Yosemite Valley, then north to the base of the northeast ridge of Half Dome itself.\n\nThe final 400 ft (120 m) ascent is steeply up the rock between two steel cables used as handholds. The cables are fixed with bolts in the rock and raised onto a series of metal poles in late May (the poles do not anchor the cables). The cables are taken down from the poles for the winter in early October, but they are still fixed to the rock surface and can be used. The National Park Service recommends against climbing the route when the cables are down or when the surface of the rock is wet and slippery. The Cable Route is rated class 3, while the same face away from the cables is rated class 5.\n\n\nThe Cable Route gets crowded on the weekends\nThe Cable Route can be crowded. In past years, as many as 1,000 hikers per day have climbed the dome on a summer weekend, and about 50,000 hikers climb it every year.\n\nSince 2011, all hikers who intend to ascend the Cable Route must now obtain permits before entering the park when the cables are up between May and October. Permits are checked by a ranger on the trail, and no hikers without permits are allowed to hike beyond the base of the sub-dome or to the bottom of the cables. Hikers caught bypassing the rangers to visit either the sub-dome or main dome without a permit face fines of up to $5,000 and/or 6 months in jail.\n\nBackpackers with an appropriate wilderness permit can receive a Half Dome permit when they pick up their wilderness permit with no additional reservation required. Rock climbers who reach the top of Half Dome without entering the subdome area can descend on the Half Dome Trail without a permit.\n\nThe top of Half Dome is a large, flat area where climbers can relax and enjoy their accomplishment. The summit offers views of the surrounding areas, including Little Yosemite Valley and the Valley Floor. A notable location to one side of Half Dome is the \"Diving Board\", where Ansel Adams took his photograph Monolith, the Face of Half Dome on April 10, 1927. Often confused with \"the Visor,\" a small overhanging ledge at the summit, the Diving Board is on the shoulder of Half Dome.\n\nFrom 1919 when the cables were erected through 2011, there have been seven fatal falls from the cables. The latest fatality occurred on September 5, 2019.\n\nLightning strikes can be a risk while on or near the summit. On July 27, 1985, five hikers were struck by lightning, resulting in two fatalities.\n\nThe Cable Route was added to the National Register of Historic Places in 2012.",
-            "response": "The half dome hike is 8.2 miles long with 4800 ft elevation gain. This hike can be done in a single long day or in two days by camping overnight in Little Yosemite Valley. The trail goes past Vernal and Nevada waterfalls, continues to Little Yosemite Valley and then to the half dome itself. The final 400 ft of the hike involves a steep ascent up the rock using the two steel cables fixed with bolts in the rock. The cables are put up between May and October and it is not recommended to climb the route when cables are down since the surface can be wet and slippery. All the hikers to half dome are required to obtain permits which are checked by a ranger on the trail. Hikers caught bypassing the rangers without permits are subject to penalties.",
-            "category": "summarization"
-        }
-    ],
-    "closed_qa": [
-        {
-            "id": 4313,
-            "instruction": "Why is the Chernobyl disaster considered to be the world's worst-ever civil nuclear incident when only an excess of 15 childhood thyroid cancer deaths were documented as of 2011?",
-            "context": "The Chernobyl disaster was a nuclear accident that occurred on 26 April 1986 at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR in the Soviet Union. Called the world's worst-ever civil nuclear incident, it is one of only two nuclear energy accidents rated at seven\u2014the maximum severity\u2014on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear disaster in Japan. The initial emergency response, together with later decontamination of the environment, involved more than 500,000 personnel and cost an estimated 18 billion roubles\u2014roughly US$68 billion in 2019, adjusted for inflation. Chernobyl's health effects to the general population are uncertain. An excess of 15 childhood thyroid cancer deaths were documented as of 2011. A United Nations committee found that to date fewer than 100 deaths have resulted from the fallout. Determining the total eventual number of exposure related deaths is uncertain based on the linear no-threshold model, a contested statistical model. Model predictions of the eventual total death toll in the coming decades vary. The most widely cited studies by the World Health Organization predict an eventual 9,000 cancer related fatalities in Ukraine, Belarus and Russia.",
-            "response": "The Chernobyl disaster was called the world's worst-ever civil nuclear incident because it is one of only two nuclear energy accidents rated at seven\u2014the maximum severity\u2014on the International Nuclear Event Scale. The initial emergency response, together with later decontamination of the environment, involved more than 500,000 personnel and cost an estimated 18 billion roubles\u2014roughly US$68 billion in 2019, adjusted for inflation. Even though Chernobyl's health effects to the general population are uncertain, the World Health Organization predict an eventual 9,000 cancer related fatalities in Ukraine, Belarus and Russia.",
-            "category": "closed_qa"
-        },
-        {
-            "id": 4292,
-            "instruction": "Based on the paragraph about the Korean War, what is the name of the new sovereign state created in the north?",
-            "context": "In 1910, Imperial Japan annexed Korea, where it ruled for 35 years until its surrender at the end of World War II on 15 August 1945. The United States and the Soviet Union divided Korea along the 38th parallel into two zones of occupation. The Soviets administered the northern zone and the Americans administered the southern zone. In 1948, as a result of Cold War tensions, the occupation zones became two sovereign states. A socialist state, the Democratic People's Republic of Korea, was established in the north under the totalitarian communist leadership of Kim Il-sung, while a capitalist state, the Republic of Korea, was established in the south under the autocratic leadership of Syngman Rhee. Both governments of the two new Korean states claimed to be the sole legitimate government of all of Korea, and neither accepted the border as permanent.",
-            "response": "Democratic People's Republic of Korea",
-            "category": "closed_qa"
-        },
-        {
-            "id": 1065,
-            "instruction": "Who was the first couple to win the Nobel prize?",
-            "context": "Marie Salomea Sk\u0142odowska\u2013Curie (/\u02c8kj\u028a\u0259ri/ KURE-ee, French pronunciation: \u200b[ma\u0281i ky\u0281i], Polish pronunciation: [\u02c8marja skw\u0254\u02c8d\u0254fska k\u02b2i\u02c8ri]; born Maria Salomea Sk\u0142odowska, Polish: [\u02c8marja sal\u0254\u02c8m\u025ba skw\u0254\u02c8d\u0254fska]; 7 November 1867 \u2013 4 July 1934) was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice, and the only person to win a Nobel Prize in two scientific fields. Her husband, Pierre Curie, was a co-winner of her first Nobel Prize, making them the first-ever married couple to win the Nobel Prize and launching the Curie family legacy of five Nobel Prizes. She was, in 1906, the first woman to become a professor at the University of Paris.",
-            "response": "Marie Curie and Pierre Curie are the first couple to win the Nobel prize.",
-            "category": "closed_qa"
-        },
-        {
-            "id": 43,
-            "instruction": "What is the origin of the name of the herb Rosemary?",
-            "context": "alvia rosmarinus (/\u02c8s\u00e6lvi\u0259 \u02ccr\u0252sm\u0259\u02c8ra\u026an\u0259s/), commonly known as rosemary, is a shrub with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region. Until 2017, it was known by the scientific name Rosmarinus officinalis (/\u02ccr\u0252sm\u0259\u02c8ra\u026an\u0259s \u0259\u02ccf\u026as\u026a\u02c8ne\u026al\u026as/), now a synonym.\n\nIt is a member of the sage family Lamiaceae, which includes many other medicinal and culinary herbs. The name \"\"rosemary\"\" derives from Latin ros marinus (lit.\u2009'dew of the sea'). Rosemary has a fibrous root system",
-            "response": "The name \"rosemary\" derives from Latin ros marinus.",
-            "category": "closed_qa"
-        },
-        {
-            "id": 1727,
-            "instruction": "Which major countries border Mongolia?",
-            "context": "Mongolia (/m\u0252\u014b\u02c8\u0261o\u028ali\u0259/ (listen)) is a landlocked country in East Asia, bordered by Russia to the north and China to the south. It covers an area of 1,564,116 square kilometres (603,909 square miles), with a population of just 3.3 million, making it the world's most sparsely populated sovereign nation. Mongolia is the world's largest landlocked country that does not border a closed sea, and much of its area is covered by grassy steppe, with mountains to the north and west and the Gobi Desert to the south. Ulaanbaatar, the capital and largest city, is home to roughly half of the country's population.",
-            "response": "Russia and China",
-            "category": "closed_qa"
-        },
-        {
-            "id": 2457,
-            "instruction": "Given a reference text about Adventfjorden, how wide and long is it?",
-            "context": "Adventfjorden (Advent Bay) is a 7 km long and 4 km wide bay running south-eastwards from the southern side of Isfjorden, on the west coast of Spitsbergen in Svalbard. The name represents a corruption of Adventure Bay - probably named after the Hull-built whaleship Adventure, which operated in Isfjorden in 1656. The fjord was originally[when?] known as Klass Billen Bay. At the head of Adventfjorden is Adventdalen (Advent Valley).\n\nThe former mining-camp of Longyearbyen (now Svalbard's main town) lies on the fjord's southwestern shore, while another former mining-camp, Hiorthhamn, is located on its northeastern shore.",
-            "response": "Adventfjorden is 4km wide and 7km long.",
-            "category": "closed_qa"
-        },
-        {
-            "id": 4154,
-            "instruction": "who is Haile Sellassie?",
-            "context": "Haile Selassie I (Ge'ez: \u1240\u12f3\u121b\u12ca \u1280\u12ed\u1208 \u1225\u120b\u1234, romanized: Q\u00e4damawi H\u00e4yl\u00e4 S\u0259llas\u00e9,[nb 2] Amharic pronunciation: [\u02c8ha\u026al\u0259 s\u0268l\u02c8lase] (listen);[nb 3] born Tafari Makonnen; 23 July 1892 \u2013 27 August 1975) was Emperor of Ethiopia from 1930 to 1974. He rose to power as Regent Plenipotentiary of Ethiopia (Enderase) for Empress Zewditu from 1916. Haile Selassie is widely considered a defining figure in modern Ethiopian history, and the key figure of Rastafari, a religious movement in Jamaica that emerged shortly after he became emperor in the 1930s. He was a member of the Solomonic dynasty, which claims to trace lineage to Emperor Menelik I, believed to be the son of King Solomon and Makeda the Queen of Sheba.",
-            "response": "Haile Selassie (Amharic: \u1240\u12f3\u121b\u12ca \u1280\u12ed\u1208 \u1225\u120b\u1234) was a former Emperor of Ethiopia. He ruled the country from 1930 to 1974.  His first name before he became emperor was Ras Teferi Mekonnen. The religion movement, Rastafari, after the name of Ras Teferi Mekonnen, emerged in Jamaica shortly after Haile Selassie became emperor.  His root is from an extended Solomon and Queen of Sheba(Makeda).",
-            "category": "closed_qa"
-        },
-        {
-            "id": 1275,
-            "instruction": "What is Venture Capital?",
-            "context": "Venture capital (commonly abbreviated as VC) is a form of private equity financing that is provided by venture capital firms or funds to startups, early-stage, and emerging companies that have been deemed to have high growth potential or which have demonstrated high growth (in terms of number of employees, annual revenue, scale of operations, etc). Venture capital firms or funds invest in these early-stage companies in exchange for equity, or an ownership stake. Venture capitalists take on the risk of financing risky start-ups in the hopes that some of the companies they support will become successful. Because startups face high uncertainty, VC investments have high rates of failure. The start-ups are usually based on an innovative technology or business model and they are usually from high technology industries, such as information technology (IT), clean technology or biotechnology.",
-            "response": "Venture capital firms invest in early-stage companies in exchange for equity.",
-            "category": "closed_qa"
-        },
-        {
-            "id": 4670,
-            "instruction": "What is Violet Constance Jessop's nickname?",
-            "context": "Violet Constance Jessop (2 October 1887 \u2013 5 May 1971), often referred to as the \"Queen of sinking ships\" or \"Miss Unsinkable,\" was an Argentine woman of Irish heritage who worked as an ocean liner stewardess, memoirist, and nurse in the early 20th century. Jessop is most well known for having survived the sinking of both the RMS Titanic in 1912 and her sister ship the HMHS Britannic in 1916, as well as having been onboard the eldest of the three sister ships, the RMS Olympic, when it collided with the British warship HMS Hawke in 1911.",
-            "response": "She is commonly referred to as \"Miss Unsinkable\" or Queen of sinking ships\".",
-            "category": "closed_qa"
-        },
-        {
-            "id": 3391,
-            "instruction": "Given a reference text that describes about hotpot, from which country does this dish originate?",
-            "context": "Hot pot or hotpot (simplified Chinese: \u706b\u9505; traditional Chinese: \u706b\u934b; pinyin: hu\u01d2gu\u014d; lit. 'fire pot'), also known as soup-food or steamboat, is a dish whereby a heat source placed on the dining table keeps a pot of soup stock simmering, and a variety of Chinese foodstuffs and ingredients are served beside the pot for the diners to put into the hot stock.",
-            "response": "Hot pot or Hotpot is originated from China.",
-            "category": "closed_qa"
-        }
-    ],
-    "brainstorming": [
-        {
-            "id": 41,
-            "instruction": "What are some different things you should bring with you on a day hiking trip?",
-            "context": "",
-            "response": "You should bring water, a snack, sunscreen, hiking boots, a first aid kit and a cellphone",
-            "category": "brainstorming"
-        },
-        {
-            "id": 2767,
-            "instruction": "What is the best color ?",
-            "context": "",
-            "response": "The best color should be black and white",
-            "category": "brainstorming"
-        },
-        {
-            "id": 3952,
-            "instruction": "Best vacation in Mexico",
-            "context": "",
-            "response": "Cancun, best beach vacation in Mexico.You can visit Playa Del Carman, Tulum and one of the new Wondars in the world.",
-            "category": "brainstorming"
-        },
-        {
-            "id": 2000,
-            "instruction": "What is the best way to get to Philadelphia from Downingtown if you do not have a car?",
-            "context": "",
-            "response": "The first thing you would do would be to look up where the Downingtown train station is in relation to where you are. Find the train schedule and allow the appropriate time to walk to the train station. Board the SEPTA train and ride from there into Philadelphia.",
-            "category": "brainstorming"
-        },
-        {
-            "id": 3794,
-            "instruction": "List 7 exotic fruits that I should try.",
-            "context": "",
-            "response": "1. Dragon fruit\n2. Passion fruit \n3. Cherimoya\n4. Soursop\n5. Star fruit\n6. Papaya\n7. Mangosteen",
-            "category": "brainstorming"
-        },
-        {
-            "id": 3343,
-            "instruction": "How can a technical expert identify a business use case?",
-            "context": "",
-            "response": "Often enterprises need help when a business user and technical expert try to define a business use case.  A technical expert, in-house or vendor, considers it an engineering problem, while a business user needs it to have a business impact.  Multiple frameworks can help build consensus.  However, an ideal approach will go through these steps.\n1. Identify a business outcome.  This is a very high-level outcome that is industry aligned and has no technical description.  An example from the healthcare industry is a 'better patient experience.'\n2. List strategies defined by an organisation to deliver these outcomes.  To our example in step 1, one approach is reducing patient wait time when attending a hospital.'\n3. Clarify the KPIs and measurements listed in these strategies.  In this example, it can be 'Max patient wait time of 20 mins'. \n4. List business capabilities that can deliver results towards these KPIs.  Here we can think of ways patients can register their details electronically on their own or hospital devices vs paper forms.  Each entry will initiate an automated process to assign the right staff and resources to address patient needs.\n5. Build technical capabilities that will deliver above listed business capabilities.  An online form integrated with AI Bot service and workflow automation can reduce time and manual intervention.\n\nThese technical capabilities that deliver a business capability towards a business outcome should be considered a 'Business Use Case'.",
-            "category": "brainstorming"
-        },
-        {
-            "id": 3353,
-            "instruction": "What are the most important tools to own when I am an apartment renter?",
-            "context": "",
-            "response": "As a renter, you\u2019ll often find yourself hanging pictures, assembling furniture, installing floating shelves, opening and cutting up boxes, storing things on high shelves, tightening screws or bolts that come loose over time, cleaning cobwebs, measuring furniture or a room where you\u2019d like to put furniture, unclogging a toilet, or any number of other activities centered around daily apartment life. \n\nTo do these things, you\u2019ll need a small number of tools, including:\n- A standard toilet plunger, because toilets get clogged. Get this most important tool first.\n- A 1\u201d wide tape measure. Get one that\u2019s 25ft long. The wide width makes it easier for one person to measure long runs or furniture by themselves. A 25ft length will be long enough to measure the longest wall of most rooms and any piece of furniture.\n- A small level to evenly hang pictures and anything else you can think of. It should be about 10\u201d to 12\u201d long.\n- A pair of #2 Phillips head and #2 flat tip screwdrivers. Or, a ratcheting screwdriver with a set of replaceable screwdriver tips. To tighten loose screws or assemble furniture.\n- A folding step-stool that has two or three steps, and can support two to three hundred pounds. To quickly and safely reach those high shelves, hang pictures, and get close to things that are too high off the ground for you to reach standing in your flat shoes.\n- A comfortable-in-hand hammer, to drive nails for hanging pictures, gently tap things together, or break things apart. A wooden handled, curved-claw hammer that weighs between 12oz-16oz will serve most users well. When pulling nails, place a thin piece of wood between the hammerhead and delicate surfaces such as sheetrock to avoid damaged. Good hardware stores carry both.\n- A pair of adjustable wrenches for tightening just about anything. You\u2019ll often need a pair of\nwrenches to both hold and tighten the same fastener. A smaller 8\u201d and larger 10\u201d adjustable\nwrenches make a good combination for most tasks.\n- A utility knife and a package of quality blades. To safely cut open boxes and other packaging, as well as trim paper, fabrics, textiles, wood\u2026etc. The knife should feel secure in your hand and have a large, easy to turn knob to open the knife to change blades. Buy a package of high-quality name brand replacement blades to keep on hand.\n- An extra power receptacle for an emergency or unplanned usage. Always have an extra on\nhand\u2026you will need it.\n- Hex wrenches. Also called Allen keys. You\u2019ll need these mainly for assembling things like\nfurniture. These come in both metric and imperial standard sizes. Both are useful to have, but if you only buy one set, make it metric, as it\u2019s the most common type of fastener used to assemble furniture.\n- A stud finder. Stud finders help you locate the wall studs hidden behind the sheetrock. You\u2019ll need to know where the wall studs are in order to know which fasteners you can use.\n- A tool box or bag. The only rule here is that the bag needs to hold all of your tools. So, you should probably buy this after you\u2019ve owned and used a few of the tools listed previously, and have a better idea how you\u2019d like to store them, carry them and access them.\n- A cordless drill and impact driver set, if you can afford it. All the other tools are more important, but these two tools are incredibly useful and make many jobs go faster and more pleasantly. The drill is for drilling. The impact driver is for driving or removing screws and other common fasteners. They look similar, but they are 2 different tools, each giving the user the right kinds of power and feedback required for the job each is designed for. It pays to buy quality here, so buy the best you can afford.",
-            "category": "brainstorming"
-        },
-        {
-            "id": 2299,
-            "instruction": "What are six different corporations with orange logos?",
-            "context": "",
-            "response": "Six examples of retail corporations with orange logos may include Home Depot, Fanta, Penguin Books, Harley-Davidson, ING, and Nickelodeon.",
-            "category": "brainstorming"
-        },
-        {
-            "id": 1182,
-            "instruction": "What are the main types of Thai curries?",
-            "context": "",
-            "response": "Green curry\nRed Curry\nYellow Curry\nMassaman Curry\nPanang Curry",
-            "category": "brainstorming"
-        },
-        {
-            "id": 31,
-            "instruction": "Give me a bulleted list of the 5 highest mountains in the world and their respective heights in meters",
-            "context": "",
-            "response": "* Mount Everest. Height: 8,849 meters\n* K2. Height: 8,611 meters\n* Kangchenjunga. Height: 8,586 meters\n* Lhotse. Height: 8,516 meters\n* Makalu. Height: 8,485 meters",
-            "category": "brainstorming"
-        }
-    ]
-}
+[
+    {
+        "id": 1601,
+        "instruction": "Give a single-sentence explanation of this paragraph without quoting from the text.",
+        "context": "The type of soil would make a difference to the design of the motte, as clay soils could support a steeper motte, whilst sandier soils meant that a motte would need a more gentle incline. Where available, layers of different sorts of earth, such as clay, gravel and chalk, would be used alternatively to build in strength to the design. Layers of turf could also be added to stabilise the motte as it was built up, or a core of stones placed as the heart of the structure to provide strength. Similar issues applied to the defensive ditches, where designers found that the wider the ditch was dug, the deeper and steeper the sides of the scarp could be, making it more defensive. Although militarily a motte was, as Norman Pounds describes it, \"almost indestructible\", they required frequent maintenance. Soil wash was a problem, particularly with steeper mounds, and mottes could be clad with wood or stone slabs to protect them. Over time, some mottes suffered from subsidence or damage from flooding, requiring repairs and stabilisation work.",
+        "response": "Soil type and composition play a significant role in the kind of mound that can be built to support a motte and the maintenance required to upkeep it.",
+        "category": "summarization"
+    },
+    {
+        "id": 801,
+        "instruction": "Where did Danny Dayton graduated from?",
+        "context": "Danny Dayton (born Daniel David Segall, November 20, 1923 \u2013 February 6, 1999) was an American actor and television director. Beginning in the 1950s, he played many roles in film and on TV. He had a recurring role as Hank Pivnik on All in the Family and had guest roles in M*A*S*H, The Incredible Hulk, Charlie's Angels and The Love Boat.\n\nDayton graduated from the school of journalism at New York University, before turning to acting. In addition to acting, Dayton also directed episodes of Occasional Wife, Here's Lucy, and the short-lived series Good Morning World.\n\nOn February 6, 1999, Dayton died of emphysema in Los Angeles, California.",
+        "response": "Danny Dayton graduated from the school of journalism at New York University.",
+        "category": "summarization"
+    },
+    {
+        "id": 1580,
+        "instruction": "Is the Jakobshorn in Davos worth a trip",
+        "context": "The Jakobshorn (2,590 metres (8,500 ft)) is a mountain of the Albula Alps, overlooking Davos in the Swiss canton of Graub\u00fcnden. It is also one of the five skiing regions of the Davos Klosters Mountains, offering 14 pistes.\n\n\nJakobshorn panorama\nLocated at the northern end of the range between the Dischmatal and Sertigtal, the Jakobshorn is served by a two-part cable car running from Davos Platz. Once on the mountain there are three chairlifts, one short cable car, and one T-Bar. Since 1995 there has also been a two-person chair-lift, running from near the base station to the near the bottom of Usser Isch.\n\nThere are a variety of pistes on the Jakobshorn\u2014blue, red and black\u2014and the mountain is renowned for being a centre for snowboarding; Bolgen provides an illuminated super pipe.\n\nPistes are very wide and the area is popular with novice skiers, there are however a number of black terrains for the more adventurous skier. The main two lifts also open during the summer, from July\u2013October, and there are many walks on the Jakobshorn.\n\nThe Jakobshorn is also a favoured take-off point for hang-gliders and snowkiters.",
+        "response": "The Jakobshorn (2,590 metres (8,500 ft)) is a mountain of the Albula Alps, overlooking Davos in the Swiss canton of Graub\u00fcnden. It is also one of the five skiing regions of the Davos Klosters Mountains, offering 14 pistes.\n\nThere are a variety of pistes on the Jakobshorn\u2014blue, red and black\u2014and the mountain is renowned for being a centre for snowboarding; Bolgen provides an illuminated super pipe.\n\nPistes are very wide and the area is popular with novice skiers, there are however a number of black terrains for the more adventurous skier. The main two lifts also open during the summer, from July\u2013October, and there are many walks on the Jakobshorn.\n\nThe Jakobshorn is also a favoured take-off point for hang-gliders and snowkiters.",
+        "category": "summarization"
+    },
+    {
+        "id": 463,
+        "instruction": "What were the four groundbreaking papers that Albert Einstein published",
+        "context": "Albert Einstein (/\u02c8a\u026ansta\u026an/ EYEN-styne; German: [\u02c8alb\u025b\u0281t \u02c8\u0294a\u026an\u0283ta\u026an] (listen); 14 March 1879 \u2013 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are the two pillars of modern physics. His mass\u2013energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed \"the world's most famous equation\". His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\", a pivotal step in the development of quantum theory. His intellectual achievements and originality resulted in \"Einstein\" becoming synonymous with \"genius\". Einsteinium, one of the synthetic elements in the periodic table, was named in his honor.\n\nIn 1905, a year sometimes described as his annus mirabilis ('miracle year'), Einstein published four groundbreaking papers. These outlined the theory of the photoelectric effect, explained Brownian motion, introduced special relativity, and demonstrated mass\u2013energy equivalence. Einstein thought that the laws of classical mechanics could no longer be reconciled with those of the electromagnetic field, which led him to develop his special theory of relativity. He then extended the theory to gravitational fields; he published a paper on general relativity in 1916, introducing his theory of gravitation. In 1917, he applied the general theory of relativity to model the structure of the universe. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules. He also investigated the thermal properties of light and the quantum theory of radiation, which laid the foundation of the photon theory of light.",
+        "response": "Albert Einstein, 14 March 1879 \u2013 18 April 1955 was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are the two pillars of modern physics. His mass\u2013energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed \"the world's most famous equation\". His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\", a pivotal step in the development of quantum theory. His intellectual achievements and originality resulted in \"Einstein\" becoming synonymous with \"genius\". Einsteinium, one of the synthetic elements in the periodic table, was named in his honor.\n\nIn 1905, a year sometimes described as his annus mirabilis ('miracle year'), Einstein published four groundbreaking papers. These outlined the theory of the photoelectric effect, explained Brownian motion, introduced special relativity, and demonstrated mass\u2013energy equivalence. Einstein thought that the laws of classical mechanics could no longer be reconciled with those of the electromagnetic field, which led him to develop his special theory of relativity. He then extended the theory to gravitational fields; he published a paper on general relativity in 1916, introducing his theory of gravitation. In 1917, he applied the general theory of relativity to model the structure of the universe. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules. He also investigated the thermal properties of light and the quantum theory of radiation, which laid the foundation of the photon theory of light.",
+        "category": "summarization"
+    },
+    {
+        "id": 2448,
+        "instruction": "Give me some details about the MV Cape Race please",
+        "context": "The MV Cape Race (T-AKR-9960) was originally built as the MV Seaspeed America for the Transocean RO-RO Corp. She was sold to various other corporations until she was purchased by the United States Navy in April 1993. She underwent conversion to fit a more active role in and serve a military need better and was placed back in service April 1993. She has served on multiple occasions but is currently in the US Ready Reserve Fleet.",
+        "response": "The MV Cape Race (T-AKR-9960) was originally built as the MV Seaspeed America for the Transocean RO-RO Corp. She was sold to various other corporations until she was purchased by the United States Navy in April 1993. \n\nShe underwent conversion to fit a more active role in and serve a military need better and was placed back in service April 1993. She has served on multiple occasions but is currently in the US Ready Reserve Fleet.",
+        "category": "summarization"
+    },
+    {
+        "id": 3891,
+        "instruction": "what was the manhattan project during world war 2?",
+        "context": "In June 1942, the US Army established the Manhattan Project to handle its part in the atom bomb project and began the process of transferring responsibility from the Office of Scientific Research and Development to the military. In September, Groves was appointed director of what became known as the Manhattan Project. He selected Oppenheimer to head the project's secret weapons laboratory. This choice surprised many, because Oppenheimer had left-wing political views and no record as a leader of large projects. Groves was concerned by the fact that Oppenheimer did not have a Nobel Prize and might not have had the prestige to direct fellow scientists.But he was impressed by Oppenheimer's singular grasp of the practical aspects of designing and constructing an atomic bomb and by the breadth of his knowledge. As a military engineer, Groves knew that this would be vital in an interdisciplinary project that would involve not just physics, but chemistry, metallurgy, ordnance and engineering. Groves also detected in Oppenheimer something that many others did not, an \"overweening ambition\" that Groves reckoned would supply the drive necessary to push the project to a successful conclusion. Isidor Rabi considered the appointment \"a real stroke of genius on the part of General Groves, who was not generally considered to be a genius\".",
+        "response": "The Manhattan Project was a research and development started by the US military during the second world war to produce the first nuclear weapons. Nuclear physicist Robert Oppenheimer was the director of the Los Alamos Laboratory that designed the actual bombs. Leslie Groves was initially not convinced that Oppenheimer could lead other scientists, but he was impressed that Oppenheimer had such a full grasp of the subject to lead this into an actual materialized atomic bomb. Because of the interdisciplinary nature of the subject, Oppenheimer also had an extreme drive to see the project to completion.",
+        "category": "summarization"
+    },
+    {
+        "id": 3827,
+        "instruction": "Please give me a bulleted list of countries that make up the Indian subcontinent from this passage",
+        "context": "The Indian subcontinent is a physiographical region in Southern Asia, situated on the Indian Plate, projecting southwards into the Indian Ocean from the Himalayas. Geopolitically, it includes the countries of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. The terms \"Indian subcontinent\" and \"South Asia\" are often used interchangeably to denote the region, although the geopolitical term of South Asia frequently includes Afghanistan, which may otherwise be classified as Central Asian.",
+        "response": "Here is the bulleted list of countries that comprise the Indian Subcontinent\n\n* Bangladesh\n* Bhutan\n* India\n* Maldives\n* Nepal\n* Pakistan\n* Sri Lanka",
+        "category": "summarization"
+    },
+    {
+        "id": 1973,
+        "instruction": "Who is Paul Cezanne?",
+        "context": "Paul C\u00e9zanne (/se\u026a\u02c8z\u00e6n/ say-ZAN, also UK: /s\u026a\u02c8z\u00e6n/ s\u0259-ZAN, US: /se\u026a\u02c8z\u0251\u02d0n/ say-ZAHN; French: [p\u0254l sezan]; 19 January 1839 \u2013 22 October 1906) was a French artist and Post-Impressionist painter whose work introduced new modes of representation and influenced avant garde artistic movements of the early 20th century. C\u00e9zanne is said to have formed the bridge between late 19th-century Impressionism and the early 20th century's new line of artistic enquiry, Cubism.",
+        "response": "Paul Cezanne was a French artist who introduced new modes of representation such as cubism in the early 20th century.",
+        "category": "summarization"
+    },
+    {
+        "id": 4570,
+        "instruction": "From this paragraph, what are indicators that Singapore's healthcare system performs well?",
+        "context": "Singapore has a generally efficient healthcare system, even though health expenditures are relatively low for developed countries. The World Health Organisation ranks Singapore's healthcare system as 6th overall in the world in its World Health Report. Singapore has had the lowest infant mortality rates in the world for the past two decades. In 2019, Singaporeans had the longest life expectancy of any country at 84.8 years. Women can expect to live an average of 87.6 years with 75.8 years in good health. The averages are lower for men. Singapore is ranked 1st on the Global Food Security Index.",
+        "response": "For the last two decades, Singapore has had the world's lowest infant mortality rates. Additionally, in 2019, Singapore had the world's longest life expectancy.",
+        "category": "summarization"
+    },
+    {
+        "id": 3261,
+        "instruction": "List me down some key aspects about windmills from given text.",
+        "context": "Wind-powered\u00a0machines may have been known earlier, but there is no clear evidence of windmills\nbefore the 9th century. Hero of Alexandria\u00a0(Heron) in first-century\u00a0Roman Egypt\u00a0described what appears\nto be a wind-driven wheel to power a machine. His description of a wind-powered\u00a0organ\u00a0is not a\npractical windmill but was either an early wind-powered toy or a design concept for a wind-powered\nmachine that may or may not have been a working device, as there is ambiguity in the text and issues\nwith the design. Another early example of a wind-driven wheel was the\u00a0prayer wheel, which is believed\nto have been first used in\u00a0Tibet\u00a0and\u00a0China, though there is uncertainty over the date of its first\nappearance, which could have been either\u00a0c.\u2009400, the 7th century, or after the 9th century.",
+        "response": "1. Before 9th century there is no evidence of Windmills.\n2. In first century roman Egypt , Heron described what is wind driven wheel to power machine.\n3. As per the description given by him the wind-powered organ was either an early wind-powered\ntoy or a design concept for a wind-powered machine that may or may not have been a working\ninstrument.\n4. One more early example(either the 7th century, or after the 9th century) of a wind-driven wheel\nwas the\u00a0prayer wheel, which was first used in\u00a0Tibet\u00a0and\u00a0China.",
+        "category": "summarization"
+    },
+    {
+        "id": 4292,
+        "instruction": "Based on the paragraph about the Korean War, what is the name of the new sovereign state created in the north?",
+        "context": "In 1910, Imperial Japan annexed Korea, where it ruled for 35 years until its surrender at the end of World War II on 15 August 1945. The United States and the Soviet Union divided Korea along the 38th parallel into two zones of occupation. The Soviets administered the northern zone and the Americans administered the southern zone. In 1948, as a result of Cold War tensions, the occupation zones became two sovereign states. A socialist state, the Democratic People's Republic of Korea, was established in the north under the totalitarian communist leadership of Kim Il-sung, while a capitalist state, the Republic of Korea, was established in the south under the autocratic leadership of Syngman Rhee. Both governments of the two new Korean states claimed to be the sole legitimate government of all of Korea, and neither accepted the border as permanent.",
+        "response": "Democratic People's Republic of Korea",
+        "category": "closed_qa"
+    },
+    {
+        "id": 229,
+        "instruction": "In which part of Germany is the town Kirchenlamitz located?",
+        "context": "Kirchenlamitz is a town in the district of Wunsiedel, in Bavaria, Germany. It is situated in the Fichtelgebirge, 13 km northwest of Wunsiedel and 19 km south of Hof.",
+        "response": "Bavaria",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2822,
+        "instruction": "Using the following text, list the top 4 drugs by revenue for Pfizer in 2022?",
+        "context": "Pfizer Inc. (/\u02c8fa\u026az\u0259r/ FY-z\u0259r) is an American multinational pharmaceutical and biotechnology corporation headquartered on 42nd Street in Manhattan, New York City. The company was established in 1849 in New York by two German entrepreneurs, Charles Pfizer (1824\u20131906) and his cousin Charles F. Erhart (1821\u20131891).\n\nPfizer develops and produces medicines and vaccines for immunology, oncology, cardiology, endocrinology, and neurology. The company's largest products by sales are the Pfizer\u2013BioNTech COVID-19 vaccine ($37 billion in 2022 revenues), Nirmatrelvir/ritonavir ($18 billion in 2022 revenues), Apixaban ($6 billion in 2022 revenues), a pneumococcal conjugate vaccine ($6 billion in 2022 revenues), and Palbociclib ($5 billion in 2022 revenues). In 2022, 42% of the company's revenues came from the United States, 8% came from Japan, and 50% came from other countries.\n\nPfizer was a component of the Dow Jones Industrial Average stock market index from 2004 to August 2020. The company ranks 43rd on the Fortune 500 and 43rd on the Forbes Global 2000.",
+        "response": "1. Pfizer\u2013BioNTech COVID-19 vaccine\n2. Nirmatrelvir/ritonavir \n3. Apixaban \n4. Palbociclib",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1767,
+        "instruction": "How many total soldiers sustained non-fatal injuries during WWI?",
+        "context": "World War I or the First World War (28 July 1914 \u2013 11 November 1918), often abbreviated as WWI, was one of the deadliest global conflicts in history. It was fought between two coalitions, the Allies (primarily France, the United Kingdom, Russia, Italy, Japan, and the United States) and the Central Powers (led by Germany, Austria-Hungary, and the Ottoman Empire). Fighting occurred throughout Europe, the Middle East, Africa, the Pacific, and parts of Asia. An estimated 9 million soldiers were killed in combat, plus another 23 million wounded, while 5 million civilians died as a result of military action, hunger, and disease. Millions more died as a result of genocide, while the 1918 Spanish flu pandemic was exacerbated by the movement of combatants during the war.",
+        "response": "23 million",
+        "category": "closed_qa"
+    },
+    {
+        "id": 3046,
+        "instruction": "Clarence Albert Pierce, Jr., tell me where he was born and what college he went attended.",
+        "context": "Clarence Albert Pierce, Jr. (born October 1, 1928) is an American politician in the state of Mississippi. He served in the Mississippi House of Representatives from 1952 to 1984. He was a teacher and farmer. He attended the University of Mississippi, graduating in 1950. Pierce served as an assistant to Senator James Eastland when the Mississippi House was not in session.",
+        "response": "Clarence Albert Pierce, Jr. was born on October 1, 1928 and attended the University of Mississippi.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1455,
+        "instruction": "In what month did Jens Stub die?",
+        "context": "Jens Stub (3 March 1764 \u2013 24 October 1819) was a Norwegian priest and politician. He was vicar on the island of Ve\u00f8ya and served as a representative at the Norwegian Constitutional Assembly at Eidsvoll in 1814.",
+        "response": "Jens Stub died in October.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2580,
+        "instruction": "What does FAS, MTO and ATO stand for?",
+        "context": "Final Assembly Schedule, often abbreviated as FAS and sometimes referred to as finishing schedule, is a schedule of end items to finish the product for specific customer orders in a make to order (MTO) or assemble-to-order (ATO) environment.",
+        "response": "FAS = Final Assembly Schedule\nMTO = make to order\nATO = assemble-to-order",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2614,
+        "instruction": "What is High-functioning autism?",
+        "context": "High-functioning autism (HFA) is an autism classification where a person exhibits no intellectual disability but may show deficits in communication, emotion recognition and expression, and social interaction.HFA is not included in the American Psychological Association's DSM-5 or the World Health Organization's ICD-10, subdividing autism based on intellectual capabilities. High-functioning autism is characterised by features similar to those of Asperger syndrome. The defining characteristic psychologists recognise there is a significant delay in developing early speech and language skills before three years. The diagnostic criteria of Asperger syndrome exclude a general language delay.\n\nOther differences in features of people with high-functioning autism from those with Asperger syndrome include the following:\n\nLower verbal reasoning ability\nBetter visual/spatial skills (Being uniquely artistically talented)\nLess deviating locomotion (e.g. clumsiness)\nProblems functioning independently\nCuriosity and interest in many different things\nNot as good at empathising with other people\nMale to female ratio (4:1) is much smaller\n\nAs of 2013, Asperger syndrome and high-functioning autism are no longer terms the American Psychological Association uses and have been merged into autism spectrum disorder (ASD). As of 2021, the World Health Organization also retired the terms and merged them into autism spectrum disorder.",
+        "response": "High-functioning autism (HFA) is an autism classification where a person exhibits no intellectual disability but may show deficits in communication, emotion recognition and expression, and social interaction. High-functioning autism is characterised by features similar to those of Asperger syndrome. The defining characteristic psychologists recognise there is a significant delay in developing early speech and language skills before three years. The diagnostic criteria of Asperger syndrome exclude a general language delay.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 662,
+        "instruction": "How many national high school records does Shana Woods currently hold based on the paragraph?",
+        "context": "Shana Woods (born July 7, 1988 in Bellflower, California) is an American track and field athlete. She holds the current national high school record in the multiple event heptathlon, which she set while attending Long Beach Polytechnic High School in Long Beach, California. She has exhibited proficiency in a variety of events. While still a sophomore at Long Beach Poly, she joined her teammates, including senior Shalonda Solomon in setting national high school records in the 4 \u00d7 400 metres relay, 4 \u00d7 200 metres relay and indoor 4 \u00d7 400 metres relay. All those records still stand. The indoor record also counts as the current U.S. Junior record.",
+        "response": "Shana Woods holds 4 national high school records currently",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1658,
+        "instruction": "Is Bullimore a first name?",
+        "context": "Bullimore is a surname. Notable people with the surname include:\n\nTony Bullimore (1939\u20132018), English sailor and businessman\nWayne Bullimore (born 1970), English footballer",
+        "response": "No, it is a surname.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2464,
+        "instruction": "What kind of farm animal can I have in my backyard without my neighbors noticing.",
+        "context": "",
+        "response": "Chickens may be an obvious answer, but even hens make enough noise to be noticed by a neighbor. If it's eggs you want, then choose quail. Quail are small and require less square footage than other birds, they are quieter than chickens or ducks and a hen can lay up to 300 eggs a year. The trade off is that the eggs are smaller and you may need to adjust recipes, three quail eggs are the equivalent to one chicken egg.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 2859,
+        "instruction": "What are five totally distinct, creative ways to describe the usefulness of the government?",
+        "context": "",
+        "response": "1. The government is a necessary evil, providing necessary services and protections for its citizens.\n2. The government is a necessary check, preventing abuse of power and ensuring a fair and just society.\n3. The government is a source of stability, ensuring that no one is left behind.\n4. The government is a powerful tool, providing the tools and resources to enable progress.\n5. The government is a force for good, promoting fairness, justice, and equality.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 2927,
+        "instruction": "Give me a list of ways to express your love to someone",
+        "context": "",
+        "response": "1. Write them a card\n2. Text them a beautiful message\n3. Send them some flowers\n4. Organise a date out\n5. Take a walk and tell them how you feel\n6. Spend quality time with them",
+        "category": "brainstorming"
+    },
+    {
+        "id": 340,
+        "instruction": "What are the fifty United States in alphabetical order, as of 2023?",
+        "context": "",
+        "response": "Alabama\nAlaska\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nFlorida\nGeorgia\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nOhio\nOklahoma\nOregon\nPennsylvania\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1012,
+        "instruction": "What's the best for indoor plant?",
+        "context": "",
+        "response": "1. Give less water only as much needed, do not over water it\n2. Keep it in indirect sunlight at least for 2 hours a day",
+        "category": "brainstorming"
+    },
+    {
+        "id": 470,
+        "instruction": "Give me a list of the top clean beauty brands for women in their 20s",
+        "context": "",
+        "response": "-Westman Atelier \n-Ilia \n-Kosas \n-RMS Beauty",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1492,
+        "instruction": "Give me a list of the best golf courses in America",
+        "context": "",
+        "response": "Pebble Beach, Torrey Pines, Pinehurst, TPC Scottsdale, Whistling Straights, Muirfield, Bethpage Black, Bay Hill",
+        "category": "brainstorming"
+    },
+    {
+        "id": 3611,
+        "instruction": "Best place to visit in the world",
+        "context": "",
+        "response": "1. Switzerland\n2. Maldives\n3, Hawaii",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1917,
+        "instruction": "Think up of different foods that are good for when you are sick",
+        "context": "",
+        "response": "Warm tea, chicken noodle soup, oranges, ginger chews",
+        "category": "brainstorming"
+    },
+    {
+        "id": 3775,
+        "instruction": "Given me a list of the seven most recent Indian prime ministers",
+        "context": "",
+        "response": "Here is the list of the seven most recent Indian Prime ministers:\n1. Narendra Modi - 2104 - now\n2. Manmohan Singh - 2004 - 2014\n3. Atal Bihari Vajpayee 1998 - 2004\n4. Inder Kumar Gujral 1997 - 1998\n5. H. D. Deve Gowda 1996 - 1997\n6. Atal Bihari Vajpayee 1996 - 1996\n7. P. V. Narasimha Rao 1991 - 1996",
+        "category": "brainstorming"
+    }
+]
