@@ -11,7 +11,6 @@ annotators = {
     "Kristin": pd.read_csv(filepath_or_buffer="../annotation/databricks-dolly-60-kristin.csv", usecols=lambda column: column != 'id').fillna(0).astype(int)[:n],
     "Zhuge": pd.read_csv(filepath_or_buffer="../annotation/databricks-dolly-60-zhuge.csv", usecols=lambda column: column != 'id').fillna(0).astype(int)[:n]
 }
-#"name":["Darja","GiulioC","GiulioP","Kristin", "Zhuge"]
 kappa_values = {}
 # Cohen's kappa values for each pair of annotators
 for annotator1, df1 in annotators.items():
@@ -28,3 +27,7 @@ for annotator1 in annotators.keys():
         row.append(round(kappa_values[(annotator1, annotator2)], 2))
     data.append(row)
 print(tabulate(data, headers=headers, tablefmt="grid"))
+
+lower_triangle = np.tril([[kappa_values[(a1, a2)] for a2 in annotators.keys()] for a1 in annotators.keys()],-1)
+mean_kappa = np.mean(lower_triangle[np.nonzero(lower_triangle)])
+print(f'The mean of the inner agreement is: {mean_kappa}')
