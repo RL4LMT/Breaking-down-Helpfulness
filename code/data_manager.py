@@ -7,6 +7,7 @@ from collections import Counter
 
 # helper methods
 
+
 def reduce_components_column(input_file, output_file):
     # can only run this once, remember to backup your file
     df = pd.read_csv(input_file)
@@ -18,6 +19,7 @@ def reduce_components_column(input_file, output_file):
     df.rename(columns=lambda x: x.replace('_perfomace', ''), inplace=True)
 
     df.to_csv(output_file, index=False)
+
 
 def count_categories(file_path):
     with open(file_path, 'r') as file:
@@ -38,6 +40,82 @@ def write_csv_with_ids(json_file, csv_file):
         writer.writeheader()
         for data_id in ids:
             writer.writerow({'id': data_id})
+
+
+def find_category(json_data, question_id):
+    category = ""
+    for item in json_data:
+        if item['id'] == question_id:
+            category = item.get('category')
+    return category
+
+
+def retrieve_json_data(json_data_dict, selected_questions_dict):
+    retrieved_data = {}
+    for file_name, category_data in selected_questions_dict.items():
+        retrieved_data[file_name] = {}
+        for category, ids in category_data.items():
+            retrieved_data[file_name][category] = []
+            json_data = json_data_dict[file_name]
+            for id in ids:
+                for item in json_data:
+                    if item['id'] == id:
+                        retrieved_data[file_name][category].append(item)
+                        break
+    return retrieved_data
+
+def save_json_data(retrieved_data):
+    for file_name, category_data in retrieved_data.items():
+        new_file_name = file_name.replace("1500", "30")
+        with open("../data/"+new_file_name + ".json", "w") as f:
+            json.dump(category_data, f, indent=4)
+
+
+def select_questions_for_llm_response(json_directory, csv_directory):
+    files = os.listdir(csv_directory)
+
+    csv_files = [file for file in files if file.startswith("databricks-dolly-1500_") and file.endswith(".csv")]
+
+    csv_data_dict = {}
+
+    for file in csv_files:
+        file_path = os.path.join(csv_directory, file)
+        data = pd.read_csv(file_path)
+        csv_data_dict[file.replace(".csv","")] = data
+
+    json_paths = os.listdir(json_directory)
+
+    json_files = [file for file in json_paths if file.startswith("databricks-dolly-1500_") and file.endswith(".json")]
+
+    json_data_dict = {}
+    for file in json_files:
+        file_path = os.path.join(json_directory, file)
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+            json_data_dict[file.replace(".json","")] = data
+    selected_questions_dict = {}
+
+    for file_name in csv_data_dict.keys():
+        selected_questions_dict[file_name] = {}
+        filtered_data = csv_data_dict[file_name].dropna(subset=['structure', 'informativity', 'on-topic', 'correctness'])
+        for category in ['summarization', 'closed_qa', 'brainstorming']:
+            category_ids = set()
+            category_question_ids_dict = {}
+            while len(category_ids) < 10:
+                random_row = filtered_data.sample(n=1)
+                random_id = random_row['id'].iloc[0]
+                json_data = json_data_dict[file_name]
+                cat = find_category(json_data, random_id)
+                if cat == category:
+                    category_ids.add(random_id)
+
+            selected_questions_dict[file_name][category] = category_ids
+
+    print(selected_questions_dict)
+    retrieved_json = retrieve_json_data(json_data_dict, selected_questions_dict)
+    save_json_data(retrieved_json)
+
+
 
 
 
@@ -137,11 +215,18 @@ def modify_csv_files(folder_path):
 
 
 if __name__ == "__main__":
-    name = "name"
-    # please put your name and run the method
-    # the helper method konly run once remember to back up your file
-    input_file = f'../annotation/databricks-dolly-60-{name}.csv'
-    reduce_components_column(input_file, input_file)
+    print("placeholder")
+    # select random data points for model generations
+    # select_questions_for_llm_response("../data/", "../annotation/")
+
+    # drop columns for 60 annotations
+    # name = "name"
+    # # please put your name and run the method
+    # # the helper method konly run once remember to back up your file
+    # input_file = f'../annotation/databricks-dolly-60-{name}.csv'
+    # reduce_components_column(input_file, input_file)
+
+
     # for i in range(5):  # check data distribution
     #     file_path = f'../data/databricks-dolly-1500_part{i+1}.json'
     #     print(file_path)

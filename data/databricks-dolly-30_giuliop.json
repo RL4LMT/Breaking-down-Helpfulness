@@ -1,0 +1,218 @@
+{
+    "summarization": [
+        {
+            "id": 3618,
+            "instruction": "Given the paragraph is Strip the most famous hotel in Las Vegas?",
+            "context": "The Las Vegas Strip is a stretch of Las Vegas Boulevard South in Clark County, Nevada, that is known for its concentration of resort hotels and casinos. The Strip, as it is known, is about 4.2 mi (6.8 km) long, and is immediately south of the Las Vegas city limits in the unincorporated towns of Paradise and Winchester, but is often referred to simply as \"Las Vegas\".\n\nMany of the largest hotel, casino, and resort properties in the world are on the Strip, known for its contemporary architecture, lights, and wide variety of attractions. Its hotels, casinos, restaurants, residential high-rises, entertainment offerings, and skyline have established the Strip as one of the most popular and iconic tourist destinations in the world and is one of the driving forces for Las Vegas's economy. Most of the Strip has been designated as an All-American Road, and the North and South Las Vegas Strip routes are classified as Nevada Scenic Byways and National Scenic Byways.",
+            "response": "The Strip is not a hotel in Las Vegas, but rather a 4.2-mile-long boulevard that is home to many of the city's largest hotels, casinos, and resort properties.",
+            "category": "summarization"
+        },
+        {
+            "id": 4678,
+            "instruction": "What is the Premier League?",
+            "context": "The Premier League (legal name: The Football Association Premier League Limited) is the highest level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). Seasons typically run from August to May with each team playing 38 matches (playing all other teams both home and away). Most games are played on Saturday and Sunday afternoons, with occasional weekday evening fixtures.",
+            "response": "The Premier League is the top tier in English Football. The league has 20 teams where the bottom 3 teams are relegated to the 2nd tier and the top 3 teams from the 2nd tier are promoted. Each team plays the other 19 teams twice. Once home and once away, for a total of 38 games. Most games are played on the weekends from August to May.",
+            "category": "summarization"
+        },
+        {
+            "id": 2504,
+            "instruction": "Based on this paragraph, tell me who was responsible for the discovery of nuclear fission.",
+            "context": "Nuclear fission of heavy elements was discovered on Monday 19 December 1938 in Berlin, by German chemist Otto Hahn and his assistant Fritz Strassmann in cooperation with Austrian-Swedish physicist Lise Meitner. Hahn understood that a \"burst\" of the atomic nuclei had occurred. Meitner explained it theoretically in January 1939 along with her nephew Otto Robert Frisch. Frisch named the process by analogy with biological fission of living cells. In their second publication on nuclear fission in February of 1939, Hahn and Strassmann predicted the existence and liberation of additional neutrons during the fission process, opening up the possibility of a nuclear chain reaction.",
+            "response": "Otto Hahn and his assistant Fritz Strassmann achieved nuclear fission in the laboratory, but could not explain what had happened. It was Lise Meitner and her nephew Otto Robert Frisch that interpreted the laboratory results and discovered that nuclear fission had occurred.",
+            "category": "summarization"
+        },
+        {
+            "id": 494,
+            "instruction": "Where is the Lighthouse Point, Bahamas",
+            "context": "Lighthouse Point, Bahamas, or simply Lighthouse Point, is a private peninsula in The Bahamas which serves as an exclusive port for the Disney Cruise Line ships. It is located in the south-eastern region of Bannerman Town, Eleuthera. In March 2019, The Walt Disney Company purchased the peninsula from the Bahamian government, giving the company control over the area.",
+            "response": "The Lighthouse Point, Bahamas, or simply Lighthouse Point, is a private peninsula in the Bahamas which serves as an exclusive port for the Disney Cruise Line ships. It is located in the south-eastern region of Bannerman Town, Eleuthera.",
+            "category": "summarization"
+        },
+        {
+            "id": 2639,
+            "instruction": "Which languages are spoken in Morocco",
+            "context": "Morocco's official languages are Arabic and Berber. The country's distinctive group of Moroccan Arabic dialects is referred to as Darija. Approximately 89.8% of the whole population can communicate to some degree in Moroccan Arabic. The Berber language is spoken in three dialects (Tarifit, Tashelhit and Central Atlas Tamazight). In 2008, Fr\u00e9d\u00e9ric Deroche estimated that there were 12 million Berber speakers, making up about 40% of the population. The 2004 population census reported that 28.1% of the population spoke Berber.\n\nFrench is widely used in governmental institutions, media, mid-size and large companies, international commerce with French-speaking countries, and often in international diplomacy. French is taught as an obligatory language in all schools. In 2010, there were 10,366,000 French-speakers in Morocco, or about 32% of the population.",
+            "response": "Morocco's official languages are Arabic and Berber. French is widely used in governmental institutions and media. English and Spanish are also used a lot in Morocco.",
+            "category": "summarization"
+        },
+        {
+            "id": 2994,
+            "instruction": "How is Praveen Babi remembered in Indian pop culture reference?",
+            "context": "Mahesh Bhatt, Babi's former partner, wrote and directed Arth (1982), a supposedly semi-autobiographical film about his relationship with Babi, and wrote and produced Woh Lamhe (2006) directed by his nephew Mohit Suri, based on his recollection and interpretation of his relationship with Babi and without any inputs from her.\n\nDesigner Manish Malhotra said: \"Parveen Babi brought minimalism into fashion. She was always impeccable, not overdoing it even once.\"",
+            "response": "Praveen Babi was a fashion icon of India. She was always dressed to impress and brought minimalism into fashion. Her ex-boyfriend made a couple of movies about his relationship with her in the movies Arth and Woh Lamhe.",
+            "category": "summarization"
+        },
+        {
+            "id": 2391,
+            "instruction": "What are the Olympic light weight events.",
+            "context": "The first lightweight events were added to the World Championships in 1974 for men and 1985 for women. Lightweight rowing was added to the Olympics in 1996 but this came under threat in 2002 when the Programme Commission of the IOC recommended that, outside combat sports and weightlifting, there should not be weight category events. The executive board overturned this recommendation and lightweight rowing continues at the Olympics, though only in the men's and women's double sculls.\n\nThere are two Olympic-class lightweight events: men's double sculls and women's double sculls. From 1996 - 2016 the men's Lightweight 4- was included in the Olympics.",
+            "response": "Two Olympic lightweight events are men's double sculls and women's double sculls",
+            "category": "summarization"
+        },
+        {
+            "id": 3834,
+            "instruction": "When was the Memphis album released",
+            "context": "Memphis is the seventeenth album recorded by Roy Orbison, and his tenth for MGM Records. The album was released in November 1972.\n\nHistory\nThe album took three weeks to make in March and April 1972. The album had one single, \"Memphis, Tennessee\", which became a minor hit in the US, charting at #84. Also included was a new, re-recorded version of Don Gibson's \"I Can't Stop Loving You\", which previously appeared on his 1960 album \"Lonely and Blue\". This was Orbison's final album that was released for London Records as Decca let Orbison out of their contract on June 30, 1972.",
+            "response": "Memphis is the seventeenth album recorded by Roy Orbison, and his tenth for MGM Records. The album was released in November 1972.\n\nThe album took three weeks to make in March and April 1972. The album had one single, \"Memphis, Tennessee\", which became a minor hit in the US, charting at #84. Also included was a new, re-recorded version of Don Gibson's \"I Can't Stop Loving You\", which previously appeared on his 1960 album \"Lonely and Blue\". This was Orbison's final album that was released for London Records as Decca let Orbison out of their contract on June 30, 1972.",
+            "category": "summarization"
+        },
+        {
+            "id": 3004,
+            "instruction": "What was the app after the second app released by YouTube?",
+            "context": "Through this period, YouTube tried several new ways to generate revenue beyond advertisements. In 2013, YouTube launched a pilot program for content providers to offer premium, subscription-based channels. This effort was discontinued in January 2018 and relaunched in June, with US$4.99 channel subscriptions. These channel subscriptions complemented the existing Super Chat ability, launched in 2017, which allows viewers to donate between $1 and $500 to have their comment highlighted. In 2014, YouTube announced a subscription service known as \"Music Key,\" which bundled ad-free streaming of music content on YouTube with the existing Google Play Music service. The service continued to evolve in 2015 when YouTube announced YouTube Red, a new premium service that would offer ad-free access to all content on the platform (succeeding the Music Key service released the previous year), premium original series, and films produced by YouTube personalities, as well as background playback of content on mobile devices. YouTube also released YouTube Music, a third app oriented towards streaming and discovering the music content hosted on the YouTube platform.",
+            "response": "The third app released by YouTube was YouTube Music, which oriented towards streaming and discovering the music content hosted on the YouTube platform",
+            "category": "summarization"
+        },
+        {
+            "id": 701,
+            "instruction": "What is Your Lie in April about?",
+            "context": "Fourteen-year-old piano prodigy, K\u014dsei Arima, becomes famous after winning several music competitions. When his mother Saki dies, K\u014dsei has a mental breakdown while performing at a piano recital; this results in him becoming unable to hear the sound of his piano, even though his hearing is otherwise unaffected.\n\nTwo years later, K\u014dsei has not touched the piano and views the world in monochrome. He does not focus on excelling in any activities and often spends time with his friends Tsubaki Sawabe and Ry\u014dta Watari. K\u014dsei meets Kaori Miyazono, an audacious, free-spirited, fourteen-year-old violinist whose playing style reflects her manic personality. Kaori helps K\u014dsei return to playing the piano, and shows him his playing style can be free and groundbreaking. As Kaori continues to uplift K\u014dsei's spirits, he quickly realizes he loves her, although she seems to only be interested in Ry\u014dta.\n\nDuring a performance, Kaori, who later explains that she is anemic and needs routine testing, collapses and is hospitalized. She is later diagnosed with Aplastic Anemia. She invites K\u014dsei to play with her at a gala but she does not arrive. Her health deteriorates and she becomes dejected. K\u014dsei plays a duet with a friend, which motivates Kaori to attempt a risky and potentially deadly surgery so she may possibly play with Kosei once more. While playing in the finals of the Eastern Japan Piano Competition, K\u014dsei sees Kaori's spirit accompanying him and realizes she has died during the surgery.\n\nAt her funeral, Kaori's parents give K\u014dsei a letter from Kaori that reveals she was aware of her impending death and became more free-spirited, both as a person and in her music, so she would not take her regrets to Heaven. She confesses she had been in love with K\u014dsei's piano playing since watching him perform at a concert when she was five. This inspired her to play the violin so she could play with him one day. Kaori fabricated her feelings towards Ry\u014dta so she could get closer to K\u014dsei without hurting Tsubaki, who harbored affection for K\u014dsei. She then confesses her love for him. Tsubaki comforts K\u014dsei and tells him she will be by his side. Kaori also leaves behind a picture of herself as a child, coming back from the concert that inspired her, with K\u014dsei in the background. K\u014dsei later frames this picture.",
+            "response": "Your Lie in April is a manga and an anime about friendship through music. The protagonist Kosei Arima is a very talented piano prodigy who goes through a mental breakdown from the pressure of performing and becomes deaf to the sound of his own piano. The world becomes monotonous and depressing until he meets Kaori Miyazono, a free-spirited violinist who reminds him of how to play music freely again. However, Kaori suffers from anemia and often has to go to the hospital. Despite this, the two often play together and Kosei falls in love. Kaori passes away soon after and leaves a letter for Kosei explaining how she loved him back and his piano playing. Kosei uses this as inspiration to get back into music and play freely once more.",
+            "category": "summarization"
+        }
+    ],
+    "closed_qa": [
+        {
+            "id": 2144,
+            "instruction": "What is the colloquial term for LSD?",
+            "context": "Lysergic acid diethylamide, commonly known as LSD (from German Lysergs\u00e4ure-diethylamid), also known colloquially as acid, is a potent psychedelic drug. Effects typically include intensified thoughts, emotions, and sensory perception. At sufficiently high dosages LSD manifests primarily mental, visual, as well as auditory, hallucinations. Dilated pupils, increased blood pressure, and increased body temperature are typical. Effects typically begin within half an hour and can last for up to 20 hours. LSD is also capable of causing mystical experiences and ego dissolution. It is used mainly as a recreational drug or for spiritual reasons. LSD is both the prototypical psychedelic and one of the \"classical\" psychedelics, being the psychedelics with the greatest scientific and cultural significance. LSD is typically either swallowed or held under the tongue.",
+            "response": "Lysergic acid diethylamide is commonly known as LSD or acid",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3649,
+            "instruction": "Where are the oldest oak trees in Central America?",
+            "context": "The Cerro Arenal Natural Reserve was declared a protected area on November 4, 1991, it compromises one of 78 protected areas of Nicaragua and is managed by Ministry of the Environment and Natural Resources (MARENA).\n\nThe highest point in the reserve is located inside a tropical cloud forest 1,570 meters above sea level, rain occurs 8 months annually, between May and December. Cerro Arenal Natural Reserve is one of the smallest protected areas of Nicaragua and is abundant with flora and fauna.  Many animals are present throughout the reserve, animals such as monkeys, and armadillos. The reserve also contains the oldest oak trees in Central America.",
+            "response": "The oldest oak trees reside in the Cerro Arenal Natural Reserve, which was officially declared a protected area on November 4, 1991.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 322,
+            "instruction": "Given the numerous awards in Major League Baseball, what is the Willie Mays World Series Most Valuable Player (MVP) Award?",
+            "context": "The Willie Mays World Series Most Valuable Player (MVP) Award is given to the Major League Baseball (MLB) player deemed to have the most impact on his team's performance in the World Series, which is the final round of the MLB postseason. The award was first presented in 1955 as the SPORT Magazine Award, but is now decided during the final game of the Series by a committee of reporters and officials present at the game. On September 29, 2017, it was renamed in honor of Willie Mays in remembrance of the 63rd anniversary of The Catch, which occurred the year prior to the award's debut; Mays never won the award himself.",
+            "response": "The Willie Mays World Series Most Valuable Player Award is given to the Major League Baseball player deemed to have the most impact on his team's performance in the World Series.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3499,
+            "instruction": "What is the capital of Telangana?",
+            "context": "Telangana (/\u02cct\u025bl\u0259n\u02c8\u0261\u0251\u02d0n\u0259/ (listen); Telugu: [\u02c8tela\u014b\u0261a\u02d0\u0273a], Urdu: [\u02c8t\u026al\u0259\u014b\u0261\u0251\u02d0na] (listen)) is a state in India situated on the south-central stretch of the Indian peninsula on the high Deccan Plateau. It is the eleventh-largest state and the twelfth-most populated state in India with a geographical area of 112,077 km2 (43,273 sq mi) and 35,193,978 residents as per 2011 census. On 2 June 2014, the area was separated from the northwestern part of Andhra Pradesh as the newly formed state of Telangana, with Hyderabad as its capital. Its other major cities include Warangal, Nizamabad, Khammam, Karimnagar and Ramagundam. Telangana is bordered by the states of Maharashtra to the north, Chhattisgarh to the northeast, Karnataka to the west, and Andhra Pradesh to the east and south. The terrain of Telangana consists mostly of the Deccan Plateau with dense forests covering an area of 27,292 km2 (10,538 sq mi). As of 2019, the state of Telangana is divided into 33 districts.",
+            "response": "Hyderabad",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3054,
+            "instruction": "Which company produces Hibiki Whisky?",
+            "context": "Hibiki (Japanese: \u97ff) (meaning \"resonance\" or \"echo\") is a premium blended whisky produced in Japan by Beam Suntory (a subsidiary of Suntory Beverage & Food Ltd, which itself is a subsidiary of Suntory Holdings of Osaka, Japan). It has won several awards.",
+            "response": "Hibiki Whisky is a premium blended whisky produced in Japan by Beam Suntory, a subsidiary of Suntory Beverage & Food Ltd / Suntory Holdings of Osaka, Japan.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 1775,
+            "instruction": "What is a PFD?",
+            "context": "Process engineering involves the utilization of multiple tools and methods. Depending on the exact nature of the system, processes need to be simulated and modeled using mathematics and computer science. Processes where phase change and phase equilibria are relevant require analysis using the principles and laws of thermodynamics to quantify changes in energy and efficiency. In contrast, processes that focus on the flow of material and energy as they approach equilibria are best analyzed using the disciplines of fluid mechanics and transport phenomena. Disciplines within the field of mechanics need to be applied in the presence of fluids or porous and dispersed media. Materials engineering principles also need to be applied, when relevant.\n\nManufacturing in the field of process engineering involves an implementation of process synthesis steps. Regardless of the exact tools required, process engineering is then formatted through the use of a process flow diagram (PFD) where material flow paths, storage equipment (such as tanks and silos), transformations (such as distillation columns, receiver/head tanks, mixing, separations, pumping, etc.) and flowrates are specified, as well as a list of all pipes and conveyors and their contents, material properties such as density, viscosity, particle-size distribution, flowrates, pressures, temperatures, and materials of construction for the piping and unit operations.",
+            "response": "PFD is an abbreviation for process flow diagram.\n\nProcess flow diagrams specify material flow paths, storage equipment (such as tanks and silos), transformations (such as distillation columns, receiver/head tanks, mixing, separations, pumping, etc.), and flowrates. They also list all pipes and conveyors and their contents, material properties such as density, viscosity, particle-size distribution, flowrates, pressures, temperatures, and materials of construction for the piping and unit operations.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 625,
+            "instruction": "What is the meaning of life?",
+            "context": "The meaning of life, or the answer to the question: \"What is the meaning of life?\", pertains to the significance of living or existence in general. Many other related questions include: \"Why are we here?\", \"What is life all about?\", or \"What is the purpose of existence?\" There have been many proposed answers to these questions from many different cultural and ideological backgrounds. The search for life's meaning has produced much philosophical, scientific, theological, and metaphysical speculation throughout history. Different people and cultures believe different things for the answer to this question.\n\nThe meaning of life can be derived from philosophical and religious contemplation of, and scientific inquiries about existence, social ties, consciousness, and happiness. Many other issues are also involved, such as symbolic meaning, ontology, value, purpose, ethics, good and evil, free will, the existence of one or multiple gods, conceptions of God, the soul, and the afterlife. Scientific contributions focus primarily on describing related empirical facts about the universe, exploring the context and parameters concerning the \"how\" of life. Science also studies and can provide recommendations for the pursuit of well-being and a related conception of morality. An alternative, humanistic approach poses the question, \"What is the meaning of my life?\"",
+            "response": "pertains to the significance of living or existence in general",
+            "category": "closed_qa"
+        },
+        {
+            "id": 761,
+            "instruction": "Who is Frank Lloyd Wright, and why is he famous?",
+            "context": "Frank Lloyd Wright (June 8, 1867 \u2013 April 9, 1959) was an American architect, designer, writer, and educator.\n\nHe designed more than 1,000 structures over a creative period of 70 years. Wright played a key role in the architectural movements of the twentieth century, influencing architects worldwide through his works and hundreds of apprentices in his Taliesin Fellowship. Wright believed in designing in harmony with humanity and the environment, a philosophy he called organic architecture. This philosophy was exemplified in Fallingwater (1935), which has been called \"the best all-time work of American architecture\".\n\nWright was the pioneer of what came to be called the Prairie School movement of architecture and also developed the concept of the Usonian home in Broadacre City, his vision for urban planning in the United States. He also designed original and innovative offices, churches, schools, skyscrapers, hotels, museums, and other commercial projects. Wright-designed interior elements (including leaded glass windows, floors, furniture and even tableware) were integrated into these structures. He wrote several books and numerous articles and was a popular lecturer in the United States and in Europe. Wright was recognized in 1991 by the American Institute of Architects as \"the greatest American architect of all time\". In 2019, a selection of his work became a listed World Heritage Site as The 20th-Century Architecture of Frank Lloyd Wright.\n\nRaised in rural Wisconsin, Wright studied civil engineering at the University of Wisconsin and then apprenticed in Chicago, briefly with Joseph Lyman Silsbee, and then with Louis Sullivan at Adler & Sullivan. Wright opened his own successful Chicago practice in 1893 and established a studio in his Oak Park, Illinois home in 1898. His fame increased and his personal life sometimes made headlines: leaving his first wife Catherine Tobin for Mamah Cheney in 1909; the murder of Mamah and her children and others at his Taliesin estate by a staff member in 1914; his tempestuous marriage with second wife Miriam Noel (m. 1923\u20131927); and his courtship and marriage with Olgivanna Lazovi\u0107 (m. 1928\u20131959).",
+            "response": "Frank Lloyd Wright continues to be an inspiration in architecture around the United States and many of his originally designed buildings and structures stand today.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 1436,
+            "instruction": "Which state is named in the passage?",
+            "context": "The Brownstown Marl is a geologic formation in Arkansas. It preserves fossils dating back to the Cretaceous period.",
+            "response": "Arkansas",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3038,
+            "instruction": "Given a reference text about the golden-green woodpecker, tell be how big they are.",
+            "context": "The golden-green woodpecker (Piculus chrysochloros) is a species of bird in subfamily Picinae of the woodpecker family Picidae. It is found in Panama and every mainland South American country except Chile and Uruguay.\n\nThe golden-green woodpecker is 18 to 27 cm (7.1 to 11 in) long and weighs 55 to 91 g (1.9 to 3.2 oz). Males and females have the same plumage except on their heads. Males of the nominate subspecies P. c. chrysochloros are red from forehead to nape, have olive green from the lores around the eye and onto the side of the neck, and successively a pale yellow stripe, a short red malar band, and an olive green stripe below that area. Their chin and upper throat are yellow. The nominate female has no red on its head; its forehead to nape are olive and it has an olive-brown malar area. Nominate adults have olive green upperparts. Their flight feathers are darker olive-brown and their tail dark olive-brown. Their underparts are pale yellow-buff with olive-brown bars. Their longtish beak is dark gray to blackish with a paler base, their iris white to bluish white, and the legs grayish green. Juveniles are generally duller than adults and have less well defined barring on their underparts.\n\nSubspecies P. c. xanthochlorus is smaller and brighter yellow than the nominate, and the female has a yellow crown. P. c. capistratus is very large and a darker olive green above than the nominate, and has less red in the malar area, a barred throat, and greenish white instead of yellow buff on their underparts. P. c. paraensis is intermediate in size. Its cheek stripe, throat, and underparts' base color are cinnamon-buff. Males have a green, not red, malar, and females have a greenish yellow crown. P. c. laemostictus is large and rather dark, with a plain whitish throat. P. c. polyzonus is also large, with a pale yellow cheek stripe and throat and a yellow base color on the underparts",
+            "response": "The golden-green woodpecker weighs between 55 and 91 grams and is between 18 and 27 centimeters long.",
+            "category": "closed_qa"
+        }
+    ],
+    "brainstorming": [
+        {
+            "id": 3171,
+            "instruction": "Think up five popular cities to visit on vacation in the United States",
+            "context": "",
+            "response": "Five cities tourists like to visit are New York City, Los Angeles, San Francisco, Miami and Chicago",
+            "category": "brainstorming"
+        },
+        {
+            "id": 3593,
+            "instruction": "Give me a list of great sci-fi",
+            "context": "",
+            "response": "Sci-fi movies can be graded by many different dimensions to determine \"the best\".  The largest universe market cap for a sci fi universe is Star Wars created by George Lucas and all its canon. Star Wars at its core story is about an all binding energy called the force which bound the galaxy together which a few people could harness its power.  Its a classic story of good vs evil paired with amazing special effects to give the viewer an immersive believable universe.  One of the longest running Sci Fi Series with a cult following was Stargate SG-1 which aired for 10 seasons and had two movies created.    Stargate SG-1 is about a network of inter-planetary gates that allowed for anyone to instantaneously travel between entire different planets.  The saga is ripe with discovering new cultures in foreign planets, intermixed with long story arcs about formidable foes and a team with a very diverse set of people and aliens battling for good of the galaxy.  Stargate SG-1 had amazing character development over its 10 season course which made it a great fan favorite.  The 2004 remake of Battlestar Galactica is an epic story of artificial intelligence versus humanity.  Humanity is being hunted and on the brink of all out extinction.  Its a war-time classic that explores the factors that make us human, what a society is about, and survival.",
+            "category": "brainstorming"
+        },
+        {
+            "id": 1066,
+            "instruction": "Give me a list of 7 continents in the world in alphabetical order.",
+            "context": "",
+            "response": "There are seven different continents in the world. Here is the list of them in alphabetical order:\n\nAfrica\nAntarctica\nAsia\nAustralia\nEurope\nNorth America\nSouth America",
+            "category": "brainstorming"
+        },
+        {
+            "id": 4398,
+            "instruction": "What are five totally distinct, creative ways to describe the usefulness of a broken stapler.",
+            "context": "",
+            "response": "Even though it may be broken, a stapler may still retain its usefulness. Consider these alternative uses for a broken stapler:\n1. Hammer - the solid metal frame is sturdy enough to pound a nail.\n2. Paper weight - even if you can't use staples to hold your papers together, the stapler can keep them on your desk.\n3. Weapon - Whip it back and forth as a flail or throw it to dent someone's skull.\n4. Door stop - hold the door open by wedging it between the door and frame.\n5. Compass - magnetize the frame and never get lost again!",
+            "category": "brainstorming"
+        },
+        {
+            "id": 2350,
+            "instruction": "how to express love without saying it out loud?",
+            "context": "",
+            "response": "The book Five Love Languages talks about ways to express and experience love between partners are compliments, quality time, gifting, acts of service, physical touch. Although you do need to speak out your compliments, the other four can be done without a word. Some people also claim that preparing food and enjoying food together is another good way of bonding. Other suggestions include having a date routine like watching favorite movies or going to a dance hall and dancing to some Barry White on a fixed day every month.",
+            "category": "brainstorming"
+        },
+        {
+            "id": 2160,
+            "instruction": "Give me a bulleted list of the 5 most recent world cup winners and the location of the tournament",
+            "context": "",
+            "response": "Here are the 5 most recent World Cup winners and the location of the tournament:\n* Argentina 2022 FIFA World Cup in Qatar\n* France 2018 FIFA World Cup in Russia \n* Germany 2014 FIFA World Cup in Brazil \n* Spain 2010 FIFA World Cup in South Africa \n* Italy 2006 FIFA World Cup in Germany",
+            "category": "brainstorming"
+        },
+        {
+            "id": 1201,
+            "instruction": "What are a couple of ways to increase profitability?",
+            "context": "",
+            "response": "Since profitability can be computed as revenue less expenses for a period, there are several ways to increase profitability.  To increase revenue, you could sell more units or increase the price.  To lower expenses, you could reduce the cost to produce your good or service or reduce SG&A costs",
+            "category": "brainstorming"
+        },
+        {
+            "id": 4176,
+            "instruction": "Give me a list of five  healthy snacks for kids",
+            "context": "",
+            "response": "Peanut butter, cheese, milk, fruit and popcorn",
+            "category": "brainstorming"
+        },
+        {
+            "id": 3221,
+            "instruction": "Who would win if Mike Tyson fought Tyson Fury?",
+            "context": "",
+            "response": "This seems like a tricky question to answer as both boxers have a very different fighting style and belong to different eras. It's easy to say that Tyson Fury would have the reach advantage due to his height being just under 7 feet, but if I had to pick one I would pick Mike Tyson due to the sheer ferocity of his boxing skills. \n\nMike Tyson would probably seek to cause a lot of body damage with his signature hooks to the liver and use Fury's long gait to sneak inwards for body shots. It would be interesting to see how Fury is able to limit the body damage caused by Mike by using his world-renowned reflexes. \n\nI must still say that it would be a very close fight as both of them are greats of the boxing world!",
+            "category": "brainstorming"
+        },
+        {
+            "id": 3131,
+            "instruction": "What are some healthy lunch ideas?",
+            "context": "",
+            "response": "Buddha bowl, turkey sandwich, salmon salad, quinoa bowl, fruit and cheese plate, veggies and dip, hummus and pita plate, vegetable soup",
+            "category": "brainstorming"
+        }
+    ]
+}

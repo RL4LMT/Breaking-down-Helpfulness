@@ -1,0 +1,218 @@
+{
+    "summarization": [
+        {
+            "id": 3913,
+            "instruction": "How was Liberum Veto mis-used?",
+            "context": "The liberum veto (Latin for \"free veto\") was a parliamentary device in the Polish\u2013Lithuanian Commonwealth. It was a form of unanimity voting rule that allowed any member of the Sejm (legislature) to force an immediate end to the current session and to nullify any legislation that had already been passed at the session by shouting either Sisto activitatem! (Latin: \"I stop the activity!\") or Nie pozwalam! (Polish: \"I do not allow!\"). The rule was in place from the mid-17th century to the late 18th century in the Sejm's parliamentary deliberations. It was based on the premise that since all Polish noblemen were equal, every measure that came before the Sejm had to be passed unanimously. The liberum veto was a key part of the political system of the Commonwealth, strengthening democratic elements and checking royal power and went against the European-wide trend of having a strong executive (absolute monarchy).\n\nMany historians hold that the liberum veto was a major cause of the deterioration of the Commonwealth political system, particularly in the 18th century, when foreign powers bribed Sejm members to paralyze its proceedings, and the Commonwealth's eventual destruction in the partitions of Poland and foreign occupation, dominance and manipulation of Poland. Piotr Stefan Wandycz wrote that the \"liberum veto had become the sinister symbol of old Polish anarchy\". In the period of 1573\u20131763, about 150 sejms were held, about a third failing to pass any legislation, mostly because of the liberum veto. The expression Polish parliament in many European languages originated from the apparent paralysis.",
+            "response": "With Liberum veto,  it was only possible to pass any legislation with unanimous consent. So one member of parliament to stop any legislation. Adversaries would often influence or bribe just one member of Parliament to derail a legislation.",
+            "category": "summarization"
+        },
+        {
+            "id": 2218,
+            "instruction": "Please summarize from this text what were the main reasons Czech people immigrated to Texas.",
+            "context": "Czech immigration was driven by the availability of land in Texas and by events in Europe. In the 1840s, the Austrian Empire, which included Czech lands, was still run by a feudal system, despite the wave of democratic ideals permeating western Europe. This led to the Revolutions of 1848, which did little to improve the economic status of peasants who still found it difficult to gain wealth. The revolutions, together with factors such as religious persecution and mandatory military service, fueled a wave of emigration from Austria beginning in 1852. Immigrants to America were unfamiliar with the concept of American democracy due to their lack of experience with democratic ideals. The concepts of states' rights and slavery were equally foreign to the immigrants.",
+            "response": "Czech immigration to Texas in the 19th century was influenced by the availability of land in Texas to homestead, economic opportunity, freedom from religious persecution and to escape the revolutions in the Austrian empire that lead to political unrest and economic uncertainty in the region.",
+            "category": "summarization"
+        },
+        {
+            "id": 3535,
+            "instruction": "What is the Jones-Connally Act?",
+            "context": "The Jones\u2013Connally Act was a New Deal Initiative passed by Congress in April 1934 as an extension to the Agricultural Adjustment Act. Largely in response to the great drought of 1933\u20131934, cattle ranchers acted against their former opposition to the commodification of cattle and appealed to the government for assistance in ridding of themselves of the millions of cattle they could no longer afford to feed or to keep alive without a loss on return.",
+            "response": "The Jones\u2013Connally Act was passed by the US Congress in April 1934.  It was an extension to the Agricultural Adjustment Act.  It was part of the New Deal and was in response to the drought of 1933-1934.  It made cattle a basic commodity giving the government authority over the distribution and processing of the cattle for public relief purposes.",
+            "category": "summarization"
+        },
+        {
+            "id": 3376,
+            "instruction": "How did Frank Stagg die?",
+            "context": "Upon conviction, Stagg was given a ten-year sentence and Fell twelve years. (Stagg would later die on a hunger strike.) Thomas Gerald Rush was given seven years and Anthony Roland Lynch, who was also found guilty of possessing articles with intent to destroy property, namely nitric acid, balloons, wax, and sodium chlorate, was given ten years. Fell never admitted IRA membership",
+            "response": "Frank Stagg was sentenced to ten years and prison. During his sentence, he went on a hunger strike and died as a result.",
+            "category": "summarization"
+        },
+        {
+            "id": 272,
+            "instruction": "Which are the top 3 states of India that account for receiving the maximum number of interstate emigrants?",
+            "context": "The first population census in India was conducted in 1873. Since then the a decennial census has been conducted in 1881, 1891, 1901, 1911, 1921, 1931, and 1941 by the Government. Since India's independence in 1947, a census has been carried out every 10 years by the Indian Government, starting from 1951. The census in India is carried out by the Office of the Registrar General and Census Commissioner under the Ministry of Home Affairs, and is one of the largest administrative tasks conducted by a federal government.\n\nLatest population figures are based on data from the 2011 census of India. During the decade of 2001\u20132011, India's annual population rising rate has slowed down from 2.15 to 1.76. Based on decennial census data, Dadra and Nagar Haveli shows the highest growth rate of 55.5 percent. It is followed by Daman and Diu (53.5 percent), Meghalaya (27.8 percent) and Arunachal Pradesh (25.9 percent). Nagaland recorded the lowest growth rate of -0.5 percent.\n\nIndia has 641,000 inhabited villages and 72.2 percent of the total population reside in these rural areas. Of them, 145,000 villages have a population size of 500\u2013999 persons; 130,000 villages have a population size of 1000\u20131999 and 128,000 villages have a population size of 200\u2013499. There are 3,961 villages that have a population of 10,000 persons or more. India's 27.8 percent urban population lives in more than 5,100 towns and over 380 urban agglomerations. In the decade of 1991\u20132001, migration to major cities caused a rapid increase in urban population. On the basis of net migrants by last residence during the past decade, Maharashtra had the most immigration with 2.3 million, followed by the National Capital Territory of Delhi (1.7 million), Gujarat (0.68 million) and Haryana (0.67 million). Uttar Pradesh (\u22122.6 million) and Bihar (\u22121.7 million) topped the list for interstate emigration. The four states of Uttar Pradesh, Maharashtra, Bihar, West Bengal and account for almost half (48.89 percent) of the total Indian population.",
+            "response": "Maharashtra, National Capital of Delhi and Gujarat",
+            "category": "summarization"
+        },
+        {
+            "id": 2997,
+            "instruction": "Where does the name Busan (city in Korea) come from?",
+            "context": "The name \"Busan\" is the Revised Romanization of the city's Korean name since the late 15th century. It officially replaced the earlier McCune-Reischauer romanization Pusan in 2000. During the Japanese period it was spelled \"Fuzan\".  The name \u91dc\u5c71 (now written \ubd80\uc0b0 using the Korean alphabet) is Sino-Korean for \"Cauldron Mountain\", believed to be a former name of Mt Hwangryeong (\ud669\ub839\uc0b0, \u8352\u5dba\u5c71, Hwangryeong-san) west of the city center. The area's ancient state Mt Geochil (\uac70\uce60\uc0b0\uad6d, \u5c45\u67d2\u5c71\u570b, Geochilsan-guk, \"Rough-Mountain Land\") is similarly thought to refer to the same mountain, which towers over the town's harbor on the Suyeong. (The later Silla district of Geochilsan-gun was renamed Dongnae in 757.)",
+            "response": "\"Busan\" is the romanization of the city's Korean name - \ubd80\uc0b0.  Previously, the name was romanized as \"Pusan\" until it was officially replaced in 2000.  The meaning of the name in Sino-Korean is \"Cauldron Mountain\", believed to be the former name of a nearby mountain now known as Mt Hwangryeong (\ud669\ub839\uc0b0).",
+            "category": "summarization"
+        },
+        {
+            "id": 3031,
+            "instruction": "Provide a bulleted summary of the history of Twitter",
+            "context": "Twitter is an online social media and social networking service owned and operated by American company Twitter, Inc., on which users post or reply to texts, images and videos known as \"tweets\". Registered users can tweet, like, \"retweet\" tweets and direct message (DM), while unregistered users only have the ability to view public tweets. Users interact with Twitter through browser or mobile frontend software, or programmatically via its APIs.\n\nTwitter was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams in March 2006 and launched in July of that year. Twitter, Inc. is based in San Francisco, California and has more than 25 offices around the world. By 2012, more than 100 million users tweeted 340 million tweets a day, and the service handled an average of 1.6 billion search queries per day. In 2013, it was one of the ten most-visited websites and has been described as \"the SMS of the Internet\". By the start of 2019, Twitter had more than 330 million monthly active users. In practice, the vast majority of tweets are tweeted by a minority of users. In 2020, it was estimated that approximately 48 million accounts (15% of all accounts) were fake.\n\nOn October 27, 2022, business magnate Elon Musk acquired Twitter, Inc. for US$44 billion, gaining control of the platform. On December 20, 2022, Musk announced he would step down as CEO once a replacement had been found. As of April 2023, Musk has yet to announce a successor and remains CEO",
+            "response": "- Twitter was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams in March 2006\n- Twitter reached more than 100 million users in 2012\n- Twitter reached more than 330 million users in 2019\n- In 2022, Elon Must acquired Twitter for $44B",
+            "category": "summarization"
+        },
+        {
+            "id": 1531,
+            "instruction": "Tell me about the Qingdao Qianwan Container Terminal",
+            "context": "Qingdao Qianwan Container Terminal is a port of China, located at Qianwan (literally The Front Bay), Qingdao, Shandong province. Qingdao Port ranked 10th in 2008 world's busiest container ports with 10,320 thousands TEU, current projects were expected to raise the capacity to 15,000 thousands or more.",
+            "response": "The Qingdao Qianwan Container Terminal is a port of China, located at Qianwan (literally The Front Bay), Qingdao, Shandong province. Qingdao Port ranked 10th in 2008 world's busiest container ports with 10,320 thousands TEU, current projects were expected to raise the capacity to 15,000 thousands or more.",
+            "category": "summarization"
+        },
+        {
+            "id": 2334,
+            "instruction": "List the club sports teams that Neumann University has",
+            "context": "Neumann University is a member of the Atlantic East Conference as well as the United Collegiate Hockey Conference (UCHC). It competes in the National Collegiate Athletic Association (NCAA), Division III. In 2009 Neumann University's men's ice hockey team won the NCAA Division III National Championship. In the summer of 2012, Neumann University constructed the Mirenda Center, a 72,000 square foot athletic complex which houses an indoor track, NCAA Division III regulation basketball court, dance studios, student lounges, a classroom, weight and cardio rooms as well as the Center for Sport Spirituality and Character Development.\n\nNeumann sponsors 12 women's athletic teams and 10 men's teams. In addition the 22 varsity teams, Neumann University also has a very active club sports roster which includes baseball, basketball, cheer leading, a dance team, ice hockey, roller hockey as well as men's and women's rugby. Most recently, Neumann University won back to back national championships (2015 and 2016) as part of the National Collegiate Roller Hockey Association (NCHRA).",
+            "response": "Based off of the shared information, Neumann University has the following club sports teams:\n\n* baseball\n* basketball\n* cheer leading\n* a dance team\n* ice hockey\n* roller hockey\n* men's rugby\n* women's rugby\n\nNote that this may not be a fully exhaustive list.",
+            "category": "summarization"
+        },
+        {
+            "id": 127,
+            "instruction": "For the Zodiac sign Aries, Share some information from the given text.",
+            "context": "Aries (\u2648\ufe0e) (Greek: \u039a\u03c1\u03b9\u03cc\u03c2, romanized: Kri\u00f3s, Latin for \"ram\") is the first astrological sign in the zodiac, spanning the first 30 degrees of celestial longitude (0\u00b0\u2264 \u03bb <30\u00b0), and originates from the Aries constellation. Under the tropical zodiac, the Sun transits this sign from approximately March 21 to April 19 each year. This time duration is exactly the first month of the Solar Hijri calendar (Arabic Hamal/Persian Farvardin/Pashto Wray).",
+            "response": "1.\tAries is the first astrological sign in the zodiac, spanned in the first 30 degrees of celestial longitude (0\u00b0\u2264 \u03bb <30\u00b0).\n2.\tAries is originated from the Aries constellation.\n3.\tThe Sun transits this sign from approximately March 21 to April 19 each year.\n4.\tThis time period is exactly the first month of the Solar Hijri calendar (Arabic Hamal/Persian Farvardin/Pashto Wray).",
+            "category": "summarization"
+        }
+    ],
+    "closed_qa": [
+        {
+            "id": 961,
+            "instruction": "Given this paragraph about the planet Jupiter, tell me what it is made of.",
+            "context": "Jupiter's upper atmosphere is about 90% hydrogen and 10% helium by volume. Since helium atoms are more massive than hydrogen molecules, Jupiter's atmosphere is approximately 24% helium by mass. The atmosphere also contains trace amounts of methane, water vapour, ammonia, and silicon-based compounds. There are also fractional amounts of carbon, ethane, hydrogen sulfide, neon, oxygen, phosphine, and sulfur. The outermost layer of the atmosphere contains crystals of frozen ammonia. Through infrared and ultraviolet measurements, trace amounts of benzene and other hydrocarbons have also been found. The interior of Jupiter contains denser materials\u2014by mass it is roughly 71% hydrogen, 24% helium, and 5% other elements.",
+            "response": "The planet Jupiter is referred to as a gas giant, because the matter that makes it up is almost entirely in gaseous form. It has no solid form like many of the other planets in our solar system. Jupiter consists primarily of hydrogen and helium. By volume, the hydrogen distribution ranges from 71-90%, while we will find anywhere from 10-24% helium. There are also traces of other materials to be found. These include methane, water vapour, ammonia, silicon-based compounds and others.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3395,
+            "instruction": "What is the coldest month in Warsaw and how cold does it get on average?",
+            "context": "Warsaw has cold, sometimes snowy, cloudy winters, and warm, relatively sunny but frequently stormy summers. Spring and autumn can be unpredictable, highly prone to sudden weather changes; however, temperatures are usually mild, especially around May and September. The daily average temperature ranges between \u22121.5 \u00b0C (29 \u00b0F) in January and 19.7 \u00b0C (67.5 \u00b0F) in July and the mean year temperature is 9.0 \u00b0C (48.2 \u00b0F). Temperatures may reach 30 \u00b0C (86 \u00b0F) in the summer, although the effects of hot weather are usually offset by relatively low dew points and large diurnal temperature differences. Warsaw is Europe's sixth driest major city (driest in Central Europe), with yearly rainfall averaging 482 mm (19.0 in), the wettest month being July.",
+            "response": "The coldest month in Warsaw is January. On average, the temperature then is \u22121.5 \u00b0C, which is 29 \u00b0F.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 2276,
+            "instruction": "Given this paragraph about a country, what is the most populous Spanish-speaking country?",
+            "context": "Throughout the 19th century, the population of Mexico had barely doubled. This trend continued during the first two decades of the 20th century. The 1921 census reported a loss of about 1 million inhabitants. The Mexican Revolution (c. 1910\u20131920) greatly impacted population increases. The growth rate increased dramatically between the 1930s and the 1980s, when the country registered growth rates of over 3% (1950\u20131980). The Mexican population doubled in twenty years, and at that rate it was expected that by 2000 there would be 120 million people living in Mexico. Life expectancy increased from 36 years (in 1895) to 72 years (in the year 2000). According to estimations made by Mexico's National Geography and Statistics Institute, is estimated in 2022 to be 129,150,971 as of 2017 Mexico had 123.5 million inhabitants making it the most populous Spanish-speaking country in the world.",
+            "response": "Mexico",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3306,
+            "instruction": "Given this paragraph about Drangaj\u00f6kull, tell me where it's located.",
+            "context": "Drangaj\u00f6kull (pronounced [\u02c8trau\u014bka\u02ccj\u0153\u02d0k\u028ftl\u0325], regionally also [\u02c8tra\u014bk-]) is the northernmost glacier of Iceland. It is situated southwest of the peninsula Hornstrandir in the Westfjords region. The glacier covers an area of 160\u2013200 km2 (62\u201377 sq mi), at an altitude of up to 925 m (3,035 ft). It is the only Icelandic glacier which lies entirely below an altitude of 1000 metres and also the only one that has not shrunk in recent years.",
+            "response": "Drangaj\u00f6kull is located in Iceland in the Westfjords region.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3724,
+            "instruction": "Who is the youngest driver to win a Formula 1 race?",
+            "context": "Max Verstappen is the youngest winner of a Grand Prix; he was 18 years and 228 days old when he won the 2016 Spanish Grand Prix",
+            "response": "Max Verstappen is the youngest driver to win a F1 race with 18 years and 228 days old at the 2016 Spanish Grand Prix, during his first race at Red Bull Racing Team",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3183,
+            "instruction": "What exactly was the action of 12 December 1782",
+            "context": "The action of 12 December 1782 was a naval engagement fought off the coast of Spain near Ferrol, in which the British 40-gun fifth rate HMS Mediator successfully attacked a convoy of five armed ships. Mediator succeeded in capturing one American privateer, the Alexander, and then captured the French ex-ship of the line La M\u00e9nag\u00e8re. The convoy was part of Pierre Beaumarchais's supply chain to the American colonists.",
+            "response": "The action of 12 December 1782 was a naval engagement fought off the coast of Spain near Ferrol, in which the British 40-gun fifth rate HMS Mediator successfully attacked a convoy of five armed ships. \n\nMediator succeeded in capturing one American privateer, the Alexander, and then captured the French ex-ship of the line La Menagere. The convoy was part of Pierre Beaumarchais's supply chain to the American colonists.",
+            "category": "closed_qa"
+        },
+        {
+            "id": 372,
+            "instruction": "Given this paragraph about Wabuska, Nevada, when was a post office first opened in the town?",
+            "context": "Wabuska is an unincorporated community in Lyon County, Nevada, United States. The zip code is 89447, which it shares with nearby Yerington.\n\nWabuska (Washo language, White Grass) was established in the early 1870s. A post office was opened on September 18, 1874. In 1881, the town served as the principal Mason Valley supply center on the newly constructed Carson and Colorado Railroad of a line that went from Hazen to Mina. When copper was discovered in Mason Valley, the town became the northern terminus of the new Nevada Copper Belt Railroad, built 1909\u20131911. Wabuska waned with declining mining activity in the 1920s.\n\nSeveral buildings from Wabuska, most notably the Wabuska Railroad Station, were relocated to Carson City and incorporated as the Nevada State Railroad Museum.",
+            "response": "September 18, 1874",
+            "category": "closed_qa"
+        },
+        {
+            "id": 3988,
+            "instruction": "Given this paragraph how much do Beavers weigh?",
+            "context": "Beavers (genus Castor) are large, semiaquatic rodents of the Northern Hemisphere. There are two existing species: the North American beaver (Castor canadensis) and the Eurasian beaver (C. fiber). Beavers are the second-largest living rodents, after capybaras, weighing up to 30 kilograms (66 lb). Beavers have stout bodies with large heads, long chisel-like incisors, brown or gray fur, hand-like front feet, webbed back feet, and tails that are flat and scaly. The two species differ in skull and tail shape and fur color. Beavers can be found in a number of freshwater habitats, such as rivers, streams, lakes and ponds. They are herbivorous, consuming tree bark, aquatic plants, grasses and sedges.",
+            "response": "Up to 30 kilograms or 66 pounds",
+            "category": "closed_qa"
+        },
+        {
+            "id": 4311,
+            "instruction": "During which decade did neural networks first lead to practically useful systems?",
+            "context": "The development of metal\u2013oxide\u2013semiconductor (MOS) very-large-scale integration (VLSI), in the form of complementary MOS (CMOS) technology, enabled increasing MOS transistor counts in digital electronics. This provided more processing power for the development of practical artificial neural networks in the 1980s. From 1988 onward, the use of neural networks transformed the field of protein structure prediction, in particular when the first cascading networks were trained on profiles (matrices) produced by multiple sequence alignments.",
+            "response": "The development of metal\u2013oxide\u2013semiconductor (MOS) very-large-scale integration (VLSI), in the form of complementary MOS (CMOS) technology, enabled the development of practical artificial neural networks in the 1980s",
+            "category": "closed_qa"
+        },
+        {
+            "id": 1048,
+            "instruction": "From the passage provided, extract the difference in caffeine between a light roast and a dark roast.",
+            "context": "Sucrose is rapidly lost during the roasting process, and may disappear entirely in darker roasts. During roasting, aromatic oils and acids weaken, changing the flavor; at 205 \u00b0C (401 \u00b0F), other oils start to develop. One of these oils, caffeol, is created at about 200 \u00b0C (392 \u00b0F), which is largely responsible for coffee's aroma and flavor. The difference of caffeine content between a light roast and a dark roast is only about 0.1%.",
+            "response": "Light roasts and dark roasts differ in caffeine content by about 0.1%.",
+            "category": "closed_qa"
+        }
+    ],
+    "brainstorming": [
+        {
+            "id": 4673,
+            "instruction": "What are some weird ways I can cut my grass?",
+            "context": "",
+            "response": "If you aren't using a lawnmower to cut your grass, here are some weird ideas to keep your grass trimmed:\n\n- Buy a goat and leave it in your yard\n- Spend all day cutting each blade with some craft scissors\n- Flamethrower\n- Dress up like the grim reaper and use a scythe",
+            "category": "brainstorming"
+        },
+        {
+            "id": 3491,
+            "instruction": "Give me a list of five languages which I should make my kids learn.",
+            "context": "",
+            "response": "Bengali, Hindi, English, Spanish, French",
+            "category": "brainstorming"
+        },
+        {
+            "id": 4388,
+            "instruction": "How can I be more productive?",
+            "context": "",
+            "response": "The best way to be productive is to starting \"doing\" rather than \"thinking\"\n* Set small goals\n* Reward yourself for completing those small goals, small rewards like taking a break, eating your favourite snack, spending time with your kid.\n* Do not multi-task because we really can not.\n* Create a list of things to do and strike it off one by one. Do not get overwhelmed by the list. \n* If you can delegate something do that, but make sure to follow up.\n* Actually there is a course by David Allen on LinkedIn Learning or you can also read his book \"Getting Things Done\" it tells you about a 5 step process. Capture , Clarify, Organize, Review, Engage. \n* And anything that can be done in 2 minutes, just finish it off. \n\nStarting with one small thing, will make you productive. It is like a dominos, you change one keystone habit and it changes all the others eventually.",
+            "category": "brainstorming"
+        },
+        {
+            "id": 4070,
+            "instruction": "Give me a bulleted list of the major religious groups",
+            "context": "",
+            "response": "* Christianity \n* Islam\n* Atheists or Irreligion\n* Hinduism\n* Buddhism\n* Sikhism\n* Judaism",
+            "category": "brainstorming"
+        },
+        {
+            "id": 4007,
+            "instruction": "Give me a list of Shakespeare's plays",
+            "context": "",
+            "response": "- Hamlet\n- Romeo and Juliet\n- King Lear\n- Othello\n- Titus Andronicus\n- Love's Labour's Lost\n- Twelfth Night\n- A Midsummer Night's Dream\n- A Winter's Tale\n- The Tempest\n- Troilus and Cressida\n- Pericles\n- Antony and Cleopatra\n- All's Well That End's Well\n- The Merchant of Venice\n- Henry IV Part 1\n- Henry IV Part 2\n- Henry V\n- Henry VI Part 1\n- Henry VI Part 2\n- Henry VI Part 3\n- Henry VIII\n- Richard II\n- Richard III\n- King John\n- Julius Caesar\n- As You Like It\n- Macbeth\n- The Merry Wives of Windsor\n- Two Gentlemen of Verona\n- The Taming of the Shrew\n- Coriolanus\n- Timon of Athens\n- Much Ado About Nothing\n- Cymbeline\n- The Comedy of Errors\n- Two Noble Kinsmen\n- Measure for Measure",
+            "category": "brainstorming"
+        },
+        {
+            "id": 3565,
+            "instruction": "Why Bangalore is so popular",
+            "context": "",
+            "response": "It's the best IT sector in India\nIt has some awesome colleges and pubs and brews",
+            "category": "brainstorming"
+        },
+        {
+            "id": 1779,
+            "instruction": "Brainstorm a list of 9 different dishes for a Thanksgiving meal",
+            "context": "",
+            "response": "Turkey, Cranberry Sauce, Mashed Potatoes, Stuffing, Sweet Potato Casserole, Green Beans, Dinner Rolls, Salad, Pumpkin Pie",
+            "category": "brainstorming"
+        },
+        {
+            "id": 2485,
+            "instruction": "Provide a dot point list of six different games I can play with a pack of cards.",
+            "context": "",
+            "response": "Here are six games that you could play with a standard deck of playing cards:\n- Poker\n- Bridge\n- Snap\n- Blackjack\n- Hearts\n- Canasta",
+            "category": "brainstorming"
+        },
+        {
+            "id": 2426,
+            "instruction": "What are the new 7 Wonders of Nature:",
+            "context": "",
+            "response": "Here are the new 7 Wonders of Nature:\n\n- Iguazu Falls, on the border of the Argentine province of Misiones and the Brazilian state of Paran\u00e1\n- H\u1ea1 Long Bay, in Quang Ninh Province, Vietnam\n- Jeju Island, in the Jeju Province of South Korea\n- Puerto Princesa Underground River, in Palawan, Philippines\n- Table Mountain, overlooking the city of Cape Town, South Africa\n- Komodo Island, one of the 17,508 islands that comprise the Republic of Indonesia\n- Amazon rainforest, located in Brazil, Peru, Colombia, Venezuela, Ecuador, Bolivia, Guyana, Suriname, and French Guiana",
+            "category": "brainstorming"
+        },
+        {
+            "id": 1150,
+            "instruction": "What is the best song from Rihanna",
+            "context": "",
+            "response": "1. Love the way you lie \n2. Unfaithful",
+            "category": "brainstorming"
+        }
+    ]
+}
