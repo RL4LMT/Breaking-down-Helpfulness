@@ -31,7 +31,7 @@ def count_categories(file_path):
 
 
 def write_csv_with_ids(json_file, csv_file):
-    header = ['id', 'structure', 'informativity', 'on-topic', 'correctness'] # modify header if needed
+    header = ['id', 'structure', 'informativity', 'on-topic', 'correctness', 'usefulness'] # modify header if needed
     with open(json_file, 'r') as file:
         data = json.load(file)
     ids = [item['id'] for item in data]
@@ -222,7 +222,18 @@ def modify_csv_files(folder_path):
 
 if __name__ == "__main__":
     print("placeholder")
-    # select random data points for model generations
+
+    # # generate csv with ids for model responses with extra usefulness column
+    # data_directory = "../data/"
+    # files = os.listdir(data_directory)
+    # json_files = [file for file in files if file.startswith("llama13bchat_responses_databricks-dolly-30") and file.endswith(".json")]
+    # print(json_files)
+    # for json_file in json_files:
+    #     json_name = data_directory+json_file
+    #     csv_name = f'../annotation/'+json_file.replace(".json",".csv")
+    #     write_csv_with_ids(json_name, csv_name)
+
+    # # select random data points for model generations
     # select_questions_for_llm_response("../data/", "../annotation/")
 
     # drop columns for 60 annotations
