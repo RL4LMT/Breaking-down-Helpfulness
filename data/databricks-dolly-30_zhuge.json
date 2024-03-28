@@ -1,0 +1,212 @@
+[
+    {
+        "id": 2240,
+        "instruction": "What is Anandapuram mandal",
+        "context": "Anandapuram mandal is one of the 46 mandals in Visakhapatnam district of the Indian state of Andhra Pradesh. It is under the administration of Visakhapatnam revenue division and the headquarters are located at Anandapuram. Anandapuram mandal is bounded by Bheemunipatnam mandal to the east, Chinagadila to the south, Padmanabham to the north and Kothavalasa to the west.",
+        "response": "Anandapuram mandal is one of the 46 mandals in Visakhapatnam district of the Indian state of Andhra Pradesh. It is under the administration of Visakhapatnam revenue division and the headquarters are located at Anandapuram.",
+        "category": "summarization"
+    },
+    {
+        "id": 833,
+        "instruction": "What is the height of the Domtoren in Utrecht.",
+        "context": "The Dom Tower (Cathedral Tower, Dutch: Domtoren) of Utrecht is the tallest church tower in the Netherlands, at 112.5 metres (368 feet) in height. It is considered the symbol of Utrecht. The tower was part of St. Martin's Cathedral, also known as the Dom Church, and was built between 1321 and 1382, to a design by John of Hainaut. The cathedral was never fully completed due to lack of money. Since the unfinished nave collapsed in 1674, the Dom tower has been a freestanding tower. The tower stands at the spot where the city of Utrecht originated almost 2,000 years ago.\n\nDesign and construction\nThe Dom Tower was one of the largest towers constructed in Europe during the fourteenth century, and it was planned to show the power of the church in Utrecht.[citation needed] Its construction led preacher Geert Groote to protest against the vanity of such an immense project, suggesting it was too tall, too expensive and all but aesthetic.\n\nThe tower consists of two square blocks, topped by a much lighter lantern. One of the most striking features is the absence of visible buttresses. Its particular shape and original architecture had a large influence on many other towers in the Netherlands, including the Martinitoren in Groningen.[citation needed] Upon completion in 1382 the tower stood 109 metres tall. However the height was increased during the restorations in 1910, to its present height of 112.5 metres.\n\nThe Dom tower was a multifunctional building. In addition to being a belfry, it contained a private chapel of the Bishop of Utrecht on the first floor. It also served as a watchtower; the tower guard was housed on the second floor of the lower square block.",
+        "response": "The Dom Tower (Cathedral Tower, Dutch: Domtoren) of Utrecht is the tallest church tower in the Netherlands, at 112.5 metres (368 feet) in height.The Dom Tower was one of the largest towers constructed in Europe during the fourteenth century, and it was planned to show the power of the church in Utrecht.",
+        "category": "summarization"
+    },
+    {
+        "id": 706,
+        "instruction": "what are the rules of cricket ?",
+        "context": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. The batting side scores runs by striking the ball bowled at one of the wickets with the bat and then running between the wickets, while the bowling and fielding side tries to prevent this (by preventing the ball from leaving the field, and getting the ball to either wicket) and dismiss each batter (so they are \"out\"). Means of dismissal include being bowled, when the ball hits the stumps and dislodges the bails, and by the fielding side either catching the ball after it is hit by the bat, but before it hits the ground, or hitting a wicket with the ball before a batter can cross the crease in front of the wicket. When ten batters have been dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, aided by a third umpire and match referee in international matches. They communicate with two off-field scorers who record the match's statistical information.\n\nForms of cricket range from Twenty20, with each team batting for a single innings of 20 overs (each \"over\" being a set of 6 fair opportunities for the batting team to score) and the game generally lasting three hours, to Test matches played over five days. Traditionally cricketers play in all-white kit, but in limited overs cricket they wear club or team colours. In addition to the basic kit, some players wear protective gear to prevent injury caused by the ball, which is a hard, solid spheroid made of compressed leather with a slightly raised sewn seam enclosing a cork core layered with tightly wound string.\n\nThe earliest reference to cricket is in South East England in the mid-16th century. It spread globally with the expansion of the British Empire, with the first international matches in the second half of the 19th century. The game's governing body is the International Cricket Council (ICC), which has over 100 members, twelve of which are full members who play Test matches. The game's rules, the Laws of Cricket, are maintained by Marylebone Cricket Club (MCC) in London. The sport is followed primarily in South Asia, Australasia, the United Kingdom, Southern Africa and the West Indies.\n\nWomen's cricket, which is organised and played separately, has also achieved international standard. The most successful side playing international cricket is Australia, which has won seven One Day International trophies, including five World Cups, more than any other country and has been the top-rated Test side more than any other country.",
+        "response": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps.Forms of cricket range from Twenty20, with each team batting for a single innings of 20 overs (each \"over\" being a set of 6 fair opportunities for the batting team to score) and the game generally lasting three hours, to Test matches played over five days.The batting side scores runs by striking the ball bowled at one of the wickets with the bat and then running between the wickets, while the bowling and fielding side tries to prevent this (by preventing the ball from leaving the field, and getting the ball to either wicket) and dismiss each batter (so they are \"out\").",
+        "category": "summarization"
+    },
+    {
+        "id": 2115,
+        "instruction": "What are the islands bathed by the Andfjorden fjord described on this paragraph?",
+        "context": "Andfjorden is a fjord on the border of Nordland and Troms og Finnmark counties in Norway. It primarily flows between the large islands of And\u00f8ya and Senja. Gryt\u00f8ya and the smaller islands Bjark\u00f8ya and Kr\u00f8tt\u00f8ya are located in the fjord. The main crossing is via the Andenes\u2013Gryllefjord Ferry between And\u00f8y and Senja municipalities. Other municipalities through which the fjord flows are Harstad, and Kv\u00e6fjord.",
+        "response": "The Andfjorden fjord primarily flows between the And\u00f8ya and Senja islands. Gryt\u00f8ya and the smaller islands Bjark\u00f8ya and Kr\u00f8tt\u00f8ya are located in the fjord.",
+        "category": "summarization"
+    },
+    {
+        "id": 4290,
+        "instruction": "Where is the Burg Lockenhaus located",
+        "context": "Burg Lockenhaus (Hungarian L\u00e9ka) is a castle and medieval fortress in the G\u00fcns Valley in the southeastern part of Lockenhaus, in Burgenland, eastern Austria. Burg Lockenhaus is 368 metres (1,207 ft) above sea level. The castle was built in Romanesque and Gothic architectural styles around 1200, and was initially called \"Leuca\" or L\u00e9ka. It is part of the Naturpark Geschriebenstein.\n\nGeography\nThe castle is in the G\u00fcns Valley, set amidst a hilly terrain in eastern Austria, near the Hungarian border towards K\u0151szeg. It is in the southeastern part of the town of Lockenhaus, roughly 120 kilometres (75 mi) south of Vienna and roughly the same distance by road northeast of Graz.[citation needed] It was built on the spur of a hill, which is now called the Castle Hill. It can be reached by express bus service along the Eisenstadter Bundestrasse. A lake lies immediately to the east of the castle.",
+        "response": "Burg Lockenhaus (Hungarian L\u00e9ka) is a castle and medieval fortress in the Guens Valley in the southeastern part of Lockenhaus, in Burgenland, eastern Austria. Burg Lockenhaus is 368 metres (1,207 ft) above sea level. The castle was built in Romanesque and Gothic architectural styles around 1200, and was initially called \"Leuca\" or L\u00e9ka. It is part of the Naturpark Geschriebenstein.",
+        "category": "summarization"
+    },
+    {
+        "id": 3397,
+        "instruction": "Tell me about the botanical garden?",
+        "context": "A botanical garden or botanic garden[nb 1] is a garden with a documented collection of living plants for the purpose of scientific research, conservation, display, and education. Typically plants are labelled with their botanical names. It may contain specialist plant collections such as cacti and other succulent plants, herb gardens, plants from particular parts of the world, and so on; there may be greenhouses, shadehouses, again with special collections such as tropical plants, alpine plants, or other exotic plants. Most are at least partly open to the public, and may offer guided tours, educational displays, art exhibitions, book rooms, open-air theatrical and musical performances, and other entertainment.",
+        "response": "A botanical garden have a collection of living plants for the purpose of scientific research, conservation, display, and education. Plants are labelled with their botanical names. It may contain specialist plant collections such as cacti and other succulent plants, herb gardens, p tropical plants, alpine plants, or other exotic plants.\nThe origin of modern botanical gardens is generally traced to the appointment of professors of botany to the medical faculties of universities in 16th century Renaissance Italy, which also entailed the curation of a medicinal garden.\nBotanical gardens are often run by universities or other scientific research organizations. The staff will normally include botanists as well as gardeners. \nWorldwide, there are now about 1800 botanical gardens and arboreta in about 150 countries (mostly in temperate regions) of which about 550 are in Europe (150 of which are in Russia), 200 in North America, and an increasing number in East Asia. These gardens attract about 300 million visitors a year.",
+        "category": "summarization"
+    },
+    {
+        "id": 1062,
+        "instruction": "Give me a list of some preparations in which stracchino cheese is used/",
+        "context": "Stracchino is usually eaten on its own but also as a filling for some kinds of bread: in Recco, on the Ligurian riviera east of Genoa, focaccia col formaggio (\"cheese focaccia\") or focaccia di Recco is typically filled with crescenza, while in Romagna and in parts of some nearby regions (e.g. northern Marche, Umbria and eastern Tuscany) it is a common filling for the cascione which is made out of piadina, a thin flat bread.",
+        "response": "- eaten on its own\n- focaccia col formaggio\n- cascione, which is made out of a thin flat bread called piadina filled with stracchino cheese",
+        "category": "summarization"
+    },
+    {
+        "id": 1157,
+        "instruction": "Who were Hank Williams early musical influences?",
+        "context": "Born and raised in Alabama, Williams learned guitar from African-American blues musician Rufus Payne in exchange for meals or money. Payne, along with Roy Acuff and Ernest Tubb, had a significant influence on Williams' musical style. Williams began his professional career in Montgomery in 1937 when local radio station WSFA hired him to perform on a 15-minute program. He formed the Drifting Cowboys backup band, which was managed by his mother, and dropped out of school to devote his time to his career. When several of his band members were drafted during World War II, he had trouble with their replacements, and WSFA terminated his contract because of his alcoholism.",
+        "response": "As a child Hank Williams was influenced by popular country artists such as Roy Acuff and Earnest Tubb, but he was also influenced by African-American blues musician Rufus Payne. Payne taught Williams how to play guitar, and was a significant influence on his musical style.",
+        "category": "summarization"
+    },
+    {
+        "id": 2833,
+        "instruction": "What is Chess?",
+        "context": "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces in their color, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games, such as xiangqi (Chinese chess) and shogi (Japanese chess). The recorded history of chess goes back at least to the emergence of a similar game, chaturanga, in seventh-century India. The rules of chess as we know them today emerged in Europe at the end of the 15th century, with standardization and universal acceptance by the end of the 19th century. Today, chess is one of the world's most popular games, played by millions of people worldwide.\n\nChess is an abstract strategy game that involves no hidden information and no use of dice or cards. It is played on a chessboard with 64 squares arranged in an eight-by-eight grid. At the start, each player controls sixteen pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns. White moves first, followed by Black. Checkmating the opponent's king involves putting the king under immediate attack (in \"check\") whereby there is no way for it to escape. There are also several ways a game can end in a draw.\n\nOrganized chess arose in the 19th century. Chess competition today is governed internationally by FIDE (the International Chess Federation). The first universally recognized World Chess Champion, Wilhelm Steinitz, claimed his title in 1886; Magnus Carlsen is the current World Champion. A huge body of chess theory has developed since the game's inception. Aspects of art are found in chess composition, and chess in its turn influenced Western culture and art, and has connections with other fields such as mathematics, computer science, and psychology.\n\nOne of the goals of early computer scientists was to create a chess-playing machine. In 1997, Deep Blue became the first computer to beat the reigning World Champion in a match when it defeated Garry Kasparov. Today's chess engines are significantly stronger than the best human players and have deeply influenced the development of chess theory.",
+        "response": "Chess is a board game played by two players where there are multiple pieces for each person/side, that can be moved in certain ways on the board and can capture other pieces. The end goal is to checkmate the King piece. This game requires a lot of smart intelligent strategy.",
+        "category": "summarization"
+    },
+    {
+        "id": 1337,
+        "instruction": "What are the three most common types of radioactive decay?",
+        "context": "Radioactive decay (also known as nuclear decay, radioactivity, radioactive disintegration, or nuclear disintegration) is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive. Three of the most common types of decay are alpha decay (\u03b1-decay), beta decay (\u03b2-decay), and gamma decay (\u03b3-decay), all of which involve emitting one or more particles. The weak force is the mechanism that is responsible for beta decay, while the other two are governed by the electromagnetism and nuclear force. A fourth type of common decay is electron capture, in which an unstable nucleus captures an inner electron from one of the electron shells. The loss of that electron from the shell results in a cascade of electrons dropping down to that lower shell resulting in emission of discrete X-rays from the transitions. A common example is iodine-125 commonly used in medical settings.",
+        "response": "Three of the most common types of radioactive decay are alpha decay (\u03b1-decay), beta decay (\u03b2-decay), and gamma decay (\u03b3-decay), all of which involve emitting one or more particles.",
+        "category": "summarization"
+    },
+    {
+        "id": 2,
+        "instruction": "When was Tomoaki Komorida born?",
+        "context": "Komorida was born in Kumamoto Prefecture on July 10, 1981. After graduating from high school, he joined the J1 League club Avispa Fukuoka in 2000. Although he debuted as a midfielder in 2001, he did not play much and the club was relegated to the J2 League at the end of the 2001 season. In 2002, he moved to the J2 club Oita Trinita. He became a regular player as a defensive midfielder and the club won the championship in 2002 and was promoted in 2003. He played many matches until 2005. In September 2005, he moved to the J2 club Montedio Yamagata. In 2006, he moved to the J2 club Vissel Kobe. Although he became a regular player as a defensive midfielder, his gradually was played less during the summer. In 2007, he moved to the Japan Football League club Rosso Kumamoto (later Roasso Kumamoto) based in his local region. He played as a regular player and the club was promoted to J2 in 2008. Although he did not play as much, he still played in many matches. In 2010, he moved to Indonesia and joined Persela Lamongan. In July 2010, he returned to Japan and joined the J2 club Giravanz Kitakyushu. He played often as a defensive midfielder and center back until 2012 when he retired.",
+        "response": "Tomoaki Komorida was born on July 10,1981.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2215,
+        "instruction": "Where is Pompeii located?",
+        "context": "Pompeii (/p\u0252m\u02c8pe\u026a(i)/, Latin: [p\u0254m\u02c8pei\u032f.i\u02d0]) was an ancient city located in what is now the comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.",
+        "response": "The ancient city of Pompeii is located near Naples in the Campania region of Italy.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1514,
+        "instruction": "Who is Rihanna?",
+        "context": "Robyn Rihanna Fenty (born February 20, 1988) is a Barbadian singer, actress, and businesswoman. Born in Saint Michael and raised in Bridgetown, Barbados, Rihanna auditioned for American record producer Evan Rogers who invited her to the United States to record demo tapes. After signing with Def Jam in 2005, she soon gained recognition with the release of her first two studio albums, Music of the Sun (2005) and A Girl Like Me (2006), both of which were influenced by Caribbean music and peaked within the top ten of the US Billboard 200 chart.",
+        "response": "Rihanna (Robyn Rihanna Fenty) is a singer, actress, and businesswoman from Barbados. After auditioning with American record producer Evan Rogers, she signed to Def Jam in 2005 and gained worldwide recognition with her first two studio albums, \"Music of the Sun\" and \"A Girl Like Me\".",
+        "category": "closed_qa"
+    },
+    {
+        "id": 3406,
+        "instruction": "Given a reference text about Kennebunkport, tell me its neighboring towns and where it is located.",
+        "context": "Kennebunkport /\u02cck\u025bni\u02c8b\u028c\u014bk\u02ccp\u0254\u02d0rt/ is a resort town in York County, Maine, United States. The population was 3,629 people at the 2020 census. It is part of the Portland\u2013South Portland\u2013Biddeford metropolitan statistical area.\n\nThe town center, the area in and around Dock Square, is located along the Kennebunk River, approximately 1 mile (1.6 km) from the mouth of the river on the Atlantic Ocean. Historically a shipbuilding and fishing village, for well over a century the town has been a popular summer colony and seaside tourist destination. The Dock Square area has a district of souvenir shops, art galleries, schooner attractions, seafood restaurants, and bed and breakfasts. Cape Porpoise, while retaining its identity as a fishing harbor, has a very small village area with several restaurants, a church, grocery store, coffee shop, small library, and art gallery. Kennebunkport has a reputation as a summer haven for the upper class and is one of the wealthiest communities in the state of Maine. The Municipality of Kennebunkport includes the constituent villages of Kennebunkport Village, Cape Arundel & Colony Beach, the Cottage Coast, Wilde's District (Wildwood), Goose Rocks Beach, Turbatts Creek, Cape Porpoise Village, North Village Crossing (Townhouse Corner), among various other newer developments. The town is the home of Walker's Point, a summer estate of the Bush family.\n\nKennebunkport and neighboring towns Kennebunk and Arundel comprise school district RSU 21.\n\nThe Kennebunkport Christmas Prelude takes place annually in the town, beginning either in late November or early December.",
+        "response": "Kennebunkport is located in York County, Maine and is neighbored by the towns of Kennebunk and Arundel.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2063,
+        "instruction": "Given this paragraph about ESPN's SportsCenter in 2009, in what west coast city did ESPN begin producing it's 1:00 a.m. Eastern Time edition of SportsCenter?",
+        "context": "On April 6, 2009 (starting with the 9:00 a.m. to 12:00 p.m. Eastern Time edition, which was anchored by Hannah Storm and Sage Steele), SportsCenter debuted a new graphics package that saw the \"rundown\" graphic \u2013 shown during the daytime editions \u2013 being shifted to the left side of the screen. On that same date, SportsCenter began producing its 1:00 a.m. Eastern Time edition of SportsCenter live from ESPN's production facilities in the newly constructed L.A. Live complex (just across from the Staples Center) in Los Angeles. The set is virtually identical to the setup at the main facilities in Bristol, and the late-night West Coast broadcast would be produced as simply another edition of the program. Neil Everett and Stan Verrett were appointed as the primary anchors for the Los Angeles-based editions of SportsCenter. A new BottomLine ticker was also unveiled that day on four of the five ESPN networks (ESPN, ESPN2, ESPN Classic and ESPNU); the redesigned ticker was quickly dropped, reverting to the old BottomLine design \u2013 which had been in use since April 2003 \u2013 due to an equipment failure (however, this ticker was operational for the 2009 NFL Draft and the 2009 NBA draft). After technical issues with the revamped BottomLine were fixed, the new BottomLine was reinstated on July 8.",
+        "response": "Los Angeles is the west coast city that ESPN began producing it's 1:00 a.m. Eastern Time edition of SportsCenter.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 48,
+        "instruction": "Given a reference text about Run Towards the Danger, tell me how many essays are part of the collection.",
+        "context": "Run Towards the Danger is a 2022 Canadian essay collection by Sarah Polley, a former child star, director, and screenwriter.\n\nThe six essays in the collection examine aspects of Polley's career on stage, screen, and on film detailing her roles in a Stratford Festival production of Alice Through the Looking Glass, as well as her breakout roles in The Adventures of Baron Munchausen and the TV series Road to Avonlea. The book also revealed for the first time that Polley had been a victim of Jian Ghomeshi who sexually and physically assaulted her when she was 16 and he was 28.",
+        "response": "Six essays are part of the Run Towards the Danger essay collection.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1007,
+        "instruction": "Based on the reference text about the Tampa Bay Rays, what is the name of their stadium and who are their main rivals?",
+        "context": "The Tampa Bay Rays are an American professional baseball team based in St. Petersburg, Florida. The Rays compete in Major League Baseball (MLB) as a member club of the American League (AL) East division. Since its inception, the team's home venue has been Tropicana Field.\n\nFollowing nearly three decades of unsuccessfully trying to gain an expansion franchise or enticing existing teams to relocate to the Tampa Bay area, an ownership group led by Vince Naimoli was approved on March 9, 1995. The team began play as the Tampa Bay Devil Rays in the 1998 Major League Baseball season.\n\nThe team's first decade of play was marked by futility; they finished in last place in the AL East in all but the 2004 season, when they finished second to last. Following the 2007 season, Stuart Sternberg, who had purchased controlling interest in the team from Vince Naimoli two years earlier, changed the team's name from \"Devil Rays\" to \"Rays\", now meaning both a manta ray and a ray of sunshine; a manta ray logo appears on the uniform sleeves while a sunburst appears on the uniform front. The 2008 season saw the Rays post their first winning season, their first AL East championship, and their first American League pennant (defeating the rival Boston Red Sox in the ALCS), though they lost to the Philadelphia Phillies in that year's World Series. Since then, the Rays have played in the postseason seven more times, winning the American League pennant again in 2020 and losing to the Los Angeles Dodgers in that year's World Series.\n\nThe Tampa Bay Rays' chief rivals are the Boston Red Sox and the New York Yankees, which also play in the AL East. Regarding the former, there have been several notable on-field incidents. The Rays also have an in-state interleague rivalry with the National League (NL)'s Miami Marlins (originally the Florida Marlins), whom they play in the Citrus Series.\n\nThrough 2022, the Rays' all-time record is 1,912\u20132,034 (.485)",
+        "response": "The name of the Tampa Bay Rays stadium is Tropicana Field and their main rivals are the Boston Red Sox and New York Yankees.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 23,
+        "instruction": "When was the first Reading railway station opened?",
+        "context": "Reading railway station is a major transport hub in Reading, Berkshire, England. It is on the northern edge of the town centre, near the main retail and commercial areas and the River Thames, 36 miles (58 km) from London Paddington. The first Reading station was opened on 30 March 1840 as the temporary western terminus of the original line of the Great Western Railway (GWR). Reading is the ninth-busiest station in the UK outside London and the second busiest interchange station outside London with over 3.8 million passengers changing trains at the station annually.",
+        "response": "The first Reading railway station was opened on the 30th of March, 1840.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 1689,
+        "instruction": "Given the reference text about Karl Marx, tell me when he died, what subjects he studied and at which universities he studied.",
+        "context": "Karl Heinrich Marx FRSA (German: [ma\u0281ks]; 5 May 1818 \u2013 14 March 1883) was a German philosopher, economist, historian, sociologist, political theorist, journalist, critic of political economy, and socialist revolutionary. His best-known titles are the 1848 pamphlet The Communist Manifesto and the four-volume Das Kapital (1867\u20131883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic, and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nBorn in Trier, Germany, Marx studied law and philosophy at the universities of Bonn and Berlin. He married German theatre critic and political activist Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German philosopher Friedrich Engels and publish his writings, researching in the British Museum Reading Room.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages. Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that these tensions would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism\u2014owing in part to its instability and crisis-prone nature\u2014would eventuate the working class's development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers. Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.\n\nMarx has been described as one of the most influential figures in human history, and his work has been both lauded and criticised. His work in economics laid the basis for some current theories about labour and its relation to capital. Many intellectuals, labour unions, artists, and political parties worldwide have been influenced by Marx's work, often modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.",
+        "response": "Karl Marx studied law and philosophy at the universities of Bonn and Berlin. He died on March 14 1883.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2525,
+        "instruction": "What is the Maurice Richard Trophy",
+        "context": "The Maurice \"Rocket\" Richard Trophy, also known as the Rocket Richard Trophy, is awarded annually to the leading goal scorer in the National Hockey League (NHL). It was donated to the NHL by the Montreal Canadiens in 1998\u201399 and is named in honour of legendary Montreal Canadiens right winger Maurice \"Rocket\" Richard. First won by Teemu Selanne, it is currently held by Auston Matthews, who scored 60 goals during the 2021\u201322 NHL season.",
+        "response": "The Maurice \"Rocket\" Richard Trophy, also known as the Rocket Richard Trophy, is awarded annually to the leading goal scorer in the National Hockey League (NHL). It was donated to the NHL by the Montreal Canadiens in 1998\u201399 and is named in honour of legendary Montreal Canadiens right winger Maurice \"Rocket\" Richard. \n\nFirst won by Teemu Selanne, it is currently held by Auston Matthews, who scored 60 goals during the 2021\u201322 NHL season.",
+        "category": "closed_qa"
+    },
+    {
+        "id": 2948,
+        "instruction": "What 5-letter word spelt in all capital letters can be read the exact same upside down?",
+        "context": "",
+        "response": "SWIMS",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1834,
+        "instruction": "Give me a list of the 8 best west coast oysters",
+        "context": "",
+        "response": "- Kumamoto \u2013 Washington\n- Kusshi \u2013 British Colombia\n- Baynes Sound \u2013 British Colombia\n- Fanny Bay \u2013 British Colombia\n- Drakes Bay \u2013 California\n- Miyagis \u2013 British Colombia\n- Marin Coast \u2013 California\n- Hog Island \u2013 California",
+        "category": "brainstorming"
+    },
+    {
+        "id": 2027,
+        "instruction": "Who are some of the best guitarists of all time?",
+        "context": "",
+        "response": "Jimi Hendrix\nDuane Allman\nB.B. King\nEric Clapton\nRobert Johnson\nChuck Berry\nStevie Ray Vaughan\nRy Cooder\nJimmy Page\nKeith Richards\nKirk Hammett\nKurt Cobain\nJerry Garcia\nJeff Beck\nCarlos Santana\nJohnny Ramone\nJack White\nJohn Frusciante\nRichard Thompson\nJames Burton\nGeorge Harrison\nMike Bloomfield\nWarren Haynes\nThe Edge\nFreddie King\nTom Morello\nMark Knopfler\nStephen Stills\nRon Asheton\nBuddy Guy\nDick Dale\nJohn Cipollina\nLee Ranaldo\nThurston Moore\nJohn Fahey\nSteve Cropper\nBo Diddley\nPeter Green\nBrian May\nJohn Fogerty\nClarence White\nRobert Fripp\nEddie Hazel\nScotty Moore\nFrank Zappa\nLes Paul\nT-Bone Walker\nJoe Perry\nJohn McLaughlin\nPete Townshend\nPaul Kossoff\nLou Reed\nMickey Baker\nJorma Kaukonen\nRitchie Blackmore\nTom Verlaine\nRoy Buchanan\nDickey Betts\nJonny Greenwood\nEd O'Brien\nIke Turner\nZoot Horn Rollo\nDanny Gatton\nMick Ronson\nHubert Sumlin\nVernon Reid\nLink Wray\nJerry Miller\nSteve Howe\nEddie Van Halen\nLightnin' Hopkins\nJoni Mitchell\nTrey Anastasio\nJohnny Winter\nAdam Jones\nAli Farka Toure\nHenry Vestine\nRobbie Robertson\nCliff Gallup\nRobert Quine\nDerek Trucks\nDavid Gilmour\nNeil Young\nEddie Cochran\nRandy Rhoads\nTony Iommi\nJoan Jett\nDave Davies\nD Boon\nGlen Buxton\nRobby Krieger\nFred \"Sonic\" Smith\nWayne Kramer\nBert Jansch\nKevin Shields\nAngus Young\nRobert Randolph\nLeigh Stephens\nGreg Ginn\nKim Thayil",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1198,
+        "instruction": "Come up with gift ideas for your girlfriend",
+        "context": "",
+        "response": "Here are some possible gift ideas for girlfriend\n* romantic date\n* flowers\n* plushies\n* shoes\n* clothing\nTo make a good gift, think of things that your girlfriend likes most. You should customize your gift based on her interests.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 4624,
+        "instruction": "Tell me about the most amazing trip an American could take.",
+        "context": "",
+        "response": "Many Americans could experience amazing trips from just traveling within the United States. However, the most amazing trip might consist of traveling outside the United States and heading to a country they have never been to. For instance, a trip to Thailand in Asia or Spain in Europe might make for an amazing experience due to being able to experience new cultures, see completely new sites, and taste incredible local cuisines.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1080,
+        "instruction": "What is a useful set of criteria to use when determining who has a lot of leadership potential in my team?",
+        "context": "",
+        "response": "1.  Aspiration. Does this person have a high degree of aspiration when compared to their peers?  It takes a lot of risk and a lot of work to step up and grow into larger leadership responsibilities.  Thus, it is important that a person has the desire to take that risk and to put in the work needed.  \n\n2. Capabilities.  Has this person demonstrated uniquely strong leadership abilities, particularly in creating vision, setting strategy, and building great teams? Do they have a track record of setting direction and rallying followership?  Are they a fast learner, quickly ramping to full performance when put in unfamiliar and increasingly more difficult jobs? Do they distinguish themselves as a thought leader, especially in ambiguous situations? Do they display high amounts of self-awareness and empathy, achieving results in a way that builds and strengthens relationships/\n\n3. Commitment and courage.  Does the person have sufficient tenure, have they demonstrated a long-term commitment to the organization?  Are they highly engaged? Do they help to engage and develop others?  Do they have a track record of accomplishing impressive results oriented to the total organization\u2019s results, not just their own job or silo? Have they demonstrated the tendency to take on tough, important assignments in difficult environments that broaden their experience?  Do they have a track-record of rapid career progression into the larger more complex jobs every few years?",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1497,
+        "instruction": "Give me a list of the Western States in the United States of America.",
+        "context": "",
+        "response": "The eleven Western United States are Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 1244,
+        "instruction": "Give a list of the different kinds of fire trucks that exist.",
+        "context": "",
+        "response": "How firefighting trucks and equipment are classified varies from country to country but in the United States there are a few general categories of fire trucks. Fire Engines are what most people think of when they think of a fire truck. It has a combination of hoses, ladders, and other equipment but also carries several hundred gallons of water and has a built in pump to feed that hoses from it's internal tank or from a hydrant. There are Ladder Trucks which typically have a large extending ladder on top. These may or may not carry water but also generally have a built in pump to feed water to the nozzle attached to the ladder. There are Rescue Trucks which typically have specialized equipment for unique rescue situations such as confined space, vehicle extrication, or collapsed building rescue. These typically don't carry water or pumps but there are a few jurisdictions that have Rescue Engines that blend these two. There are also Tanker trucks that carry large amounts of water to areas where there are no hydrants and they typically do not have their own pumps or hoses. They serve primarily as a water supply to other trucks.",
+        "category": "brainstorming"
+    },
+    {
+        "id": 2366,
+        "instruction": "What are a few uses of pot (THC) gummies?",
+        "context": "",
+        "response": "-Gummies are used medicinally for patients to cope with chronic pain\n-Gummies are used to self-medicate as a way to treat mental health issues such as depression and anxiety\n-Gummies are used to prevent seizures\n-Gummies are also used for fun, similar to how people use alcohol",
+        "category": "brainstorming"
+    },
+    {
+        "id": 2943,
+        "instruction": "List reputable Universities in San Diego",
+        "context": "",
+        "response": "1. San Diego State University \n2. University California San Diego\n3. University of San Diego\n4. San Marcos State University \n5. Point Loma Nazarene University",
+        "category": "brainstorming"
+    }
+]

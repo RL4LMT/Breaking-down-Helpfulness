@@ -4,8 +4,8 @@ PATH = "../../data/"
 FILES = [
     "databricks-dolly-1500_darja.json",
     "databricks-dolly-1500_giulioc.json",
-    "databricks-dolly-1500_part2.json",
-    "databricks-dolly-1500_part5.json",
+    "databricks-dolly-1500_kristin.json",
+    "databricks-dolly-1500_giuliop.json",
     "databricks-dolly-1500_zhuge.json"
 ]
 
