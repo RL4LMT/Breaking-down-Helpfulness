@@ -1,7 +1,7 @@
 We defined the following R function:
 
 ```R
-plot_data <- function(file) {
+plot_all <- function(file) {
   dat = read.csv(file, header=TRUE)
   layout(matrix(1:12, ncol=3))
   for (cat in c("closed_qa","summarization","brainstorming")) {
