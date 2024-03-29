@@ -1,12 +1,22 @@
 import csv, json, re
 
-PATH = "../../annotation/"
+# PATH = "../../annotation/"
+PATH = "annotation/"
+
+# FILES = [
+#     "databricks-dolly-1500_darja.csv",
+#     "databricks-dolly-1500_giulioc.csv",
+#     "databricks-dolly-1500_giuliop.csv",
+#     "databricks-dolly-1500_kristin.csv",
+#     "databricks-dolly-1500_zhuge.csv"
+# ]
+
 FILES = [
-    "databricks-dolly-1500_darja.csv",
-    "databricks-dolly-1500_giulioc.csv",
-    "databricks-dolly-1500_giuliop.csv",
-    "databricks-dolly-1500_kristin.csv",
-    "databricks-dolly-1500_zhuge.csv"
+    "llama13bchat_responses_databricks-dolly-30_darja.csv",
+    "llama13bchat_responses_databricks-dolly-30_giulioc.csv",
+    "llama13bchat_responses_databricks-dolly-30_giuliop.csv",
+    "llama13bchat_responses_databricks-dolly-30_kristin.csv",
+    "llama13bchat_responses_databricks-dolly-30_zhuge.csv",
 ]
 
 merged_annotation = []
@@ -19,9 +29,10 @@ for file in FILES:
                 merged_annotation.append(entry)
 
 annotation = sorted(merged_annotation, key=lambda x: int(x[0]))    
-    
+
 # Retrieve type task and add as column
 data = json.load(open("merged_data_1500.json"))
+
 
 for datapoint in annotation:
     id = int(datapoint[0])
@@ -29,7 +40,11 @@ for datapoint in annotation:
         if entry["id"] == id:
              datapoint.append(entry["category"])
              break
-        
-with open("merged_annotation_"+str(len(annotation))+".csv", "w", encoding="utf-8") as out_file:
+
+# with open("merged_annotation_"+str(len(annotation))+".csv", "w", encoding="utf-8") as out_file:
+    
+#     csv.writer(out_file, lineterminator="\n").writerows([["id","structure","informativity","on-topic","correctness","category"]]+annotation)
+
+with open("merged_llama_annotation_"+str(len(annotation))+".csv", "w", encoding="utf-8") as out_file:
     
     csv.writer(out_file, lineterminator="\n").writerows([["id","structure","informativity","on-topic","correctness","category"]]+annotation)
