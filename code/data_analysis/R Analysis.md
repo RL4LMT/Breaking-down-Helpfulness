@@ -4,8 +4,8 @@ We defined the following R function:
 plot_data <- function(file) {
   dat = read.csv(file, header=TRUE)
   layout(matrix(1:12, ncol=3))
-  for (cat in categories) {
-    for (comp in components) {
+  for (cat in c("closed_qa","summarization","brainstorming")) {
+    for (comp in c("structure","informativity","on.topic","correctness")) {
       dat_tmp = subset(dat, category == cat)[,comp]
       barplot(table(dat_tmp))
 }}}
