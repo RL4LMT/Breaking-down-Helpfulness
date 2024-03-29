@@ -1,6 +1,6 @@
 120: how are we evaluating summarization? There is info present
 in the asnwer that was not in the context...
-4554, 3167, 25: hallucinating info
+4554, 3167, 25, 2940, 3085, 2906 (!): hallucinating info
 2305, 3141, 1029: summary significantly longer than the context
 2222, 3092: prompt is to "extract SOME details", so there is no correct answer, in a sense, that we can select
 different details
@@ -11,9 +11,19 @@ different details
 4514: defect
 3213: don't read it, just scan it
 953: question not really for summarization. Hence, not really answered
-918, 3641, 3600, 586, 2503, 118: but this feels more like summarization than qa
+918, 3641, 3600, 586, 2503, 118, 89, 1690: but this feels more like summarization than qa
 "given a reference text"
 1291: too long
 902: isn't it too cruel to be in the dataset??
 1122: it seems that context+response form one splitted asnwer... Summarization, really?
-
+751: context and response switched
+1809: ungrammatical question
+52: this is rude and inappropriate, I guess
+2452: again- provide SOME info -> no correct answer
+1768: [citation needed] ???
+197: theoretically it might be wise to advice a person to seek psychological help, if necessary
+2296: context seems to be lacking the beginning
+937б 1082б 394, 4508: just copies over the context, does not summarize anything (or almost)
+3263: total hallucination. maybe fine for qa?
+660: homour again. Helpful or not?
+1078: unethical suggestions
