@@ -1,6 +1,6 @@
 # Breaking down Helpfulness
 
-## Team
+## Authors
 - 9 ECTS (graded):
     - **Ching Nei Pun**, **Giulio Posfortunati**, **Zhuge Gao**.
 - 6 ECTS (ungraded):
