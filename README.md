@@ -8,7 +8,7 @@
  
 ## Paper
 
-- [Overleaf](https://www.overleaf.com/4611587371hzytswpgnbqr#9e46d5) (do not share this link)
+- [Overleaf](https://www.overleaf.com/read/mhfzrvjzzfrv#e2b764)
 
 ## Weekly meeting
 
