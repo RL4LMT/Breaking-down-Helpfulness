@@ -3,14 +3,13 @@ import pandas as pd
 from statsmodels.stats import inter_rater as irr
 from tabulate import tabulate
 
-n = 50
+n = 60
 names = ["darja","giulioc","giuliop","kristin","zhuge"]
 annotators = {}
 for name in names:
-    annotators[name.capitalize()] = pd.read_csv(filepath_or_buffer=f"../annotation/databricks-dolly-60-{name}.csv", usecols=lambda column: not column.endswith('_relevance') and column != 'id').replace({2: 1, 3: 4}).fillna(0).astype(int)[:n]
+    annotators[name.capitalize()] = pd.read_csv(filepath_or_buffer=f"../annotation/databricks-dolly-60-{name}.csv", usecols=lambda column: not column.endswith('_relevance') and column != 'id').fillna(0).astype(int)[:n]
 
 gen_kappa_values = {}
-
 # Cohen's kappa values for each pair of annotators
 for annotator1, df1 in annotators.items():
     for annotator2, df2 in annotators.items():        
@@ -18,7 +17,7 @@ for annotator1, df1 in annotators.items():
         kappa = irr.cohens_kappa(table, return_results=False)
         gen_kappa_values[annotator1, annotator2] = kappa
 
-# Table representattion 
+# table representtation 
 headers = ["General_Agreement", "Darja", "Giulioc", "Giuliop", "Kristin", "Zhuge"]
 data = []
 for annotator1 in annotators.keys():
@@ -32,8 +31,6 @@ print(tabulate(data, headers=headers, tablefmt="grid"))
 lower_triangle = np.tril([[gen_kappa_values[(a1, a2)] for a2 in annotators.keys()] for a1 in annotators.keys()],-1)
 mean_kappa = np.mean(lower_triangle[np.nonzero(lower_triangle)])
 print(f'Mean: {mean_kappa}')
-
-
 
 score = {}
 # perform crosstab between two columns from the DataFrames
