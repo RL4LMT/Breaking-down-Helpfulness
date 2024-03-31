@@ -1,4 +1,4 @@
-# RL 4 LMT - Term Project
+# Breaking down Helpfulness
 
 ## Team
 - 9 ECTS (graded):
@@ -8,14 +8,16 @@
  
 ## Paper
 
-- [Overleaf](https://www.overleaf.com/read/mhfzrvjzzfrv#e2b764)
+- [Breaking down Helpfulness: do LLMs react to different types of instructions as well as Humans?
+](https://www.overleaf.com/read/mhfzrvjzzfrv#e2b764)
 
-## Weekly meeting
+## Guide
 
-| when  | where |
-| --- | -- |
-| Thursdays 17:30 | [Zoom](https://zoom.us/j/4045113194) |
+In this repository you will find the data and code used in our work about Breaking down Helpfulness for LLMs:
 
-## Tasks
+- [`data`](https://github.com/RL4LMT/Breaking-down-Helpfulness/tree/main/data) contains different splits of the `dolly-databricks-15k` dataset used in the study, together with our own IDs*.
+- [`annotation`](https://github.com/RL4LMT/Breaking-down-Helpfulness/tree/main/annotation) contains the annotated data (CSV) used for the study, mapped through our IDs.
+- [`code`](https://github.com/RL4LMT/Breaking-down-Helpfulness/tree/main/code) contains some data wrangling scripts as well as the R functions used for the statistical analysis and plots. It also includes the code to calculate inter-annotator agreement.
+- [`figures`](https://github.com/RL4LMT/Breaking-down-Helpfulness/tree/main/figures) contains the R-generated PDFs with the plots, and PNG files where those figures were further edited.
 
-Use the [Issues](https://github.com/RL4LMT/Project/issues) page as a to-do list. Please use labels (`task`, `bug`...) when creating a new issue. If nobody has taken on a task yet, you can do so by assigning yourself to it. You can also join other people and share the same task.
+* IDs mentioned in the paper do not correspond to these but to the entry number in the original dataset.
